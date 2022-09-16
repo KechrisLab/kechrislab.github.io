@@ -29,10 +29,11 @@ determinants of diabetes and obesity in children.
 {%
   include link.html
   link="research"
-  text="See what I've worked on"
+  text="Publications"
   icon="fas fa-arrow-right"
   flip=true
 %}
+
 {:.center}
 {% endcapture %}
 
@@ -40,30 +41,26 @@ determinants of diabetes and obesity in children.
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Publications"
+  title=""
   text=text
 %}
 
-{% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="research"
+  text="My Background"
   icon="fas fa-arrow-right"
   flip=true
 %}
+
 {:.center}
 {% endcapture %}
 
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
+  link="research"
+  title=""
   text=text
 %}
 
@@ -87,6 +84,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+{% capture text %}
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{%
+  include link.html
+  link="tools"
+  text="Browse our softwares"
+  icon="fas fa-arrow-right"
+  flip=true
+%}
+{:.center}
+{% endcapture %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
