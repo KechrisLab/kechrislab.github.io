@@ -6,14 +6,13 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image=["images/dna-ancestry_2502064k.jpg"](https://github.com/kechrisk/KechrisLabWebsite/blob/e417bb39c9037f482da6fbd90814d7b3e28db1fe/images/dna-ancestry_2502064k.jpg) %}
+{% include banner.html image= "https://github.com/kechrisk/KechrisLabWebsite/blob/e417bb39c9037f482da6fbd90814d7b3e28db1fe/images/dna-ancestry_2502064k.jpg" %}
 
 {% include section.html %}
 
 # RESEARCH
 
 {% capture text %}
-
 My research focuses on the development and application of statistical methods for analyzing -omics data 
 sets from high throughput technologies. I have several focus areas:
 
@@ -25,28 +24,11 @@ sets from high throughput technologies. I have several focus areas:
 I collaborate with investigators studying chronic obstructive pulmonary 
 disease in the COPDGene genetic epidemiology study, substance use disorders using animal models, and early life 
 determinants of diabetes and obesity in children.
-
-{%
-  include link.html
-  link="research"
-  text="Publications"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-
 {:.center}
 {% endcapture %}
 
 {% capture text %}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title=""
-  text=text
-%}
 
 {%
   include link.html
@@ -102,5 +84,10 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {:.center}
 {% endcapture %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="tools"
+  title="Our tools"
+  text=text
+%}
