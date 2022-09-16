@@ -37,6 +37,9 @@ determinants of diabetes and obesity in children.
 {:.center}
 {% endcapture %}
 
+{% capture text %}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
 {%
   include feature.html
   image="images/photo.jpg"
