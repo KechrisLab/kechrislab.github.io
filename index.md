@@ -6,11 +6,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/dna-ancestry_2502064k.jpg" %}
-
 {% include banner.html image=["images/dna-ancestry_2502064k.jpg"](https://github.com/kechrisk/KechrisLabWebsite/blob/e417bb39c9037f482da6fbd90814d7b3e28db1fe/images/dna-ancestry_2502064k.jpg) %}
-
-
 
 {% include section.html %}
 
