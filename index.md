@@ -6,12 +6,13 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image= "https://github.com/kechrisk/KechrisLabWebsite/blob/e417bb39c9037f482da6fbd90814d7b3e28db1fe/images/dna-ancestry_2502064k.jpg" %}
+{% include banner.html image= "images/dna-ancestry_2502064k.jpg" %}
 
 {% include section.html %}
 
 
 # RESEARCH
+
 {% capture text %}
 My research focuses on the development and application of statistical methods for analyzing -omics data 
 sets from high throughput technologies. I have several focus areas:
@@ -25,6 +26,7 @@ I collaborate with investigators studying chronic obstructive pulmonary
 disease in the COPDGene genetic epidemiology study, substance use disorders using animal models, and early life 
 determinants of diabetes and obesity in children.
 {:.center}
+
 {% endcapture %}
 
 {%
