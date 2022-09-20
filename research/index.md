@@ -21,12 +21,12 @@ nav:
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation"%}
 
 # this is me 
 {%
   include citation.html
-  lookup="doi:10.1016/j.csbj.2020.05.017"
+  lookup="pmc:PMC8540572"
   style="rich"
 %}
 
