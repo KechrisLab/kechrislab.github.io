@@ -46,9 +46,11 @@ sets from high throughput technologies. I have several focus areas:
 disease in the COPDGene genetic epidemiology study, substance use disorders using animal models, and early life 
 determinants of diabetes and obesity in children.
 
+[a relative link](https://github.com/kechrisk/KechrisLabWebsite/blob/main/research/index.md)](research/index.md)
+
 {%
   include link.html
-  link="https://github.com/kechrisk/KechrisLabWebsite/blob/main/research/index.md"
+  link="[a relative link](https://github.com/kechrisk/KechrisLabWebsite/blob/main/research/index.md)](research/index.md)"
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
