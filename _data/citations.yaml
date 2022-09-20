@@ -65,3 +65,14 @@
     link: https://github.com/greenelab/scihub
     text: Analyses source
   _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+- id: pmc:PMC8540572
+  title: 'MSCAT: A Machine Learning Assisted Catalog of Metabolomics Software Tools'
+  authors:
+  - Jonathan Dekermanjian
+  - Wladimir Labeikovsky
+  - Debashis Ghosh
+  - Katerina Kechris
+  publisher: Metabolites
+  date: '2021-10-02'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540572/
+  _cache: 3aad1c8dd562b6ca9f83b7ee48f0c3188fa8cf66053918cd9bd73e5877a93c41
