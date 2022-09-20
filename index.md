@@ -91,6 +91,7 @@ determinants of diabetes and obesity in children.
 {% capture text %}
 
 Section about the classes taught by Katerina Kechris
+
 {%
   include link.html
   link="teaching"
@@ -135,6 +136,7 @@ Tools produced by the Kechris lab
 {% capture text %}
 
 Section about the group members
+
 {%
   include link.html
   link="team"
@@ -155,6 +157,7 @@ Section about the group members
 
 {% capture text %}
 Section about the past and present grants for kechris lab
+
 {%
   include link.html
   link="grants"
