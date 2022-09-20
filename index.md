@@ -35,10 +35,14 @@ Spend less time reinventing the wheel, and more time running your lab.
 
 {% capture text %}
 My research focuses on the development and application of statistical methods for analyzing -omics data 
-sets from high throughput technologies. I have several focus areas: (1) analyzing transcription factor 
-binding and miRNA data to study the regulation of transcription and post-transcriptional processing, (2) 
-examining the genetic and epigenetic factors controlling gene expression, (3) exploring the metabolome and 
-(4) integrating multiple omics data. I collaborate with investigators studying chronic obstructive pulmonary 
+sets from high throughput technologies. I have several focus areas:
+
+1. Analyzing transcription factor binding and miRNA data to study the regulation of transcription and post-transcriptional processing,
+2. Examining the genetic and epigenetic factors controlling gene expression, 
+3. Exploring the metabolome and 
+4. Integrating multiple omics data.
+
+ I collaborate with investigators studying chronic obstructive pulmonary 
 disease in the COPDGene genetic epidemiology study, substance use disorders using animal models, and early life 
 determinants of diabetes and obesity in children.
 
