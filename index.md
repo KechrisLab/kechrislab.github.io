@@ -98,7 +98,7 @@ Section about the classes taught by Katerina Kechris
 
 {%
   include link.html
-  link="teaching"
+  link="https://kechrisk.github.io/KechrisLabWebsite/teaching"
   text="Teaching"
   icon="fas fa-arrow-right"
   flip=true
