@@ -29,7 +29,7 @@ nav:
 ### Other students
 
 
-### Researcn Assistants
+### Research Assistants
 
 
 {% comment %}
