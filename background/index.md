@@ -13,16 +13,13 @@ footer-dark: false
 
 # EDUCATION 
 
-{% capture text%}
 + University of California Berkeley, Ph.D., Statistics, 2003
 + University of California Berkeley, M.A., Statistics, 1999
 + University of California Los Angeles, B.S., Applied Mathematics (summa cum laude), 1997
-{% endcapture %}
 
 
 # POSITION
 
-{% capture text %}
 Professor
 Associate Professor
 Assistant Professor
@@ -53,5 +50,4 @@ University of California Berkeley
 
 Research Assistant
 Department of Statistics
-University of California Los Angeles
-{% endcapture %} 
+University of California Los Angeles 
