@@ -143,7 +143,7 @@ Section about the group members
 
 {%
   include link.html
-  link="team"
+  link="https://kechrisk.github.io/KechrisLabWebsite/team"
   text="Meet our team"
   icon="fas fa-arrow-right"
   flip=true
