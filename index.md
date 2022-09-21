@@ -164,8 +164,8 @@ Section about the past and present grants for kechris lab
 
 {%
   include link.html
-  link="grants"
-  text="Current and previous Grants"
+  link="https://kechrisk.github.io/KechrisLabWebsite/tool"
+  text="Current Grants"
   icon="fas fa-arrow-right"
   flip=true
 %}
