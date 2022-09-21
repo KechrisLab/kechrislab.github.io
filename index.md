@@ -120,7 +120,7 @@ Tools produced by the Kechris lab
 
 {%
   include link.html
-  link="tools"
+  link="https://kechrisk.github.io/KechrisLabWebsite/tool"
   text="Browse our tools"
   icon="fas fa-arrow-right"
   flip=true
