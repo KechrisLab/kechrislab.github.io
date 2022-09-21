@@ -5,45 +5,35 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# <i class="fas fa-users"></i>KECHRIS GROUP MEMBERS
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Thao Vu, PhD Post-doctoral Fellow (2020- )
++ Souvik Seal, PhD Post-doctoral Fellow (2020- )
++ Weixuan Liu Biostatistics PhD Student (2019- )
++ Sierra Niemiec Biostatistics MS Student (2020- , with Anne Starling)
++ Erika Esquinca Biostatistics MS Student (2021- , with Randi Johnson)
++ Max McGrath Research Assistant (2019- )
++ Charles Carpenter, MS Research Assistant (2020- )
++ Suneeta Godbole, MS Research Assistant (2020- )
 
-{% include section.html %}
+## <i class="fas fa-users"></i>ALUMNI
+### Post Doctoral fellows
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: programmer"
-%}
-{:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+### PHD Students
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-{% include section.html %}
+### Master Students 
 
-## Join
 
-#### Post Dogtoral Researcher
+### Other students
+
+
+### Researcn Assistants
+
+
+{% comment %}
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -89,3 +79,5 @@ Our work is made possible by funding from several organizations.
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
 %}
+
+{% comment %}
