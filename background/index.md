@@ -18,7 +18,7 @@ footer-dark: false
 + University of California Berkeley, M.A., Statistics, 1999
 + University of California Los Angeles, B.S., Applied Mathematics (summa cum laude), 1997
 + 
-{% end capture %}
+{% endcapture %}
 
 
 # POSITION
@@ -58,4 +58,4 @@ Research Assistant
 Department of Statistics
 University of California Los Angeles
 
-{% end capture %} 
+{% endcapture %} 
