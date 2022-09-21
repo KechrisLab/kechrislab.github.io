@@ -75,7 +75,5 @@
   publisher: Metabolites
   date: '2021-10-02'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540572/
-  _cache: 3aad1c8dd562b6ca9f83b7ee48f0c3188fa8cf66053918cd9bd73e5877a93c41
-- publisher: Metabolites. 11(10)-678
-  _cache: 0dc8fbe7c4c0f6f06dd4c2b62e8c5cb296dfb838d3cc5bfc0806b02e2477f2b3
-  date: 1900-1-1
+  section: 11(10)-678
+  _cache: 50ae090e02ea4185a573782bb26ed302fe8b43995cf1b55c6c7372288e36908d
