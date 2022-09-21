@@ -1,8 +1,8 @@
 ---
-title: Tools
+title: Software
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Software
 ---
 
 # <i class="fas fa-tools"></i>Tools
@@ -16,12 +16,23 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
-## Featured
+## OMICS INTEGRATION
 
 {% include list.html component="card" data="tools" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## METABOLOMICS
 
 {% include list.html component="card" data="tools" filters="group: more" style="small" %}
+
+## MICROBIOME
+
+
+## EPIGENETICS
+
+
+## TRANSCRIPTOMICS
+
+
+## TRANSCRIPTION FACTOR BINDING
