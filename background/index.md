@@ -12,19 +12,17 @@ footer-dark: false
 ---
 
 # EDUCATION 
-{% capture text%}
 
+{% capture text%}
 + University of California Berkeley, Ph.D., Statistics, 2003
 + University of California Berkeley, M.A., Statistics, 1999
 + University of California Los Angeles, B.S., Applied Mathematics (summa cum laude), 1997
-+ 
 {% endcapture %}
 
 
 # POSITION
 
 {% capture text %}
-
 Professor
 Associate Professor
 Assistant Professor
@@ -41,7 +39,6 @@ Department of Biochemistry and Biophysics
 University of California San Francisco	
 2003-2005
 
-
 NSF Graduate Research Fellow
 Department of Statistics
 University of California Berkeley	
@@ -57,5 +54,4 @@ University of California Berkeley
 Research Assistant
 Department of Statistics
 University of California Los Angeles
-
 {% endcapture %} 
