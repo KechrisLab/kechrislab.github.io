@@ -1,5 +1,5 @@
 ---
-title: Katerina J. Kechris (Background)
+title: Katerina J. Kechris
 description: Education and Positions
 nav:
   order: 3
