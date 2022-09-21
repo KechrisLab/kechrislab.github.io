@@ -14,9 +14,7 @@ footer-dark: false
 # COURSES BY KATERINA J. KECHRIS
 
 {% capture text %}
-
 + BIOS-6655 Statistical Methods for Genetic Association Studies
 + BIOS-7659/CPBS-7659 Statistical Methods in Genomics
 + BIOS-7731 Advanced Mathematical Statistics I
-
 {% endcapture %}
