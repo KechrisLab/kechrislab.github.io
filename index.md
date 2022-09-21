@@ -74,7 +74,7 @@ determinants of diabetes and obesity in children.
 
 {%
   include link.html
-  link="https://kechrisk.github.io/KechrisLabWebsite/research"
+  link="https://kechrisk.github.io/KechrisLabWebsite/background"
   text="Background"
   icon="fas fa-arrow-right"
   flip=true
