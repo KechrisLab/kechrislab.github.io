@@ -141,3 +141,32 @@
   
 - id: doi:10.1002/humu.23769
   publisher: Human Mutation. 40:1156-1171
+  
+- id: doi:10.1186/s13104-018-3418-2
+  publisher: BMC Research Notes. 11(1):296
+  
+- id: doi:10.1371/journal.pcbi.1006436
+  publisher: PLoS Computational Biology. 14(9):e1006436
+  
+- id: doi:10.1007/s12561-016-9176-6
+  publisher: Statistics in Biosciences. 10:59-85
+  
+- id: doi:10.1002/brb3.989
+  publisher: Brain and Behavior. 8:e00989
+  
+- id: doi:10.1186/s12864-018-5004-3
+  publisher: BMC Genomics. 19(1):639
+  
+- id: doi:10.1038/s41598-018-35372-w
+  publisher: Scientific Reports. 8:17132
+
+- id: doi:10.1111/dme.13604
+  publisher: Diabetic Medicine. 35(5):612-620
+  
+- id: doi:10.1093/ije/dyx190
+  publisher: International Journal of Epidemiology. 47(1):22-23
+  author: J. Felix, et al.
+  
+- id: doi:10.1111/acel.12704
+  publisher: Aging Cell. 17(1)
+  
