@@ -1,8 +1,8 @@
 ---
-title: Software
+title: Tools
 nav:
-  order: 2
-  tooltip: Software
+  order: 5
+  tooltip: Tools
 ---
 
 # <i class="fas fa-tools"></i>Tools
