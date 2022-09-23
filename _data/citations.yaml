@@ -12,3 +12,22 @@
   date: '2021-10-02'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540572/
   _cache: f6ec09c2c816c78b65386405d8fc19de3301be3b21244677a609d302391be128
+- id: doi:10.1371/journal.pone.0255337
+  title: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease
+  authors:
+  - Lucas A. Gillenwater
+  - Shahab Helmi
+  - Evan Stene
+  - Katherine A. Pratte
+  - Yonghua Zhuang
+  - Ronald P. Schuyler
+  - Leslie Lange
+  - Peter J. Castaldi
+  - Craig P. Hersh
+  - Farnoush Banaei-Kashani
+  - Russell P. Bowler
+  - Katerina J. Kechris
+  publisher: PLoS One. 16:e0255337
+  date: '2021-08-25'
+  link: https://doi.org/gqvt3q
+  _cache: 3d01239e38cbedcc9fd06a812d558511d5b4c1b144b3098a5cc3e5d32ddbbac7
