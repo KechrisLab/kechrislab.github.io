@@ -1158,3 +1158,197 @@
   date: '2017-12-07'
   link: https://doi.org/gqvv9k
   _cache: c7f16d5ea5c41e325a1744524d5e681e950a99450ace31b94b18d1f57d3828bf
+- id: doi:10.1186/s12859-017-1539-6
+  title: Model based heritability scores for high-throughput sequencing data
+  authors:
+  - Pratyaydipta Rudra
+  - W. Jenny Shi
+  - Brian Vestal
+  - Pamela H. Russell
+  - Aaron Odell
+  - Robin D. Dowell
+  - Richard A. Radcliffe
+  - Laura M. Saba
+  - Katerina Kechris
+  publisher: BMC Bioinformatics. 18:143
+  date: '2017-03-02'
+  link: https://doi.org/gqvv9s
+  _cache: 7e3adf36d7161a5ea8d155b28c438cb8f6405f65393cc16d6e65570079fe168c
+- id: doi:10.1186/s13104-016-2331-9
+  title: Differential correlation for sequencing data
+  authors:
+  - Charlotte Siska
+  - Katerina Kechris
+  publisher: BMC Research Notes. 10:54
+  date: '2017-01-19'
+  link: https://doi.org/gqvv9t
+  _cache: 643a2eac6e60a2b3e241a454bc45eb57839618604cac5c7657cae1fb8bb6e994
+- id: doi:10.1371/journal.pone.0178281
+  title: Gene and metabolite time-course response to cigarette smoking in mouse lung
+    and plasma
+  authors:
+  - Mikaela A. Miller
+  - Thomas Danhorn
+  - Charmion I. Cruickshank-Quinn
+  - Sonia M. Leach
+  - Sean Jacobson
+  - Matthew J. Strand
+  - Nichole A. Reisdorph
+  - Russell P. Bowler
+  - Irina Petrache
+  - Katerina Kechris
+  publisher: PLoS One. 12(6):e0178281
+  date: '2017-06-02'
+  link: https://doi.org/gbgqtq
+  _cache: c770047f184ff8ac0fa8faada1ffd76f103ff02f0fb9ccad420a3324aa6bc444
+- id: doi:10.1289/EHP641
+  title: 'Perfluoroalkyl Substances during Pregnancy and Offspring Weight and Adiposity
+    at Birth: Examining Mediation by Maternal Fasting Glucose in the Healthy Start
+    Study'
+  authors:
+  - Anne P. Starling
+  - John L. Adgate
+  - Richard F. Hamman
+  - Katerina Kechris
+  - Antonia M. Calafat
+  - Xiaoyun Ye
+  - Dana Dabelea
+  publisher: Environmental Health Perspectives. 125(6):067016
+  date: '2017-06-23'
+  link: https://doi.org/gbkqr8
+  _cache: 4f912756a4308171c65b5b503332bae844aa1511a4176f808ca45bbcfd3cdc4a
+- id: doi:10.1164/rccm.201607-1330OC
+  title: Biomarkers Predictive of Exacerbations in the SPIROMICS and COPDGene Cohorts
+  authors:
+  - Jason D. Keene
+  - Sean Jacobson
+  - Katerina Kechris
+  - Gregory L. Kinney
+  - Marilyn G. Foreman
+  - Claire M. Doerschuk
+  - Barry J. Make
+  - Jeffrey L. Curtis
+  - Stephen I. Rennard
+  - R. Graham Barr
+  - Eugene R. Bleecker
+  - Richard E. Kanner
+  - Eric C. Kleerup
+  - Nadia N. Hansel
+  - Prescott G. Woodruff
+  - MeiLan K. Han
+  - Robert Paine
+  - Fernando J. Martinez
+  - Russell P. Bowler
+  - "Wanda K. O\u2019Neal"
+  publisher: American Journal of Respiratory and Critical Care Medicine). 195:473-481
+  date: '2017-02-15'
+  link: https://doi.org/f9q6jj
+  _cache: ae1481ae7a20282debda6cfc3fe7011c058770eb56a24c40cd28b987f6afaf3a
+- id: 10.1038/s41598-017-05374-1
+  title: Metabolomic similarities between bronchoalveolar lavage fluid and plasma
+    in humans and mice
+  authors:
+  - Charmion Cruickshank-Quinn
+  - Roger Powell
+  - Sean Jacobson
+  - Katerina Kechris
+  - Russell P. Bowler
+  - Irina Petrache
+  - Nichole Reisdorph
+  publisher: Scientific Reports. 7(1):5108
+  date: '2017-07-11'
+  link: https://doi.org/gbndfp
+  _cache: 34004dac5a923d5e815e824f968fb864dd387f0cd8efa58caa9ce58667fde62d
+- id: 10.1186/s12931-017-0597-7
+  title: Multiple biomarkers predict disease severity, progression and mortality in
+    COPD
+  authors:
+  - Rachel L. Zemans
+  - Sean Jacobson
+  - Jason Keene
+  - Katerina Kechris
+  - Bruce E. Miller
+  - Ruth Tal-Singer
+  - Russell P. Bowler
+  publisher: Respiratory Research. 18(1):117
+  date: '2017-06-13'
+  link: https://doi.org/gbjx3q
+  _cache: 3d82578fa15405f8c600c74fef48c6472299e1e1d58e3afdc3004ab3eba9143b
+- id: 10.1038/s41598-017-03295-7
+  title: High-Risk Human Papillomavirus E7 Alters Host DNA Methylome and Represses
+    HLA-E Expression in Human Keratinocytes
+  authors:
+  - Louis Cicchini
+  - Rachel Z. Blumhagen
+  - Joseph A. Westrich
+  - Mallory E. Myers
+  - Cody J. Warren
+  - Charlotte Siska
+  - David Raben
+  - Katerina J. Kechris
+  - Dohun Pyeon
+  publisher: Scientific Reports. 7(1):3633
+  date: '2017-06-16'
+  link: https://doi.org/gbj5d2
+  _cache: fa88cba5d53033357b43e9c2617e8c3856d29e18abca0ccc8b2f707e6aba112c
+- id: doi:10.1186/s12931-017-0662-2
+  title: The value of blood cytokines and chemokines in assessing COPD
+  authors:
+  - Eric Bradford
+  - Sean Jacobson
+  - Jason Varasteh
+  - Alejandro P. Comellas
+  - Prescott Woodruff
+  - "Wanda O\u2019Neal"
+  - Dawn L. DeMeo
+  - Xingnan Li
+  - Victor Kim
+  - Michael Cho
+  - Peter J. Castaldi
+  - Craig Hersh
+  - Edwin K. Silverman
+  - James D. Crapo
+  - Katerina Kechris
+  - Russell P. Bowler
+  publisher: Respiratory Research. 18(1):180
+  date: '2017-10-24'
+  link: https://doi.org/gchw3c
+  _cache: 3a41a86f07d594d5ed0a4a4f842f5cc2ae4fb20be63cc4827efc697a9c50708d
+- id: doi:10.1371/journal.pone.0185682
+  title: Meta-analysis of peripheral blood gene expression modules for COPD phenotypes
+  authors:
+  - Dominik Reinhold
+  - Jarrett D. Morrow
+  - Sean Jacobson
+  - Junxiao Hu
+  - Benjamin Ringel
+  - Max A. Seibold
+  - Craig P. Hersh
+  - Katerina J. Kechris
+  - Russell P. Bowler
+  publisher: PLoS One. 12(10):e0185682
+  date: '2017-10-09'
+  link: https://doi.org/gb2ndm
+  _cache: d76ff8fa1d7c64b1efd40e426af7c9e70208c869dad466e1f18b47f5fb1c6bb2
+- id: doi:10.1016/j.molmet.2017.08.012
+  title: Maternal obesity alters fatty acid oxidation, AMPK activity, and associated
+    DNA methylation in mesenchymal stem cells from human infants
+  authors:
+  - Kristen E. Boyle
+  - Zachary W. Patinkin
+  - Allison L.B. Shapiro
+  - Carly Bader
+  - Lauren Vanderlinden
+  - Katerina Kechris
+  - Rachel C. Janssen
+  - Rebecca J. Ford
+  - Brennan K. Smith
+  - Gregory R. Steinberg
+  - Elizabeth J. Davidson
+  - Ivana V. Yang
+  - Dana Dabelea
+  - Jacob E. Friedman
+  publisher: Molecular Metabolism. 6(11):1503-1516
+  date: '2017-11-01'
+  link: https://doi.org/gqvv9v
+  _cache: 0b69e65aeea21d16f5e8ca08494e79ff87efacbc07ace9cb854d3999140740cf
