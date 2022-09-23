@@ -368,3 +368,267 @@
   date: '2021-01-13'
   link: https://doi.org/gqvv4w
   _cache: 93a75dcb0ec241bf9f8a3cfaaa146a4282a215479b1384f0fa76db7e57cedf1a
+- id: doi:10.1186/s12859-020-03715-y
+  title: 'MCMSeq: Bayesian hierarchical modeling of clustered and repeated measures
+    RNA sequencing experiments'
+  authors:
+  - Brian E. Vestal
+  - Camille M. Moore
+  - Elizabeth Wynn
+  - Laura Saba
+  - Tasha Fingerlin
+  - Katerina Kechris
+  publisher: BMC Bioinformatics. (1):375
+  date: '2020-08-28'
+  link: https://doi.org/ghfd89
+  _cache: a21dea9aa75c14d791cbf16e0dcb5ac7aff80862024b68061c198e4fc8997566
+- id: doi:10.3390/metabo10040124
+  title: "Identifying Protein\u2013metabolite Networks Associated with COPD Phenotypes"
+  authors:
+  - Emily Mastej
+  - Lucas Gillenwater
+  - Yonghua Zhuang
+  - Katherine A. Pratte
+  - Russell P. Bowler
+  - Katerina Kechris
+  publisher: Metabolites. 10:124
+  date: '2020-03-25'
+  link: https://doi.org/gqvv7k
+  _cache: 0475d3b6a2691eb76467020b235d7830f3546fb6414aa16fd9452509ef3bae8d
+- id: doi:10.1007/978-1-0716-0239-3_16
+  title: Predictive Modeling for Metabolomics Data
+  authors:
+  - Tusharkanti Ghosh
+  - Weiming Zhang
+  - Debashis Ghosh
+  - Katerina Kechris
+  publisher: Methods Molecular Biology. 2104:313-336
+  date: '2020-01-01'
+  link: https://doi.org/gqvv7m
+  _cache: e2d572aac8759164a56644b695904996c84cef32d59726f5aa574169cf6275c0
+- id: doi:10.1093/biostatistics/kxy078
+  title: Bayesian inference of networks across multiple sample groups and data types
+  authors:
+  - Elin Shaddox
+  - Christine B Peterson
+  - Francesco C Stingo
+  - Nicola A Hanania
+  - Charmion Cruickshank-Quinn
+  - Katerina Kechris
+  - Russell Bowler
+  - Marina Vannucci
+  publisher: Biostatistics. 21:561-576
+  date: '2018-12-26'
+  link: https://doi.org/gqvv7n
+  _cache: 3244344c98a88f138c67e8d1de47e0a83bb9c6a5a9a1b011b383c69521116bcb
+- id: doi:10.1089/nsm.2020.0009
+  title: Plasma Metabolomic Signatures of Chronic Obstructive Pulmonary Disease and
+    the Impact of Genetic Variants on Phenotype-Driven Modules
+  authors:
+  - Lucas A. Gillenwater
+  - Katherine A. Pratte
+  - Brian D. Hobbs
+  - Michael H. Cho
+  - Yonghua Zhuang
+  - Eitan Halper-Stromberg
+  - Charmion Cruickshank-Quinn
+  - Nichole Reisdorph
+  - Irina Petrache
+  - Wassim W. Labaki
+  - Wanda K. O'Neal
+  - Victor E. Ortega
+  - Dean P. Jones
+  - Karan Uppal
+  - Sean Jacobson
+  - Gregory Michelotti
+  - Christine H. Wendt
+  - Katerina J. Kechris
+  - Russell P. Bowler
+  publisher: Network and Systems Medicine. 3:159-181.
+  date: '2020-12-01'
+  link: https://doi.org/gqvv7p
+  _cache: 42f7f8219e839e77346055f49f9b112e20bae137bccac1dfd0ad2e7a2e7d2335
+- id: doi:10.1038/s41598-020-60758-0
+  title: Longitudinal DNA methylation differences precede type 1 diabetes
+  authors:
+  - Randi K. Johnson
+  - Lauren A. Vanderlinden
+  - Fran Dong
+  - Patrick M. Carry
+  - Jennifer Seifert
+  - Kathleen Waugh
+  - Hanan Shorrosh
+  - Tasha Fingerlin
+  - Brigitte I. Frohnert
+  - Ivana V. Yang
+  - Katerina Kechris
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Scientific Reports. 10:3721
+  date: '2020-02-28'
+  link: https://doi.org/gqvv7q
+  _cache: af425e12f27ee7fad24606234569e4d12ec4b4ab66f25bab16a574ded178a7d8
+- id: doi:10.1111/pedi.13085
+  title: "Metabolomics\u2010related nutrient patterns at seroconversion and risk of\
+    \ progression to type 1 diabetes"
+  authors:
+  - Randi K. Johnson
+  - Lauren A. Vanderlinden
+  - Brian C. DeFelice
+  - Ulla Uusitalo
+  - Jennifer Seifert
+  - Sili Fan
+  - Tessa Crume
+  - Oliver Fiehn
+  - Marian Rewers
+  - Katerina Kechris
+  - Jill M. Norris
+  publisher: Pediatric Diabetes. 21:1202-1209
+  date: '2020-08-09'
+  link: https://doi.org/gqvv7r
+  _cache: 81cdfaa0e24f7cda1e65632c97eb6ac2a49a7398515ef6fcc24ef85cd9891cf7
+- id: doi:10.1111/pedi.12995
+  title: "DNA methylation near the\n            <scp>\n              <i>INS</i>\n\
+    \            </scp>\n            gene is associated with\n            <scp>\n\
+    \              <i>INS</i>\n            </scp>\n            genetic variation (rs689)\
+    \ and type 1 diabetes in the Diabetes Autoimmunity Study in the Young"
+  authors:
+  - Patrick M. Carry
+  - Lauren A. Vanderlinden
+  - Randi K. Johnson
+  - Fran Dong
+  - Andrea K. Steck
+  - Brigitte I. Frohnert
+  - Marian Rewers
+  - Ivana V. Yang
+  - Katerina Kechris
+  - Jill M. Norris
+  publisher: Pediatrics Diabetes. 21:597-605
+  date: '2020-02-28'
+  link: https://doi.org/gqvv7s
+  _cache: 05ef6ba44bcd373d9cbbaab68b500bce67da0f3312f6be0ea540a0fccab3b134
+- id: doi:10.1038/s41366-020-0574-y
+  title: 'Associations between the activity of placental nutrient-sensing pathways
+    and neonatal and postnatal metabolic health: the ECHO Healthy Start cohort'
+  authors:
+  - Madeline Rose Keleher
+  - Kathryn Erickson
+  - Katerina Kechris
+  - Ivana V. Yang
+  - Dana Dabelea
+  - Jacob E. Friedman
+  - Kristen E. Boyle
+  - Thomas Jansson
+  publisher: International Journal of Obesity. 44(11):2203-2212
+  date: '2020-04-23'
+  link: https://doi.org/gqvv7t
+  _cache: 9ad296595f00d5562722cdada2d151e4381c1905fdf9bb106163cb0151a9336c
+- id: doi:10.1210/clinem/dgaa467
+  title: 'Sex-Specific Metabolite Biomarkers of NAFLD in Youth: A Prospective Study
+    in the EPOCH Cohort'
+  authors:
+  - Wei Perng
+  - Ellen C Francis
+  - Harry A Smith
+  - John Carey
+  - Dongqing Wang
+  - Katerina M Kechris
+  - Dana Dabelea
+  publisher: Journal of Clinical Endocrinology & Metabolism. 105(9):e3437-50
+  date: '2020-07-20'
+  link: https://doi.org/gqvv7v
+  _cache: 7aabdfd027ae8b4d613c7f082cf4172ce33467ac2fe2370a5095105c6cab3b64
+- id: doi:10.1007/s00125-019-05036-z
+  title: A prospective study of associations between in utero exposure to gestational
+    diabetes mellitus and metabolomic profiles during late childhood and adolescence
+  authors:
+  - Wei Perng
+  - Brandy M. Ringham
+  - Harry A. Smith
+  - Gregory Michelotti
+  - Katerina M. Kechris
+  - Dana Dabelea
+  publisher: Diabetologia. 63:296-312
+  date: '2019-11-13'
+  link: https://doi.org/gqvv7w
+  _cache: 1369f917faf7f3e2f346f684c4da2489f9ec8f71057e3c4b57c1d87796c1f856
+- id: doi:10.1289/EHP6888
+  title: 'Prenatal Exposure to Per- and Polyfluoroalkyl Substances, Umbilical Cord
+    Blood DNA Methylation, and Cardio-Metabolic Indicators in Newborns: The Healthy
+    Start Study'
+  authors:
+  - Anne P. Starling
+  - Cuining Liu
+  - Guannan Shen
+  - Ivana V. Yang
+  - Katerina Kechris
+  - Sarah J. Borengasser
+  - Kristen E. Boyle
+  - Weiming Zhang
+  - Harry A. Smith
+  - Antonia M. Calafat
+  - Richard F. Hamman
+  - John L. Adgate
+  - Dana Dabelea
+  publisher: Environmental Health Perspectives. 128(12):127014
+  date: '2020-12-01'
+  link: https://doi.org/ghr8bb
+  _cache: afdd0f9dc0c2a351c956cad4808f4adf9b6694d9a9c966385757a446c65d9c16
+- id: doi:10.1111/acer.14395
+  title: Alcohol Use Disorders Are Associated With a Unique Impact on Airway Epithelial
+    Cell Gene Expression
+  authors:
+  - Kristina L. Bailey
+  - Harry Smith
+  - Susan K. Mathai
+  - Jonathan Huber
+  - Mark Yacoub
+  - Ivana V. Yang
+  - Todd A. Wyatt
+  - Katerina Kechris
+  - Ellen L. Burnham
+  publisher: Alcoholism Clinical Experimental Research. 44(8):1571-1584
+  date: '2020-07-01'
+  link: https://doi.org/gqvv7x
+  _cache: 1bada096c1380cd494138a2b6be4a59af3b68b06e96c76460036b833054a5f26
+- id: doi:10.1371/journal.pone.0240253
+  title: Systems genetics analysis of the LXS recombinant inbred mouse strains:Genetic
+    and molecular insights into acute ethanol tolerance
+  authors:
+  - Richard A. Radcliffe
+  - Robin Dowell
+  - Aaron T. Odell
+  - Phillip A. Richmond
+  - Beth Bennett
+  - Colin Larson
+  - Katerina Kechris
+  - Laura M. Saba
+  - Pratyaydipta Rudra
+  - Shi Wen
+  publisher: PLoS One. 15(10):e0240253
+  date: '2020-10-23'
+  link: https://doi.org/gqvv7z
+  _cache: 4bbdbb181e8f6b2534dfe03b861108cf6257339b7f4e48486cca2007a325bdc6
+- id: doi:10.1371/journal.ppat.1008986
+  title: "Qualitative Differences Between the IFN\u03B1 subtypes and IFN\u03B2 Influence\
+    \ Chronic Mucosal HIV-1 Pathogenesis"
+  authors:
+  - Kejun Guo
+  - Guannan Shen
+  - Jon Kibbie
+  - Tania Gonzalez
+  - Stephanie M. Dillon
+  - Harry A. Smith
+  - Emily H. Cooper
+  - Kerry Lavender
+  - Kim J. Hasenkrug
+  - Kathrin Sutter
+  - Ulf Dittmer
+  - Miranda Kroehl
+  - Katerina Kechris
+  - Cara C. Wilson
+  - Mario L. Santiago
+  publisher: PLoS Pathogens. 16(10):e1008986
+  date: '2020-10-16'
+  link: https://doi.org/gqvv72
+  _cache: da903bf5f151369645a2d087d28b06ac19e714b26c5d246990472a380729b827
