@@ -1,14 +1,39 @@
-- id: pmc:PMC8540572
-  publisher: Metabolites. 11(10):678
-  
 - id: doi:10.1371/journal.pone.0255337
   publisher: PLoS One. 16:e0255337
 
 - id: doi:10.1371/journal.pcbi.1008986
-  publisher: PLoS Computational Biology.
+  publisher: PLoS Computational Biology.17(10):e1008986
   
 - id: pmc:PMC8540572
+  publisher: Metabolites. 11(10):678
+  
+- id: pmc:PMC8424820
   publisher: BMC Research Notes. 14(1):352
   
 - id: doi:10.1186/s12859-021-04336-9
   publisher: BMC Bioinformatics. 22(1):423
+
+- id: pmc:PMC8170128
+  publisher: Frontiers in Genetics. 12:630215
+  
+- id: doi:10.3390/mca26020040
+  publisher: Mathematical and Computational Applications. 26:40
+  
+- id: doi:10.1002/gepi.22418
+  publisher: Genetic Epidemiology. 45(6):593-603
+  
+- id: doi:10.1021/acs.analchem.0c03581
+  publisher: Analytical Chemistry. 93:1912-1923
+  
+- id: doi:10.1038/s41467-021-21894-x
+  publisher: Nature Communications. 12:1652
+  
+- id: doi:10.3389/fgene.2021.748356
+  publisher: Frontiers in Genetics. 12:748356
+
+- id: doi:10.1186/s12859-021-03967-2
+  publisher: BMC Bioinformatics. 22:41
+  
+- id: doi:10.1186/s12931-021-01686-z
+  publisher: Respiratory Research. 22:127
+  
