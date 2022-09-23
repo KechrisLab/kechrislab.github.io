@@ -187,7 +187,7 @@ Section about the past and present grants for kechris lab
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="https://kechrisk.github.io/KechrisLabWebsite/images/background.jpg"
   link="grants"
   title="Grants"
   text=text
