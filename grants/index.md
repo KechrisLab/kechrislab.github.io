@@ -2,7 +2,7 @@
 title: Grants
 description: Active Grants
 nav:
-  order: 5
+  order: 6
   tooltip: Grants
 
 header: images/header-for-this-page.jpg
