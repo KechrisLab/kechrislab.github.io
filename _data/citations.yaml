@@ -1,17 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: pmc:PMC8540572
-  title: 'MSCAT: A Machine Learning Assisted Catalog of Metabolomics Software Tools'
-  authors:
-  - Jonathan Dekermanjian
-  - Wladimir Labeikovsky
-  - Debashis Ghosh
-  - Katerina Kechris
-  publisher: Metabolites. 11(10):678
-  date: '2021-10-02'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540572/
-  _cache: f6ec09c2c816c78b65386405d8fc19de3301be3b21244677a609d302391be128
 - id: doi:10.1371/journal.pone.0255337
   title: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease
   authors:
@@ -43,10 +32,10 @@
   - Russell Bowler
   - Katerina Kechris
   - Debashis Ghosh
-  publisher: PLoS Computational Biology.
+  publisher: PLoS Computational Biology.17(10):e1008986
   date: '2021-10-22'
   link: https://doi.org/gnd9fz
-  _cache: 07fb610a82aba22873e48e2ec36a19f623eceeeee68b1ce34411ea02da6b0581
+  _cache: f473c6c4913f3cb1075c9379ead03df51632c3f8959fe0deb19a132fa5895c2b
 - id: pmc:PMC8540572
   title: 'MSCAT: A Machine Learning Assisted Catalog of Metabolomics Software Tools'
   authors:
@@ -54,10 +43,26 @@
   - Wladimir Labeikovsky
   - Debashis Ghosh
   - Katerina Kechris
-  publisher: BMC Research Notes. 14(1):352
+  publisher: Metabolites. 11(10):678
   date: '2021-10-02'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540572/
-  _cache: 064cfecf8cfedcda5fd6e1d3d2e8a8cd0a731305610d3bcfc7815169e0b66ab3
+  _cache: f6ec09c2c816c78b65386405d8fc19de3301be3b21244677a609d302391be128
+- id: pmc:PMC8424820
+  title: An effective processing pipeline for harmonizing DNA methylation data from
+    Illumina's 450K and EPIC platforms for epidemiological studies
+  authors:
+  - Lauren A Vanderlinden
+  - Randi K Johnson
+  - Patrick M Carry
+  - Fran Dong
+  - Dawn L DeMeo
+  - Ivana V Yang
+  - Jill M Norris
+  - Katerina Kechris
+  publisher: BMC Research Notes. 14(1):352
+  date: '2021-09-08'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424820/
+  _cache: 33cab447cecad99ad4820b7983a6f99ce065261a60384240038721398070cd73
 - id: doi:10.1186/s12859-021-04336-9
   title: Reproducibility of mass spectrometry based metabolomics data
   authors:
@@ -70,3 +75,147 @@
   date: '2021-09-07'
   link: https://doi.org/gqvvx2
   _cache: 9ca49a50a775d9ddad930261f0a6020d9a1edff89853f051ba868aa8c500e182
+- id: pmc:PMC8170128
+  title: Comparing Statistical Tests for Differential Network Analysis of Gene Modules
+  authors:
+  - Jaron Arbet
+  - Yaxu Zhuang
+  - Elizabeth Litkowski
+  - Laura Saba
+  - Katerina Kechris
+  publisher: Frontiers in Genetics. 12:630215
+  date: '2021-05-19'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8170128/
+  _cache: ce837a8e109f40fd04c4a71097e1cafd2b3ebf537ff5eccf3299cbdf288eaad1
+- id: doi:10.3390/mca26020040
+  title: 'Semi-Supervised Learning Using Hierarchical Mixture Models: Gene Essentiality
+    Case Study'
+  authors:
+  - Michael W. Daniels
+  - Daniel Dvorkin
+  - Rani K. Powers
+  - Katerina Kechris
+  publisher: Mathematical and Computational Applications. 26:40
+  date: '2021-05-18'
+  link: https://doi.org/gqvv2p
+  _cache: 5298913d7b880a9a618519cf8ad83262ea6da4899275bc0b452ec444a67cecd0
+- id: doi:10.1002/gepi.22418
+  title: Inverse probability weighting is an effective method to address selection
+    bias during the analysis of high dimensional data
+  authors:
+  - Patrick M. Carry
+  - Lauren A. Vanderlinden
+  - Fran Dong
+  - Teresa Buckner
+  - Elizabeth Litkowski
+  - Timothy Vigers
+  - Jill M. Norris
+  - Katerina Kechris
+  publisher: Genetic Epidemiology. 45(6):593-603
+  date: '2021-06-15'
+  link: https://doi.org/gqvv2q
+  _cache: 981a5e57e72bc72996e46c4c27117d31bc893bd4e7691713f52fe89cd0fc2776
+- id: doi:10.1021/acs.analchem.0c03581
+  title: A Practical Guide to Metabolomics Software Development
+  authors:
+  - Hui-Yin Chang
+  - Sean M. Colby
+  - Xiuxia Du
+  - Javier D. Gomez
+  - Maximilian J. Helf
+  - Katerina Kechris
+  - Christine R. Kirkpatrick
+  - Shuzhao Li
+  - Gary J. Patti
+  - Ryan S. Renslow
+  - Shankar Subramaniam
+  - Mukesh Verma
+  - Jianguo Xia
+  - Jamey D. Young
+  publisher: Analytical Chemistry. 93:1912-1923
+  date: '2021-01-19'
+  link: https://doi.org/ghxfpx
+  _cache: 25f51593726d5df98d80d0bf81e08ba7764c4c7cce356e882cd2894aff7df3ca
+- id: doi:10.1038/s41467-021-21894-x
+  title: Aptardi predicts polyadenylation sites in sample-specific transcriptomes
+    using high-throughput RNA sequencing and DNA sequence
+  authors:
+  - Ryan Lusk
+  - Evan Stene
+  - Farnoush Banaei-Kashani
+  - Boris Tabakoff
+  - Katerina Kechris
+  - Laura M. Saba
+  publisher: Nature Communications. 12:1652
+  date: '2021-03-12'
+  link: https://doi.org/gptzdp
+  _cache: 9267417dce07adf0db834fbbbce2fcbcc619421eeab11d880b04302cd9d9a02e
+- id: doi:10.3389/fgene.2021.748356
+  title: Identifying miRNA-mRNA Networks Associated With COPD Phenotypes
+  authors:
+  - Yonghua Zhuang
+  - Brian D Hobbs
+  - Craig P Hersh
+  - Katerina Kechris
+  publisher: Frontiers in Genetics. 12:748356
+  date: '2021-10-28'
+  link: https://doi.org/gqvv2r
+  _cache: e4ac66878147d25c5d62bb019ee8bb7cb724e29183692d673e560cc18e5100d5
+- id: doi:10.1186/s12859-021-03967-2
+  title: 'tidyMicro: a pipeline for microbiome data analysis and visualization using
+    the tidyverse in R'
+  authors:
+  - Charlie M. Carpenter
+  - Daniel N. Frank
+  - Kayla Williamson
+  - Jaron Arbet
+  - Brandie D. Wagner
+  - Katerina Kechris
+  - Miranda E. Kroehl
+  publisher: BMC Bioinformatics. 22:41
+  date: '2021-02-01'
+  link: https://doi.org/gmjdgv
+  _cache: b8109414ca3077d1bde50acefb2dffecb91de0f9fdacc8f62832ee6f3105973c
+- id: doi:10.1186/s12931-021-01686-z
+  title: Soluble receptor for advanced glycation end products (sRAGE) as a biomarker
+    of COPD
+  authors:
+  - Katherine A. Pratte
+  - Jeffrey L. Curtis
+  - Katerina Kechris
+  - David Couper
+  - Michael H. Cho
+  - Edwin K. Silverman
+  - Dawn L. DeMeo
+  - Frank C. Sciurba
+  - Yingze Zhang
+  - Victor E. Ortega
+  - "Wanda K. O\u2019Neal"
+  - Lucas A. Gillenwater
+  - David A. Lynch
+  - Eric A. Hoffman
+  - John D. Newell
+  - Alejandro P. Comellas
+  - Peter J. Castaldi
+  - Bruce E. Miller
+  - Simon D. Pouwels
+  - Nick H. T. ten Hacken
+  - Rainer Bischoff
+  - Frank Klont
+  - Prescott G. Woodruff
+  - Robert Paine
+  - R. Graham Barr
+  - John Hoidal
+  - Claire M. Doerschuk
+  - Jean-Paul Charbonnier
+  - Ruby Sung
+  - Nicholas Locantore
+  - John G. Yonchuk
+  - Sean Jacobson
+  - Ruth Tal-singer
+  - Debbie Merrill
+  - Russell P. Bowler
+  publisher: Respiratory Research. 22:127
+  date: '2021-04-27'
+  link: https://doi.org/gqvv2s
+  _cache: 34b61ffa9b91ee01d0c903beeb24a30166a762786cef021557f11bf1473c0a40
