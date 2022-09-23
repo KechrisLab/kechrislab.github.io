@@ -31,3 +31,42 @@
   date: '2021-08-25'
   link: https://doi.org/gqvt3q
   _cache: 3d01239e38cbedcc9fd06a812d558511d5b4c1b144b3098a5cc3e5d32ddbbac7
+- id: doi:10.1371/journal.pcbi.1008986
+  title: 'PaIRKAT: A pathway integrated regression-based kernel association test with
+    applications to metabolomics and COPD phenotypes'
+  authors:
+  - Charlie M. Carpenter
+  - Weiming Zhang
+  - Lucas Gillenwater
+  - Cameron Severn
+  - Tusharkanti Ghosh
+  - Russell Bowler
+  - Katerina Kechris
+  - Debashis Ghosh
+  publisher: PLoS Computational Biology.
+  date: '2021-10-22'
+  link: https://doi.org/gnd9fz
+  _cache: 07fb610a82aba22873e48e2ec36a19f623eceeeee68b1ce34411ea02da6b0581
+- id: pmc:PMC8540572
+  title: 'MSCAT: A Machine Learning Assisted Catalog of Metabolomics Software Tools'
+  authors:
+  - Jonathan Dekermanjian
+  - Wladimir Labeikovsky
+  - Debashis Ghosh
+  - Katerina Kechris
+  publisher: BMC Research Notes. 14(1):352
+  date: '2021-10-02'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540572/
+  _cache: 064cfecf8cfedcda5fd6e1d3d2e8a8cd0a731305610d3bcfc7815169e0b66ab3
+- id: doi:10.1186/s12859-021-04336-9
+  title: Reproducibility of mass spectrometry based metabolomics data
+  authors:
+  - Tusharkanti Ghosh
+  - Daisy Philtron
+  - Weiming Zhang
+  - Katerina Kechris
+  - Debashis Ghosh
+  publisher: BMC Bioinformatics. 22(1):423
+  date: '2021-09-07'
+  link: https://doi.org/gqvvx2
+  _cache: 9ca49a50a775d9ddad930261f0a6020d9a1edff89853f051ba868aa8c500e182
