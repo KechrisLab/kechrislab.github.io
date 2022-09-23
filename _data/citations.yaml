@@ -219,3 +219,152 @@
   date: '2021-04-27'
   link: https://doi.org/gqvv2s
   _cache: 34b61ffa9b91ee01d0c903beeb24a30166a762786cef021557f11bf1473c0a40
+- id: doi:10.3390/metabo11030161
+  title: Metabolomic Profiling Reveals Sex Specific Associations with Chronic Obstructive
+    Pulmonary Disease and Emphysema
+  authors:
+  - Lucas A. Gillenwater
+  - Katerina J. Kechris
+  - Katherine A. Pratte
+  - Nichole Reisdorph
+  - Irina Petrache
+  - Wassim W. Labaki
+  - "Wanda O\u2019Neal"
+  - Jerry A. Krishnan
+  - Victor E. Ortega
+  - Dawn L. DeMeo
+  - Russell P. Bowler
+  publisher: Metabolites. 11:161
+  date: '2021-03-11'
+  link: https://doi.org/gqvv4q
+  _cache: 7b9c2da7648688461fc79001b35f2e2e1052148bab463b47c7298445bd0b6acb
+- id: doi:10.1007/s00125-021-05457-9
+  title: 'The oxylipin profile is associated with development of type 1 diabetes:
+    the Diabetes Autoimmunity Study in the Young (DAISY)'
+  authors:
+  - Teresa Buckner
+  - Lauren A. Vanderlinden
+  - Brian C. DeFelice
+  - Patrick M. Carry
+  - Katerina Kechris
+  - Fran Dong
+  - Oliver Fiehn
+  - Brigitte I. Frohnert
+  - Michael Clare-Salzler
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Diabetologia. 64:1785-1794
+  date: '2021-04-24'
+  link: https://doi.org/gqvv4r
+  _cache: 468d5edcaf404c9bdc62a36c27f325b4ed5b2d433c31567ddfef5283441f7ddc
+- id: doi:10.2337/db20-1251
+  title: 'Phospholipid Levels at Seroconversion Are Associated With Resolution of
+    Persistent Islet Autoimmunity: The Diabetes Autoimmunity Study in the Young'
+  authors:
+  - Patrick M. Carry
+  - Lauren A. Vanderlinden
+  - Randi K. Johnson
+  - Teresa Buckner
+  - Oliver Fiehn
+  - Andrea K. Steck
+  - Katerina Kechris
+  - Ivana Yang
+  - Tasha E. Fingerlin
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Diabetes. 70(7):1592-1601
+  date: '2021-04-16'
+  link: https://doi.org/gqvv4s
+  _cache: 38c7746dec25b112fc22fc3004b4adf3a640097ff56d47eeb6eed3ca0167b17c
+- id: pmc:PMC8618577
+  title: Epigenome-Wide Association Study of Infant Feeding and DNA Methylation in
+    Infancy and Childhood in a Population at Increased Risk for Type 1 Diabetes
+  authors:
+  - Elizabeth Walker-Short
+  - Teresa Buckner
+  - Timothy Vigers
+  - Patrick Carry
+  - Lauren A Vanderlinden
+  - Fran Dong
+  - Randi K Johnson
+  - Ivana V Yang
+  - Katerina Kechris
+  - Marian Rewers
+  - Jill M Norris
+  publisher: Nutrients. 13(11):4057
+  date: '2021-11-13'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8618577/
+  _cache: 8fbb25f064c739982d5d6de5814112ef745352583a2ba8c29b1ab834d766b925
+- id: pmc:PMC8399445
+  title: A Mediation Approach to Discovering Causal Relationships between the Metabolome
+    and DNA Methylation in Type 1 Diabetes
+  authors:
+  - Tim Vigers
+  - Lauren A Vanderlinden
+  - Randi K Johnson
+  - Patrick M Carry
+  - Ivana Yang
+  - Brian C DeFelice
+  - Alexander M Kaizer
+  - Laura Pyle
+  - Marian Rewers
+  - Oliver Fiehn
+  - Jill M Norris
+  - Katerina Kechris
+  publisher: Metabolites. 11:542
+  date: '2021-08-14'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8399445/
+  _cache: bef8b1925699fb00c1807cd0243a89e686a11470be0bce5801c58f3e4362ebd3
+- id: doi:10.2337/db20-0902
+  title: "Placental Insulin/IGF-1 Signaling, PGC-1\u03B1, and Inflammatory Pathways\
+    \ Are Associated With Metabolic Outcomes at 4\u20136 Years of Age: The ECHO Healthy\
+    \ Start Cohort"
+  authors:
+  - Madeline Rose Keleher
+  - Kathryn Erickson
+  - Harry A. Smith
+  - Katerina J. Kechris
+  - Ivana V. Yang
+  - Dana Dabelea
+  - Jacob E. Friedman
+  - Kristen E. Boyle
+  - Thomas Jansson
+  publisher: Diabetes. 70:745-751
+  date: '2021-01-07'
+  link: https://doi.org/gqvv4t
+  _cache: de4c42c1e4d2aa741af6927d3dc23e3006a96369ee9648790b9300db6b34b5b1
+- id: doi:10.1371/journal.pntd.0009020
+  title: Patterns of relatedness and genetic diversity inferred from whole genome
+    sequencing of archival blood fluke miracidia (Schistosoma japonicum)
+  authors:
+  - Zachary L. Nikolakis
+  - Nicole R. Hales
+  - Blair W. Perry
+  - Drew R. Schield
+  - Laura E. Timm
+  - Yang Liu
+  - Bo Zhong
+  - Katerina J. Kechris
+  - Elizabeth J. Carlton
+  - David D. Pollock
+  - Todd A. Castoe
+  publisher: PLoS Neglected Tropical Diseases. 15(1):e0009020
+  date: '2021-01-06'
+  link: https://doi.org/gqvv4v
+  _cache: bf2dacf4f329f2feabefbb898b0d88b09acbd0b2b8d518c84b00e1edf740dc8f
+- id: doi:10.1093/aje/kwaa292
+  title: Human Mobility Associated With Risk of <i>Schistosoma japonicum</i> Infection
+    in Sichuan, China
+  authors:
+  - Andrea G Buchwald
+  - Elise Grover
+  - Julia Van Dyke
+  - Katerina Kechris
+  - Ding Lu
+  - Yang Liu
+  - Bo Zhong
+  - Elizabeth J Carlton
+  publisher: American Journal of Epidemiology. 190:1243-1252
+  date: '2021-01-13'
+  link: https://doi.org/gqvv4w
+  _cache: 93a75dcb0ec241bf9f8a3cfaaa146a4282a215479b1384f0fa76db7e57cedf1a
