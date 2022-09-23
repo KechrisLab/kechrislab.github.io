@@ -25,6 +25,8 @@ Spend less time reinventing the wheel, and more time running your lab.
 %}
 {:.center}
 
+{% include section.html %}
+
 {% include banner.html image= "https://kechrisk.github.io/KechrisLabWebsite/images/banner.jpg" %}
 
 Previous section of content
@@ -35,6 +37,8 @@ Previous section of content
   dark=true
   full=true
 %}
+
+{% include section.html %}
 
 Next section of content
 
