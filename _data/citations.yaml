@@ -1244,7 +1244,7 @@
   date: '2017-02-15'
   link: https://doi.org/f9q6jj
   _cache: ae1481ae7a20282debda6cfc3fe7011c058770eb56a24c40cd28b987f6afaf3a
-- id: 10.1038/s41598-017-05374-1
+- id: doi:10.1038/s41598-017-05374-1
   title: Metabolomic similarities between bronchoalveolar lavage fluid and plasma
     in humans and mice
   authors:
@@ -1258,8 +1258,8 @@
   publisher: Scientific Reports. 7(1):5108
   date: '2017-07-11'
   link: https://doi.org/gbndfp
-  _cache: 34004dac5a923d5e815e824f968fb864dd387f0cd8efa58caa9ce58667fde62d
-- id: 10.1186/s12931-017-0597-7
+  _cache: fe70ecf649e19bbc1846f41f77c2b0f4de9efc8fe2e44a991d8fd73b0eb3ba0b
+- id: doi:10.1186/s12931-017-0597-7
   title: Multiple biomarkers predict disease severity, progression and mortality in
     COPD
   authors:
@@ -1273,8 +1273,8 @@
   publisher: Respiratory Research. 18(1):117
   date: '2017-06-13'
   link: https://doi.org/gbjx3q
-  _cache: 3d82578fa15405f8c600c74fef48c6472299e1e1d58e3afdc3004ab3eba9143b
-- id: 10.1038/s41598-017-03295-7
+  _cache: f96727257eae18048a6ebb649f9903d5b62fd839614dccebb810cf61ba264c58
+- id: doi:10.1038/s41598-017-03295-7
   title: High-Risk Human Papillomavirus E7 Alters Host DNA Methylome and Represses
     HLA-E Expression in Human Keratinocytes
   authors:
@@ -1290,4 +1290,43 @@
   publisher: Scientific Reports. 7(1):3633
   date: '2017-06-16'
   link: https://doi.org/gbj5d2
-  _cache: fa88cba5d53033357b43e9c2617e8c3856d29e18abca0ccc8b2f707e6aba112c
+  _cache: 473cd32720bf6d43aa0b9ad9584cff8da5fc9effc9c7b738aa812fb6e3639f0d
+- id: doi:10.1186/s12931-017-0662-2
+  title: The value of blood cytokines and chemokines in assessing COPD
+  authors:
+  - Eric Bradford
+  - Sean Jacobson
+  - Jason Varasteh
+  - Alejandro P. Comellas
+  - Prescott Woodruff
+  - "Wanda O\u2019Neal"
+  - Dawn L. DeMeo
+  - Xingnan Li
+  - Victor Kim
+  - Michael Cho
+  - Peter J. Castaldi
+  - Craig Hersh
+  - Edwin K. Silverman
+  - James D. Crapo
+  - Katerina Kechris
+  - Russell P. Bowler
+  publisher: Respiratory Research. 18(1):180
+  date: '2017-10-24'
+  link: https://doi.org/gchw3c
+  _cache: 3a41a86f07d594d5ed0a4a4f842f5cc2ae4fb20be63cc4827efc697a9c50708d
+- id: doi:10.1371/journal.pone.0185682
+  title: Meta-analysis of peripheral blood gene expression modules for COPD phenotypes
+  authors:
+  - Dominik Reinhold
+  - Jarrett D. Morrow
+  - Sean Jacobson
+  - Junxiao Hu
+  - Benjamin Ringel
+  - Max A. Seibold
+  - Craig P. Hersh
+  - Katerina J. Kechris
+  - Russell P. Bowler
+  publisher: PLoS One. 12(10):e0185682
+  date: '2017-10-09'
+  link: https://doi.org/gb2ndm
+  _cache: d76ff8fa1d7c64b1efd40e426af7c9e70208c869dad466e1f18b47f5fb1c6bb2
