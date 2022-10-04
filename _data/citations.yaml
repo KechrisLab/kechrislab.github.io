@@ -1352,3 +1352,13 @@
   date: '2017-11-01'
   link: https://doi.org/gqvv9v
   _cache: 0b69e65aeea21d16f5e8ca08494e79ff87efacbc07ace9cb854d3999140740cf
+- id: doi:10.1093/bioinformatics/btv633
+  title: 'The discordant method: a novel approach for differential correlation'
+  authors:
+  - Charlotte Siska
+  - Russell Bowler
+  - Katerina Kechris
+  publisher: Bioinformatics. 32:690-6
+  date: '2015-10-31'
+  link: https://doi.org/f8c9vv
+  _cache: 4ab27b4e05b6799dafac5be08203b250f16feb4c55f61ec974abd6f3ec03ad31
