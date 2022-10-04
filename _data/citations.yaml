@@ -969,3 +969,171 @@
   date: '2019-08-01'
   link: https://doi.org/gqvv9b
   _cache: ece7f1432e7501dae8355198dfd103c9ce038757fd0c486570677ebc6057873f
+- id: doi:10.1002/humu.23769
+  title: '<i>A2ML1</i>and otitis media: novel variants, differential expression, and
+    relevant pathways'
+  authors:
+  - Eric D. Larson
+  - Jose Pedrito M. Magno
+  - Matthew J. Steritz
+  - Erasmo Gonzalo d.V. Llanes
+  - Jonathan Cardwell
+  - Melquiadesa Pedro
+  - Tori Bootpetch Roberts
+  - Elisabet Einarsdottir
+  - Rose Anne Q. Rosanes
+  - Christopher Greenlee
+  - Rachel Ann P. Santos
+  - Ayesha Yousaf
+  - "Sven\u2010Olrik Streubel"
+  - Aileen Trinidad R. Santos
+  - Amanda G. Ruiz
+  - "Sheryl Mae Lagrana\u2010Villagracia"
+  - Dylan Ray
+  - Talitha Karisse L. Yarza
+  - Melissa A. Scholes
+  - Catherine B. Anderson
+  - Anushree Acharya
+  - "University of Washington Center for \_"
+  - Samuel P. Gubbels
+  - Michael J. Bamshad
+  - Stephen P. Cass
+  - Nanette R. Lee
+  - Rehan S. Shaikh
+  - Deborah A. Nickerson
+  - Karen L. Mohlke
+  - Jeremy D. Prager
+  - Teresa Luisa G. Cruz
+  - Patricia J. Yoon
+  - Generoso T. Abes
+  - David A. Schwartz
+  - Abner L. Chan
+  - Todd M. Wine
+  - "Eva Maria Cutiongco\u2010de la Paz"
+  - Norman Friedman
+  - Katerina Kechris
+  - Juha Kere
+  - Suzanne M. Leal
+  - Ivana V. Yang
+  - Janak A. Patel
+  - Ma. Leah C. Tantoco
+  - Saima Riazuddin
+  - Kenny H. Chan
+  - Petri S. Mattila
+  - "Maria Rina T. Reyes\u2010Quintos"
+  - Zubair M. Ahmed
+  - Herman A. Jenkins
+  - Tasnee Chonmaitree
+  - "Lena Hafr\xE9n"
+  - Charlotte M. Chiong
+  - "Regie Lyn P. Santos\u2010Cortez"
+  publisher: Human Mutation. 40:1156-1171
+  date: '2019-05-21'
+  link: https://doi.org/gh8tz2
+  _cache: 62a40f50e51136c0512d6a30b0c9196d9b23043b442a8c84d7b80fd769ff203a
+- id: doi:10.1186/s13104-018-3418-2
+  title: miR-MaGiC improves quantification accuracy for small RNA-seq
+  authors:
+  - Pamela H. Russell
+  - Brian Vestal
+  - Wen Shi
+  - Pratyaydipta D. Rudra
+  - Robin Dowell
+  - Richard Radcliffe
+  - Laura Saba
+  - Katerina Kechris
+  publisher: BMC Research Notes. 11(1):296
+  date: '2018-05-15'
+  link: https://doi.org/gqvv9d
+  _cache: 2c0ec307bdac0b4c7f35e24e4bba7091c870473b9d21b6a07e0177e23d12b79f
+- id: doi:10.1371/journal.pcbi.1006436
+  title: 'Condition-adaptive fused graphical lasso (CFGL): An adaptive procedure for
+    inferring condition-specific gene co-expression network'
+  authors:
+  - Yafei Lyu
+  - Lingzhou Xue
+  - Feipeng Zhang
+  - Hillary Koch
+  - Laura Saba
+  - Katerina Kechris
+  - Qunhua Li
+  publisher: PLoS Computational Biology. 14(9):e1006436
+  date: '2018-09-21'
+  link: https://doi.org/gd93z4
+  _cache: 9fe880fc623fecc7e6d8860a35ffe56d88b628d68133cae22612bc0276444c7e
+- id: doi:10.1007/s12561-016-9176-6
+  title: A Bayesian Approach for Learning Gene Networks Underlying Disease Severity
+    in COPD
+  authors:
+  - Elin Shaddox
+  - Francesco C. Stingo
+  - Christine B. Peterson
+  - Sean Jacobson
+  - Charmion Cruickshank-Quinn
+  - Katerina Kechris
+  - Russell Bowler
+  - Marina Vannucci
+  publisher: Statistics in Biosciences. 10:59-85
+  date: '2016-10-28'
+  link: https://doi.org/gqvv9f
+  _cache: b2cc41d0248ae2b43620ec46d8fc1c89dce5a77578e1c4dbbe89d294df114b77
+- id: doi:10.1002/brb3.989
+  title: miRNA-regulated transcription associated with mouse strains predisposed to
+    hypnotic effects of ethanol
+  authors:
+  - B. Vestal
+  - P. Russell
+  - R.A. Radcliffe
+  - L. Bemis
+  - L.M. Saba
+  - K. Kechris
+  publisher: Brain and Behavior. 8:e00989
+  date: '2018-04-30'
+  link: https://doi.org/gqvv9g
+  _cache: 40be238d457df578481ca1272e0df5d10a5f9131d18aacba00c0b6ab3548a790
+- id: doi:10.1186/s12864-018-5004-3
+  title: Predictive modeling of miRNA-mediated predisposition to alcohol-related phenotypes
+    in mouse
+  authors:
+  - Pratyaydipta Rudra
+  - Wen J. Shi
+  - Pamela Russell
+  - Brian Vestal
+  - Boris Tabakoff
+  - Paula Hoffman
+  - Katerina Kechris
+  - Laura Saba
+  publisher: BMC Genomics. 19(1):639
+  date: '2018-08-29'
+  link: https://doi.org/gqvv9h
+  _cache: 256dcbc71bdb7793db635a00e86783a89442eb06f662346052c5bcb22d737968
+- id: doi:10.1038/s41598-018-35372-w
+  title: Metabolomics and transcriptomics pathway approach reveals outcome-specific
+    perturbations in COPD
+  authors:
+  - Charmion I. Cruickshank-Quinn
+  - Sean Jacobson
+  - Grant Hughes
+  - Roger L. Powell
+  - Irina Petrache
+  - Katerina Kechris
+  - Russell Bowler
+  - Nichole Reisdorph
+  publisher: Scientific Reports. 8:17132
+  date: '2018-11-20'
+  link: https://doi.org/gh398b
+  _cache: f7974df06f41d7cb22441459203245884119bab73b9232080f9b1e8d364c849a
+- id: doi:10.1111/dme.13604
+  title: "Epigenetic marks of <i>in utero</i>\n exposure to gestational diabetes and\
+    \ childhood adiposity outcomes: the EPOCH\_study"
+  authors:
+  - I. V. Yang
+  - W. Zhang
+  - E. J. Davidson
+  - T. E. Fingerlin
+  - K. Kechris
+  - D. Dabelea
+  publisher: Diabetic Medicine. 35(5):612-620
+  date: '2018-03-13'
+  link: https://doi.org/gqvv9j
+  _cache: e54ae4211e1338a22bbfaa6d861f2cc0aea262cf556f22ae3fea047569cda093
