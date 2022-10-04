@@ -1416,3 +1416,217 @@
   date: '2016-08-17'
   link: https://doi.org/f822mw
   _cache: 0fd2f329d6514744c628abadf2084de9ea8d3df204286c11b2c892060477f61e
+- id: doi:10.1007/s12561-016-9151-2
+  title: Post-GWAS Prioritization Through Data Integration Provides Novel Insights
+    on Chronic Obstructive Pulmonary Disease
+  authors:
+  - Qiongshi Lu
+  - Chentian Jin
+  - Jiehuan Sun
+  - Russell Bowler
+  - Katerina Kechris
+  - Naftali Kaminski
+  - Hongyu Zhao
+  publisher: Statistics in Biosciences. 2016:1-17
+  date: '2016-06-13'
+  link: https://doi.org/gqxnvz
+  _cache: d107bb28d5be1e1195145546ab9ee7fd85bf51a99e8b390a77c9fa941c5dcd8c
+- id: doi:10.1007/s00335-016-9656-5
+  title: "Uncovering the liver\u2019s role in immunity through RNA co-expression networks"
+  authors:
+  - Kylie K. Harrall
+  - Katerina J. Kechris
+  - Boris Tabakoff
+  - Paula L. Hoffman
+  - Lisa M. Hines
+  - Hidekazu Tsukamoto
+  - Michal Pravenec
+  - Morton Printz
+  - Laura M. Saba
+  publisher: Mammalian Genome. 27:469-84
+  date: '2016-07-11'
+  link: https://doi.org/f82gf5
+  _cache: f95fbee68f350652279eeacbf0a9b5feda11b8ee1295d8493110ea1d9a67de53
+- id: doi:10.1038/srep31596
+  title: Structural and functional characterization of endothelial microparticles
+    released by cigarette smoke
+  authors:
+  - Karina A. Serban
+  - Samin Rezania
+  - Daniela N. Petrusca
+  - Christophe Poirier
+  - Danting Cao
+  - Matthew J. Justice
+  - Milan Patel
+  - Irina Tsvetkova
+  - Krzysztof Kamocki
+  - Andrew Mikosz
+  - Kelly S. Schweitzer
+  - Sean Jacobson
+  - Angelo Cardoso
+  - Nadia Carlesso
+  - Walter C. Hubbard
+  - Katerina Kechris
+  - Bogdan Dragnea
+  - Evgeny V. Berdyshev
+  - Jeanette McClintock
+  - Irina Petrache
+  publisher: Nature Scientific Reports. 6:31596
+  date: '2016-08-17'
+  link: https://doi.org/f8z5nm
+  _cache: e9af0798df21046362e540dfe1c88b62cb0a4d5436f82f1010eb57d76d3b59e5
+- id: doi:10.1093/infdis/jiw364
+  title: Adaptation of Mycobacterium tuberculosis to Impaired Host Immunity in HIV-Infected
+    Patients
+  authors:
+  - Nicholas D. Walter
+  - Bouke C. de Jong
+  - Benjamin J. Garcia
+  - Gregory M. Dolganov
+  - William Worodria
+  - Patrick Byanyima
+  - Emmanuel Musisi
+  - Laurence Huang
+  - Edward D. Chan
+  - Tran T. Van
+  - Martin Antonio
+  - Abigail Ayorinde
+  - Midori Kato-Maeda
+  - Payam Nahid
+  - Ann M. Leung
+  - Andrew Yen
+  - Tasha E. Fingerlin
+  - Katerina Kechris
+  - Michael Strong
+  - Martin I. Voskuil
+  - J. Lucian Davis
+  - Gary K. Schoolnik
+  publisher: Journal of Infectious Diseases. 214:1205-11
+  date: '2016-08-17'
+  link: https://doi.org/f88sjw
+  _cache: f703cd4a4d64e9362674c5c9972b6a708cb354b872611b0c0e5df21882ff7bbd
+- id: doi:10.1164/rccm.201410-1771OC
+  title: Plasma Sphingolipids Associated with Chronic Obstructive Pulmonary Disease
+    Phenotypes
+  authors:
+  - Russell P. Bowler
+  - Sean Jacobson
+  - Charmion Cruickshank
+  - Grant J. Hughes
+  - Charlotte Siska
+  - Daniel S. Ory
+  - Irina Petrache
+  - Jean E. Schaffer
+  - Nichole Reisdorph
+  - Katerina Kechris
+  publisher: American Journal of Respiratory and Critical Care Medicine. 191:275-84
+  date: '2015-02-01'
+  link: https://doi.org/f6zjwq
+  _cache: 825e30c920ecb6a63967e314e8567fc372184662bd77797fbc02e490dd855bfb
+- id: doi:10.1371/journal.pone.0135163
+  title: Joint MiRNA/mRNA Expression Profiling Reveals Changes Consistent with Development
+    of Dysfunctional Corpus Luteum after Weight Gain
+  authors:
+  - Andrew P. Bradford
+  - Kenneth Jones
+  - Katerina Kechris
+  - Justin Chosich
+  - Michael Montague
+  - Wesley C. Warren
+  - Margaret C. May
+  - Zain Al-Safi
+  - Satu Kuokkanen
+  - Susan E. Appt
+  - Alex J. Polotsky
+  publisher: PLoS One. 10:e0135163
+  date: '2015-08-10'
+  link: https://doi.org/f72smd
+  _cache: f243339ead3aeb9298f7523c4b2cfdf8f36035569be063329b3970d711951a1f
+- id: doi:10.1007/s11357-014-9740-2
+  title: Genetic analysis of a murine QTL for diet restriction on chromosome 15
+  authors:
+  - Breanne L. Newell
+  - Katerina Kechris
+  - Matt B. McQueen
+  - Thomas E. Johnson
+  publisher: Age. 37(1):9740
+  date: '2015-02-01'
+  link: https://doi.org/gqxnv2
+  _cache: 7ef62f167a9715f3cbbb96fe3ce438b8afd3b29139b9a944330a288297b6ddab
+- id: doi:10.1093/infdis/jiv149
+  title: Transcriptional Adaptation of Drug-tolerant<i>Mycobacterium tuberculosis</i>During
+    Treatment of Human Tuberculosis
+  authors:
+  - Nicholas D. Walter
+  - Gregory M. Dolganov
+  - Benjamin J. Garcia
+  - William Worodria
+  - Alfred Andama
+  - Emmanuel Musisi
+  - Irene Ayakaka
+  - Tran T. Van
+  - Martin I. Voskuil
+  - Bouke C. de Jong
+  - Rebecca M. Davidson
+  - Tasha E. Fingerlin
+  - Katerina Kechris
+  - Claire Palmer
+  - Payam Nahid
+  - Charles L. Daley
+  - Mark Geraci
+  - Laurence Huang
+  - Adithya Cattamanchi
+  - Michael Strong
+  - Gary K. Schoolnik
+  - John Lucian Davis
+  publisher: Journal of Infectious Diseases. 212:990-8
+  date: '2015-03-11'
+  link: https://doi.org/gqxnv3
+  _cache: 0a1e258f33c11ef02f9f066fc63d2720bd955d5611dc05b720ce9c6ae89ce6e1
+- id: doi:10.1038/jid.2015.126
+  title: Narrow Band Ultraviolet B Treatment for Human Vitiligo Is Associated with
+    Proliferation, Migration, and Differentiation of Melanocyte Precursors
+  authors:
+  - Nathaniel B. Goldstein
+  - Maranke I. Koster
+  - Laura G. Hoaglin
+  - Nicole S. Spoelstra
+  - Katerina J. Kechris
+  - Steven E. Robinson
+  - William A. Robinson
+  - Dennis R. Roop
+  - David A. Norris
+  - Stanca A. Birlea
+  publisher: Journal of Investigative Dermatology. 135:2068-76
+  date: '2015-08-01'
+  link: https://doi.org/f7kd9z
+  _cache: 1bd22047f05d4cab778a65e053bdc51d43d2e1c889de51d91d5cfa3135d37dfe
+- id: doi:10.1002/9781119053095.ch8
+  title: Distribution and Ecological Niches of Nitrogenases
+  authors:
+  - Alexander N. Glazer
+  - Katerina Kechris
+  - James B. Howard
+  publisher: Biological Nitrogen Fixation. F.J. deBruijn (ed.), Wiley-Blackwell
+  date: '2015-07-14'
+  link: https://doi.org/gqxnv4
+  _cache: 88b8a124c8485053e11e87c395db048f6fc09f4dfc91b90002cd6a70214fdbae
+- id: doi:10.1093/nar/gku631
+  title: "The multiMiR R package and database: integration of microRNA\u2013target\
+    \ interactions along with their disease and drug associations"
+  authors:
+  - Yuanbin Ru
+  - Katerina J. Kechris
+  - Boris Tabakoff
+  - Paula Hoffman
+  - Richard A. Radcliffe
+  - Russell Bowler
+  - Spencer Mahaffey
+  - Simona Rossi
+  - George A. Calin
+  - Lynne Bemis
+  - Dan Theodorescu
+  publisher: Nucleic Acids Research. 42:e133
+  date: '2014-07-25'
+  link: https://doi.org/f6q965
+  _cache: 076815cc6e13c71015eed0c04405464d635a44d19bff055debad1ebfcfc3eba9
