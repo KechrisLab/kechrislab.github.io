@@ -1330,3 +1330,25 @@
   date: '2017-10-09'
   link: https://doi.org/gb2ndm
   _cache: d76ff8fa1d7c64b1efd40e426af7c9e70208c869dad466e1f18b47f5fb1c6bb2
+- id: doi:10.1016/j.molmet.2017.08.012
+  title: Maternal obesity alters fatty acid oxidation, AMPK activity, and associated
+    DNA methylation in mesenchymal stem cells from human infants
+  authors:
+  - Kristen E. Boyle
+  - Zachary W. Patinkin
+  - Allison L.B. Shapiro
+  - Carly Bader
+  - Lauren Vanderlinden
+  - Katerina Kechris
+  - Rachel C. Janssen
+  - Rebecca J. Ford
+  - Brennan K. Smith
+  - Gregory R. Steinberg
+  - Elizabeth J. Davidson
+  - Ivana V. Yang
+  - Dana Dabelea
+  - Jacob E. Friedman
+  publisher: Molecular Metabolism. 6(11):1503-1516
+  date: '2017-11-01'
+  link: https://doi.org/gqvv9v
+  _cache: 0b69e65aeea21d16f5e8ca08494e79ff87efacbc07ace9cb854d3999140740cf
