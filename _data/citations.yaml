@@ -693,3 +693,279 @@
   date: '2019-03-01'
   link: https://doi.org/gqvv87
   _cache: f6df4c45c2a34ca96d68d8be461a2f8a00ffc3d7a51848465a86576ab76cc9d0
+- id: doi:10.1186/s12864-019-6110-6
+  title: Insight into genetic regulation of miRNA in mouse brain
+  authors:
+  - Gordon Kordas
+  - Pratyaydipta Rudra
+  - Audrey Hendricks
+  - Laura Saba
+  - Katerina Kechris
+  publisher: BMC Genomics. 20:849
+  date: '2019-11-13'
+  link: https://doi.org/gqvv88
+  _cache: f2634fa513e3c2203aa50ce12ebd7a8a2b34ce6065faa76a5a522a7e17c2af07
+- id: doi:10.3390/metabo9080157
+  title: Bronchoalveolar Lavage Fluid from COPD Patients Reveals More Compounds Associated
+    with Disease than Matched Plasma
+  authors:
+  - Eitan Halper-Stromberg
+  - Lucas Gillenwater
+  - Charmion Cruickshank-Quinn
+  - "Wanda Kay O\u2019Neal"
+  - Nichole Reisdorph
+  - Irina Petrache
+  - Yonghua Zhuang
+  - Wassim W. Labaki
+  - Jeffrey L. Curtis
+  - James Wells
+  - Stephen Rennard
+  - Katherine A. Pratte
+  - Prescott Woodruff
+  - Kathleen A. Stringer
+  - Katerina Kechris
+  - Russell P. Bowler
+  publisher: Metabolites. 9(8)
+  date: '2019-07-25'
+  link: https://doi.org/gk82c2
+  _cache: 699f12c23e47e15b94e634c8b5431600b26f22a97ee9272a5d19965e25c8f360
+- id: doi:10.1007/s00125-019-05036-z
+  title: A prospective study of associations between in utero exposure to gestational
+    diabetes mellitus and metabolomic profiles during late childhood and adolescence
+  authors:
+  - Wei Perng
+  - Brandy M. Ringham
+  - Harry A. Smith
+  - Gregory Michelotti
+  - Katerina M. Kechris
+  - Dana Dabelea
+  publisher: Diabetologia. 63:296-312
+  date: '2019-11-13'
+  link: https://doi.org/gqvv7w
+  _cache: 1369f917faf7f3e2f346f684c4da2489f9ec8f71057e3c4b57c1d87796c1f856
+- id: doi:10.1038/s41598-019-51251-4
+  title: Metabolite-related dietary patterns and the development of islet autoimmunity
+  authors:
+  - Randi K. Johnson
+  - ' '
+  - Lauren Vanderlinden
+  - Brian C. DeFelice
+  - Katerina Kechris
+  - Ulla Uusitalo
+  - Oliver Fiehn
+  - Marci Sontag
+  - Tessa Crume
+  - Andreas Beyerlein
+  - "\xC5ke Lernmark"
+  - Jorma Toppari
+  - Anette-G. Ziegler
+  - Jin-Xiong She
+  - William Hagopian
+  - Marian Rewers
+  - Beena Akolkar
+  - Jeffrey Krischer
+  - Suvi M. Virtanen
+  - Jill M. Norris
+  publisher: Scientific Reports. 9:14819
+  date: '2019-10-15'
+  link: https://doi.org/gjdjdt
+  _cache: cac8ee510043d1452739fe23a0f0daa058e59a0c6add21b03fa62349f0c26390
+- id: doi:10.1016/j.envint.2019.104983
+  title: 'Prenatal exposure to per- and polyfluoroalkyl substances and infant growth
+    and adiposity: the Healthy Start Study'
+  authors:
+  - Anne P. Starling
+  - John L. Adgate
+  - Richard F. Hamman
+  - Katerina Kechris
+  - Antonia M. Calafat
+  - Dana Dabelea
+  publisher: Environment International. 131:104983
+  date: '2019-10-01'
+  link: https://doi.org/gqvv89
+  _cache: 4f2ab7ef3e304cdb3fa026edc578533fdef8baf9dc777879edc60e024e3684a7
+- id: doi:10.1038/s41467-019-09671-3
+  title: Meta-analysis of epigenome-wide association studies in neonates reveals widespread
+    differential DNA methylation associated with birthweight
+  authors:
+  - "Leanne K. K\xFCpers"
+  - Claire Monnereau
+  - Gemma C. Sharp
+  - Paul Yousefi
+  - Lucas A. Salas
+  - Akram Ghantous
+  - Christian M. Page
+  - Sarah E. Reese
+  - Allen J. Wilcox
+  - Darina Czamara
+  - Anne P. Starling
+  - Alexei Novoloaca
+  - Samantha Lent
+  - Ritu Roy
+  - Cathrine Hoyo
+  - Carrie V. Breton
+  - Catherine Allard
+  - Allan C. Just
+  - Kelly M. Bakulski
+  - John W. Holloway
+  - Todd M. Everson
+  - Cheng-Jian Xu
+  - Rae-Chi Huang
+  - Diana A. van der Plaat
+  - Matthias Wielscher
+  - Simon Kebede Merid
+  - Vilhelmina Ullemar
+  - Faisal I. Rezwan
+  - Jari Lahti
+  - Jenny van Dongen
+  - Sabine A. S. Langie
+  - Tom G. Richardson
+  - Maria C. Magnus
+  - Ellen A. Nohr
+  - Zongli Xu
+  - Liesbeth Duijts
+  - Shanshan Zhao
+  - Weiming Zhang
+  - Michelle Plusquin
+  - Dawn L. DeMeo
+  - Olivia Solomon
+  - Joosje H. Heimovaara
+  - Dereje D. Jima
+  - Lu Gao
+  - Mariona Bustamante
+  - Patrice Perron
+  - Robert O. Wright
+  - Irva Hertz-Picciotto
+  - Hongmei Zhang
+  - Margaret R. Karagas
+  - Ulrike Gehring
+  - Carmen J. Marsit
+  - Lawrence J. Beilin
+  - Judith M. Vonk
+  - Marjo-Riitta Jarvelin
+  - "Anna Bergstr\xF6m"
+  - "Anne K. \xD6rtqvist"
+  - Susan Ewart
+  - Pia M. Villa
+  - Sophie E. Moore
+  - Gonneke Willemsen
+  - Arnout R. L. Standaert
+  - "Siri E. H\xE5berg"
+  - "Thorkild I. A. S\xF8rensen"
+  - Jack A. Taylor
+  - "Katri R\xE4ikk\xF6nen"
+  - Ivana V. Yang
+  - Katerina Kechris
+  - Tim S. Nawrot
+  - Matt J. Silver
+  - Yun Yun Gong
+  - Lorenzo Richiardi
+  - Manolis Kogevinas
+  - Augusto A. Litonjua
+  - Brenda Eskenazi
+  - Karen Huen
+  - Hamdi Mbarek
+  - Rachel L. Maguire
+  - Terence Dwyer
+  - Martine Vrijheid
+  - Luigi Bouchard
+  - Andrea A. Baccarelli
+  - Lisa A. Croen
+  - Wilfried Karmaus
+  - Denise Anderson
+  - Maaike de Vries
+  - Sylvain Sebert
+  - Juha Kere
+  - Robert Karlsson
+  - Syed Hasan Arshad
+  - "Esa H\xE4m\xE4l\xE4inen"
+  - Michael N. Routledge
+  - Dorret I. Boomsma
+  - Andrew P. Feinberg
+  - Craig J. Newschaffer
+  - Eva Govarts
+  - Matthieu Moisse
+  - M. Daniele Fallin
+  - "Erik Mel\xE9n"
+  - Andrew M. Prentice
+  - Eero Kajantie
+  - Catarina Almqvist
+  - Emily Oken
+  - Dana Dabelea
+  - H. Marike Boezen
+  - Phillip E. Melton
+  - Rosalind J. Wright
+  - Gerard H. Koppelman
+  - Letizia Trevisi
+  - Marie-France Hivert
+  - Jordi Sunyer
+  - Monica C. Munthe-Kaas
+  - Susan K. Murphy
+  - Eva Corpeleijn
+  - Joseph Wiemels
+  - Nina Holland
+  - Zdenko Herceg
+  - Elisabeth B. Binder
+  - George Davey Smith
+  - Vincent W. V. Jaddoe
+  - Rolv T. Lie
+  - Wenche Nystad
+  - Stephanie J. London
+  - Debbie A. Lawlor
+  - Caroline L. Relton
+  - Harold Snieder
+  - Janine F. Felix
+  publisher: Nature Communications. 10(1):1893
+  date: '2019-04-23'
+  link: https://doi.org/gfzvw4
+  _cache: db756df05c6931970319828261ffa44552c59f6c5612d46f389ec47892b7242d
+- id: doi:10.1161/HYPERTENSIONAHA.119.12634
+  title: Hypertensive Disorders of Pregnancy and DNA Methylation in Newborns
+  authors:
+  - Nabila Kazmi
+  - Gemma C. Sharp
+  - Sarah E. Reese
+  - Florianne O. Vehmeijer
+  - Jari Lahti
+  - Christian M. Page
+  - Weiming Zhang
+  - Sheryl L. Rifas-Shiman
+  - Faisal I. Rezwan
+  - Andrew J. Simpkin
+  - Kimberley Burrows
+  - Tom G. Richardson
+  - Diana L. Santos Ferreira
+  - Abigail Fraser
+  - Quaker E. Harmon
+  - Shanshan Zhao
+  - Vincent W.V. Jaddoe
+  - Darina Czamara
+  - Elisabeth B. Binder
+  - Maria C. Magnus
+  - "Siri E. H\xE5berg"
+  - Wenche Nystad
+  - Ellen A. Nohr
+  - Anne P. Starling
+  - Katerina J. Kechris
+  - Ivana V. Yang
+  - Dawn L. DeMeo
+  - Augusto A. Litonjua
+  - Andrea Baccarelli
+  - Emily Oken
+  - John W. Holloway
+  - Wilfried Karmaus
+  - Syed H. Arshad
+  - Dana Dabelea
+  - "Thorkild I.A. S\xF8rensen"
+  - Hannele Laivuori
+  - Katri Raikkonen
+  - Janine F. Felix
+  - Stephanie J. London
+  - Marie-France Hivert
+  - Tom R. Gaunt
+  - Debbie A. Lawlor
+  - Caroline L. Relton
+  publisher: Hypertension. 74:375-383
+  date: '2019-08-01'
+  link: https://doi.org/gqvv9b
+  _cache: ece7f1432e7501dae8355198dfd103c9ce038757fd0c486570677ebc6057873f
