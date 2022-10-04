@@ -1630,3 +1630,86 @@
   date: '2014-07-25'
   link: https://doi.org/f6q965
   _cache: 076815cc6e13c71015eed0c04405464d635a44d19bff055debad1ebfcfc3eba9
+- id: doi:10.1093/bioinformatics/btt589
+  title: "MSPrep\u2014Summarization, normalization and diagnostics for processing\
+    \ of mass spectrometry\u2013based metabolomic data"
+  authors:
+  - Grant Hughes
+  - Charmion Cruickshank-Quinn
+  - Richard Reisdorph
+  - Sharon Lutz
+  - Irina Petrache
+  - Nichole Reisdorph
+  - Russell Bowler
+  - Katerina Kechris
+  publisher: Bioinformatics. 30:133-4
+  date: '2013-10-29'
+  link: https://doi.org/gqxnv5
+  _cache: 8ecc9d51bbf255d2a425187d00684c13ff7de8ea9b0639721d6144f33fbcd6d1
+- id: doi:10.1093/bib/bbt053
+  title: The dilemma of choosing the ideal permutation strategy while estimating statistical
+    significance of genome-wide enrichment
+  authors:
+  - S. De
+  - B. S. Pedersen
+  - K. Kechris
+  publisher: Briefings In Bioinformatics. 15:919-28
+  date: '2013-08-16'
+  link: https://doi.org/f6qxqc
+  _cache: 4cf28d017f55ffc8d57459f670a2d1767017e14a336f707bd4d41a652e9bcbe3
+- id: doi:10.1111/gbb.12175
+  title: Genetics of gene expression characterizes response to selective breeding
+    for alcohol preference
+  authors:
+  - P. L. Hoffman
+  - L. M. Saba
+  - S. Flink
+  - N. J. Grahame
+  - K. Kechris
+  - B. Tabakoff
+  publisher: Genes Brain and Behavior. 13:743-57
+  date: '2014-09-29'
+  link: https://doi.org/gqxnv6
+  _cache: 03c13cfa523081253f7610d5ec6eabd9678b0f98967a09620438f6efbd85e94c
+- id: doi:10.1186/s12931-014-0127-9
+  title: The association of plasma biomarkers with computed tomography-assessed emphysema
+    phenotypes
+  authors:
+  - Brendan J Carolan
+  - Grant Hughes
+  - Jarrett Morrow
+  - Craig P Hersh
+  - "Wanda K O\u2019Neal"
+  - Stephen Rennard
+  - Sreekumar G Pillai
+  - Paula Belloni
+  - Debra A Cockayne
+  - Alejandro P Comellas
+  - Meilan Han
+  - Rachel L Zemans
+  - Katerina Kechris
+  - Russell P Bowler
+  publisher: Respiratory Research. 15:127
+  date: '2014-10-12'
+  link: https://doi.org/f6tcqw
+  _cache: 4d1474eb8e99249119c4600c8fe73c4e4f314d32f5798f9358bb5db24966008e
+- id: doi:10.1515/sagmb-2012-0051
+  title: A graphical model method for integrating multiple sources of genome-scale
+    data
+  authors:
+  - Daniel Dvorkin
+  - Brian Biehs
+  - Katerina Kechris
+  publisher: Statistical Applications in Genetics and Molecular Biology. 12:469-87
+  date: '2013-01-01'
+  link: https://doi.org/gbdjcj
+  _cache: 4cdf3967f80f3cbe5a1d2dc2c47dcc78c31365ab8e63256be1207179f193e74c
+- id: doi:10.1002/sim.5850
+  title: Modeling considerations for using expression data from multiple species
+  authors:
+  - Elizabeth Siewert
+  - Katerina J. Kechris
+  publisher: Statistics in Medicine. 32:4057-4070
+  date: '2013-05-23'
+  link: https://doi.org/gqxnv7
+  _cache: 6a2b21676d67c9d7c66ff4cde30bfadc300ca6dc0a59a3d327b39ecdd04f9224
