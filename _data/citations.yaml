@@ -1704,12 +1704,3 @@
   date: '2013-01-01'
   link: https://doi.org/gbdjcj
   _cache: 4cdf3967f80f3cbe5a1d2dc2c47dcc78c31365ab8e63256be1207179f193e74c
-- id: doi:10.1002/sim.5850
-  title: Modeling considerations for using expression data from multiple species
-  authors:
-  - Elizabeth Siewert
-  - Katerina J. Kechris
-  publisher: Statistics in Medicine. 32:4057-4070
-  date: '2013-05-23'
-  link: https://doi.org/gqxnv7
-  _cache: 6a2b21676d67c9d7c66ff4cde30bfadc300ca6dc0a59a3d327b39ecdd04f9224
