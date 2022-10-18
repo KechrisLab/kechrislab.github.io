@@ -5,9 +5,7 @@ title: Home
 
 {%
   include section.html
-  background="https://kechrisk.github.io/KechrisLabWebsite/images/dna-ancestry_2502064k.jpg"
   dark=true
-  full=true
 %}
 
 # KECHRIS LAB
