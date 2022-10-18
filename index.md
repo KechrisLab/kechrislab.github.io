@@ -31,8 +31,6 @@ dark=true
 
 {% include banner.html image= "https://kechrisk.github.io/KechrisLabWebsite/images/banner.jpg" %}
 
-Previous section of content
-
 {%
   include section.html
   background="https://kechrisk.github.io/KechrisLabWebsite/images/background.jpg"
