@@ -4,8 +4,8 @@ title: Home
 
 # KECHRIS LAB
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+Our research focuses on the development and application of statistical methods for analyzing -omics data 
+sets from high throughput technologies.
 
 {%
   include link.html
