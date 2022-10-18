@@ -3,14 +3,13 @@ title: Home
 ---
 
 
-{%
-  include section.html
-  background="https://kechrisk.github.io/KechrisLabWebsite/images/background.jpg"
-  dark=true
-  full=true
+{% include section.html
+dark=true
 %}
 
 # KECHRIS LAB
+
+{% include section.html %}
 
 Our research focuses on the development and application of statistical methods for analyzing -omics data 
 sets from high throughput technologies.
