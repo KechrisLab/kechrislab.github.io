@@ -1,6 +1,5 @@
 ---
 title: Background
-description: Education and Positions
 nav:
   order: 3
   tooltip: Background
