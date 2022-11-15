@@ -1,14 +1,8 @@
 ---
 title: Research & Grants
-description: Active Grants
 nav:
   order: 6
   tooltip: Grants
-
-header: images/header-for-this-page.jpg
-footer: images/footer-for-this-page.jpg
-header-dark: false
-footer-dark: false
 ---
 
 
