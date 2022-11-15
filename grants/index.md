@@ -19,6 +19,7 @@ disease in the COPDGene genetic epidemiology study, substance use disorders usin
 determinants of diabetes and obesity in children.
 {:.center}
 
+{% include section.html background="images/dna-ancestry_2502064k.jpg" %}
 
 # ACTIVE GRANTS
 
