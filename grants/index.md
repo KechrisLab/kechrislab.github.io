@@ -21,6 +21,8 @@ determinants of diabetes and obesity in children.
 
 {% include section.html background="images/dna-ancestry_2502064k.jpg" %}
 
+{% include section.html %}
+
 # ACTIVE GRANTS
 
 ## METABOLOMICS
