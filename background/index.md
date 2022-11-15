@@ -4,11 +4,6 @@ description: Education and Positions
 nav:
   order: 3
   tooltip: Background
-
-header: images/header-for-this-page.jpg
-footer: images/footer-for-this-page.jpg
-header-dark: false
-footer-dark: false
 ---
 
 # EDUCATION 
