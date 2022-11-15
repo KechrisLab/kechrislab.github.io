@@ -4,9 +4,6 @@ description: Teaching
 nav:
   order: 3
   tooltip: Classes
-
-header: images/header-for-this-page.jpg
-footer: images/footer-for-this-page.jpg
 ---
 
 # COURSES BY KATERINA J. KECHRIS
