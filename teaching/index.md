@@ -1,6 +1,5 @@
 ---
 title: Courses
-description: Teaching
 nav:
   order: 3
   tooltip: Classes
