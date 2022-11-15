@@ -7,8 +7,6 @@ nav:
 
 header: images/header-for-this-page.jpg
 footer: images/footer-for-this-page.jpg
-header-dark: false
-footer-dark: false
 ---
 
 # COURSES BY KATERINA J. KECHRIS
