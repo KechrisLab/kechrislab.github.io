@@ -25,9 +25,9 @@ nav:
 Current Position: Research Associate, CU Anschutz
 + Elin Shaddox, PhD Post-doctoral Fellow (2019-2022)
 Current Position: Biostatistician, miR Scientific
-+Pratyaydipta Rudra, PhD Post-Doctoral Fellow (2015-2018)
++ Pratyaydipta Rudra, PhD Post-Doctoral Fellow (2015-2018)
 Current Position: Assistant Professor, Statistics, Oklahoma State University
-+Wen Jenny Shi, PhD Post-Doctoral Fellow (2015-2018)
++ Wen Jenny Shi, PhD Post-Doctoral Fellow (2015-2018)
 Current Position: Staff Data Scientist, Datto Inc.
 
 ### PHD Students
