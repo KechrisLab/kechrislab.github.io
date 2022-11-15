@@ -1,7 +1,7 @@
 ---
 title: Research & Grants
 nav:
-  order: 6
+  order: 7
   tooltip: Grants
 ---
 
