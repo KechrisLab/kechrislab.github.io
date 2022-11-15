@@ -17,17 +17,7 @@ nav:
 
 {:.center}
 
-+ Thao Vu, PhD Post-doctoral Fellow (2020- )
-+ Souvik Seal, PhD Post-doctoral Fellow (2020- )
-+ Weixuan Liu Biostatistics PhD Student (2019- )
-+ Sierra Niemiec Biostatistics MS Student (2020- , with Anne Starling)
-+ Erika Esquinca Biostatistics MS Student (2021- , with Randi Johnson)
-+ Max McGrath Research Assistant (2019- )
-+ Charles Carpenter, MS Research Assistant (2020- )
-+ Suneeta Godbole, MS Research Assistant (2020- )
-+ Sakaiza Rasolofomanana Rajery, Research Assistant (2021-)
-
-## <i class="fas fa-users"></i>ALUMNI
+## ALUMNI
 
 ### Post Doctoral fellows
 
