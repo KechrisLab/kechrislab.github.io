@@ -1,7 +1,7 @@
 ---
 title: Background
 nav:
-  order: 3
+  order: 1
   tooltip: Background
 ---
 
