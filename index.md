@@ -5,7 +5,7 @@ title: Home
 
 {%
   include section.html
-  dark=false
+  dark=TRUE
 %}
 
 # KECHRIS LAB
