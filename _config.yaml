@@ -6,6 +6,8 @@ description: An easy-to-use, flexible website template for labs, with automatic 
 logo: images/kechrislogo.svg
 header: images/dna-ancestry_2502064k.jpg
 footer: images/dna-ancestry_2502064k.jpg
+header-dark: false
+footer-dark: false
 baseurl: /KechrisLabWebsite
 
 # site social media and other links
