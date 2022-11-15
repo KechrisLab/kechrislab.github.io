@@ -1,5 +1,5 @@
 ---
-title: Grants
+title: Research & Grants
 description: Active Grants
 nav:
   order: 6
