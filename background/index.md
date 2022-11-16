@@ -14,14 +14,14 @@ nav:
 
 # POSITION
 
-Professor
-Associate Professor
-Assistant Professor
++ Professor {:.left } 2018-present {:.right}
++ Associate Professor
++ Assistant Professor
 Department of Biostatistics and Informatics
 Core Faculty, Computational Bioscience Program
 Colorado School of Public Health
 University of Colorado Denver	
-2018-present
+
 2012-2018
 2006-2012
 
