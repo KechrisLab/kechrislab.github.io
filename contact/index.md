@@ -5,7 +5,7 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# <i class="fas fa-envelope"></i>Contact
+# Contact
 
 Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
 We are located on the 13th floor of the [Center for Wit and Sagacity]().
