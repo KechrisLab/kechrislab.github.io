@@ -1,5 +1,7 @@
-- title: Omics Subtyping [CRAN](https://cran.r-project.org/web/packages/SmCCNet/index.html) [Github](https://github.com/KechrisLab//OmicsSubtyping)
+- title: Omics Subtyping
   subtitle: "R, Python, Tensorflow code: E. Stene, S. Helmi, L. Gillenwater."
   group: OMICS INTEGRATION
   link: https://github.com/KechrisLab//OmicsSubtyping
-  description: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease. [see Gillenwater et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34432807/)
+  image: none
+  description: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease.
+[see Gillenwater et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34432807/). [CRAN](https://cran.r-project.org/web/packages/SmCCNet/index.html) [Github](https://github.com/KechrisLab//OmicsSubtyping)
