@@ -26,14 +26,18 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include list.html component="card" data="tools" filters="group: more" style="small" %}
 
+{% include section.html %}
 ## MICROBIOME
 
 
+{% include section.html %}
 ## EPIGENETICS
 
 
+{% include section.html %}
 ## TRANSCRIPTOMICS
 
 
+{% include section.html %}
 ## TRANSCRIPTION FACTOR BINDING
 
