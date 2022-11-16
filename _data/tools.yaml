@@ -121,7 +121,7 @@
   subtitle: "ANSI C code: assisted by D. Dvorkin) Available upon request"
   group: TRANSCRIPTION FACTOR BINDING
   image: images/photo.jpg
-  description: c(onservation)-REDUCE: Extension of the REDUCE algorithm that incorporates conservation across multiple species to detect motifs that correlate with expression. [see Kechris & Li, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19040743)
+  description: <p> c(onservation)-REDUCE: Extension of the REDUCE algorithm that incorporates conservation across multiple species to detect motifs that correlate with expression. </p> [see Kechris & Li, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19040743)
   
 - title: OR-MEME 
   subtitle: "ANSI C code: M. Richards) Available upon request"
