@@ -59,8 +59,7 @@
   group: METABOLOMICS
   image: images/photo.jpg
   link: https://github.com/KechrisLab/MSPrep
-  description: >-
-    Post processing of LC/MS metabolomic data: Performs summarization of replicates, filtering, imputation, normalization, generates diagnostic plots and outputs final analytic datasets for downstream analysis. [see Hughes et al., 2014](https://www.ncbi.nlm.nih.gov/pubmed/24174567).'
+  description: Post processing of LC/MS metabolomic data. MsPRep Performs summarization of replicates, filtering, imputation, normalization, generates diagnostic plots and outputs final analytic datasets for downstream analysis. [see Hughes et al., 2014](https://www.ncbi.nlm.nih.gov/pubmed/24174567).
   
 - title: tidyMicro
   subtitle: "R package: C. Carpenter"
@@ -122,16 +121,16 @@
   subtitle: "ANSI C code: assisted by D. Dvorkin) Available upon request"
   group: TRANSCRIPTION FACTOR BINDING
   image: images/photo.jpg
-  description: <p> c(onservation)-REDUCE: Extension of the REDUCE algorithm that incorporates conservation across multiple species to detect motifs that correlate with expression. </p> [see Kechris & Li, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19040743)
+  description: c(onservation)-REDUCE. Extension of the REDUCE algorithm that incorporates conservation across multiple species to detect motifs that correlate with expression. [see Kechris & Li, 2009](https://www.ncbi.nlm.nih.gov/pubmed/19040743)
   
 - title: OR-MEME 
   subtitle: "ANSI C code: M. Richards) Available upon request"
   group: TRANSCRIPTION FACTOR BINDING
   image: images/photo.jpg
-  description: OR-MEME (Order Restricted MEME): Detecting DNA regulatory motifs by constraining the order of information content. [see van Zwet et al., 2005](https://www.ncbi.nlm.nih.gov/pubmed/16646826)
+  description: OR-MEME(Order Restricted MEME). Detecting DNA regulatory motifs by constraining the order of information content. [see van Zwet et al., 2005](https://www.ncbi.nlm.nih.gov/pubmed/16646826)
   
 - title: TFEM 
   subtitle: "ANSI C code: M. Richards) Available upon request"
   group: TRANSCRIPTION FACTOR BINDING
   image: images/photo.jpg
-  description: TFEM (Transcription Factor Expectation Maximization): Detecting DNA regulatory motifs by incorporating positional trends in information content. [see Kechris et al., 2004](https://www.ncbi.nlm.nih.gov/pubmed/15239835)
+  description: TFEM(Transcription Factor Expectation Maximization). Detecting DNA regulatory motifs by incorporating positional trends in information content. [see Kechris et al., 2004](https://www.ncbi.nlm.nih.gov/pubmed/15239835)
