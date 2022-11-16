@@ -14,7 +14,13 @@ nav:
 
 # POSITION
 
-+ Professor {:.left } 2018-present {:.right}
++ Professor
+{:.left} 
++ 2018-present
+{:.right}
+
++ Professor{:.left} 2018-present{:.right}
+{:.right}
 + Associate Professor
 + Assistant Professor
 Department of Biostatistics and Informatics
