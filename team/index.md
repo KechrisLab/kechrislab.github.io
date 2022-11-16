@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>KECHRIS GROUP MEMBERS
+# KECHRIS LAB MEMBERS
 
 {% include section.html %}
 
