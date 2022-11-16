@@ -14,7 +14,7 @@ nav:
 
 # POSITION
 
-+ Professor                                                             2018-present
++ Professor 2018-present{:.right}
 
 
 
