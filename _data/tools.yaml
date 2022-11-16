@@ -59,7 +59,7 @@
   group: METABOLOMICS
   image: images/photo.jpg
   link: https://github.com/KechrisLab/MSPrep
-  description: Post processing of LC/MS metabolomic data: Performs summarization of replicates, filtering, imputation, normalization, generates diagnostic plots and outputs final analytic datasets for downstream analysis. [see Hughes et al., 2014](https://www.ncbi.nlm.nih.gov/pubmed/24174567).
+  description: "Post processing of LC/MS metabolomic data: Performs summarization of replicates, filtering, imputation, normalization, generates diagnostic plots and outputs final analytic datasets for downstream analysis." [see Hughes et al., 2014](https://www.ncbi.nlm.nih.gov/pubmed/24174567).
   
 - title: tidyMicro
   subtitle: "R package: C. Carpenter"
