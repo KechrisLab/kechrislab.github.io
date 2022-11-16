@@ -28,6 +28,7 @@ body {
     padding: 60px 40px; // fallback
     padding: 60px Max(40px, calc((100% - #{$page}) / 2));
     text-align: center;
+    vertical-align: baseline;
 
     &[data-full="true"] {
       padding: 0;
