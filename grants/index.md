@@ -28,7 +28,7 @@ determinants of diabetes and obesity in children.
 ## METABOLOMICS
 
 ### Addressing Sparsity in Metabolomics Data Analysis
-Role: Role: Multi-PI (Kechris, Ghosh); NIH/NCI U01 CA235488 2018-2022
+Role: Multi-PI (Kechris, Ghosh); NIH/NCI U01 CA235488 2018-2022
 
 In metabolomics data, there is sparsity in individual metabolites due to a large percentage of missing data due to biological and technical reasons,
 and sparsity in connections between metabolites due to high collinearity and sparsely connected networks in metabolic pathways.
