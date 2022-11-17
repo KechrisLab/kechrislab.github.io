@@ -22,15 +22,12 @@ nav:
 Core Faculty, Computational Bioscience Program<br>
 Colorado School of Public Health<br>
 University of Colorado Denver**	
-<br>
-
 
 + Sloan Foundation/D.O.E. Post-doctoral Fellow (2003-2005)
 <br>
 **Department of Biochemistry and Biophysics<br>
 University of California San Francisco	<br>
 2003-2005**
-<br>
 
 + NSF Graduate Research Fellow (1999-2002)
 <br>
