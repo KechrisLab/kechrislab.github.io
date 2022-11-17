@@ -27,8 +27,8 @@ University of Colorado Denver**
 + Sloan Foundation/D.O.E. Post-doctoral Fellow (2003-2005)
 <br>
 **Department of Biochemistry and Biophysics<br>
-University of California San Francisco	<br>
-**
+University of California San Francisco**
+
 <br>
 <br>
 + NSF Graduate Research Fellow (1999-2002)
