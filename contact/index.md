@@ -38,9 +38,7 @@ nav:
   icon=""
   text="(303) 724-4363"
   tooltip=""
-  link="+1 303-724-4363
-
-"
+  link="+1 303-724-4363"
   style="button"
 %}
 {%
@@ -63,7 +61,5 @@ Biostatistics and Informatics
 Colorado School of Public Health
 Fitzsimons Building, W4162
 Mail Stop B119
-13001 E. 17th Place
-Aurora, CO 80045
-
+13001 E. 17th Place Aurora, CO 80045
 {:.center}
