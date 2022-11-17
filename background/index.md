@@ -23,7 +23,7 @@ Core Faculty, Computational Bioscience Program<br>
 Colorado School of Public Health<br>
 University of Colorado Denver**	
 <br>
-<br>
+
 
 + Sloan Foundation/D.O.E. Post-doctoral Fellow (2003-2005)
 <br>
@@ -31,13 +31,11 @@ University of Colorado Denver**
 University of California San Francisco	<br>
 2003-2005**
 <br>
-<br>
 
 + NSF Graduate Research Fellow (1999-2002)
 <br>
 **Department of Statistics<br>
 University of California Berkeley**	
-<br>
 <br>
 
 + Teaching Assistant/Statistical Consultant(1998-2003)
