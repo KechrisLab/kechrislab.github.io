@@ -14,39 +14,27 @@ nav:
 
 # POSITION
 
-+ Professor 2018-present{:.right}
++ Professor (2018-present) 
++ Associate Professor (2012-2018)
++ Assistant Professor (2006-2012)
+**Department of Biostatistics and Informatics <br>
+Core Faculty, Computational Bioscience Program<br>
+Colorado School of Public Health<br>
+University of Colorado Denver**	
 
-
-
-+ Professor{:.left} 2018-present{:.right}
-{:.right}
-+ Associate Professor
-+ Assistant Professor
-Department of Biostatistics and Informatics
-Core Faculty, Computational Bioscience Program
-Colorado School of Public Health
-University of Colorado Denver	
-
-2012-2018
-2006-2012
-
-Sloan Foundation/D.O.E. Post-doctoral Fellow
++ Sloan Foundation/D.O.E. Post-doctoral Fellow (2003-2005)
 Department of Biochemistry and Biophysics
 University of California San Francisco	
 2003-2005
 
-NSF Graduate Research Fellow
++ NSF Graduate Research Fellow (1999-2002)
 Department of Statistics
 University of California Berkeley	
-1999-2002
 
-
-Teaching Assistant/Statistical Consultant
++ Teaching Assistant/Statistical Consultant(1998-2003)
 Department of Statistics
 University of California Berkeley	
-1998-2003
 
-
-Research Assistant
++ Research Assistant (1998)
 Department of Statistics
 University of California Los Angeles 
