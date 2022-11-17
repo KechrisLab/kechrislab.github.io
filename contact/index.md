@@ -5,27 +5,42 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# Contact
+# Katerina Kechris
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+{%
+  include figure.html
+  image="images/photo.jpg"
+  caption="The Center for Wit and Sagacity"
+%}
+
+## Affiliations 
+
++ Associate Director of Data Science, [Center for Innovation Design and Analysis (CIDA)]()
++ Associate Director, [Computational Bioscience Program]()
++ [Biostatistics]() and [Informatics]()
++ Please see [MS Program]() and [PhD Program]() for more information on our graduate degrees.
++ [Colorado Center for Personalized Medicine]()
++ [Lifecourse Epidemiology of Adiposity and Diabetes (LEAD) Center]()
++ [Human Medical Genetics and Genomics Program]()
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text="katerina.kechris@cuanschutz.edu"
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="katerina.kechris@cuanschutz.edu"
   style="button"
 %}
 {%
   include link.html
   type="phone"
   icon=""
-  text="(555) 867-5309"
+  text="(303) 724-4363"
   tooltip=""
-  link="+1-555-867-5309"
+  link="+1 303-724-4363
+
+"
   style="button"
 %}
 {%
@@ -34,32 +49,21 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/13001+E+17th+Pl,+Aurora,+CO+80045/@39.7452818,-104.8375727,17z/data=!3m1!4b1!4m5!3m4!1s0x876c634e5eddd083:0x1871c670820aff10!8m2!3d39.7452818!4d-104.8375727"
   style="button"
 %}
 {:.center}
 
 {% include section.html %}
 
-### <i class="fas fa-mail-bulk"></i>Mailing Address
+### Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+University of Colorado Denver
+Biostatistics and Informatics
+Colorado School of Public Health
+Fitzsimons Building, W4162
+Mail Stop B119
+13001 E. 17th Place
+Aurora, CO 80045
+
 {:.center}
-
-{% capture col1 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
