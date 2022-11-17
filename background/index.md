@@ -28,7 +28,6 @@ University of Colorado Denver**
 <br>
 **Department of Biochemistry and Biophysics<br>
 University of California San Francisco**
-
 <br>
 <br>
 + NSF Graduate Research Fellow (1999-2002)
@@ -37,7 +36,6 @@ University of California San Francisco**
 University of California Berkeley**	
 <br>
 <br>
-
 + Teaching Assistant/Statistical Consultant(1998-2003)
 <br>
 **Department of Statistics<br>
