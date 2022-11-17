@@ -10,6 +10,7 @@ nav:
 {%
   include figure.html
   image="images/KaterinaKechris2014-small.jpg"
+  width = "50%"
 %}
 
 ## Affiliations 
