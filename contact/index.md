@@ -9,8 +9,7 @@ nav:
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/KaterinaKechris2014-small.jpg"
 %}
 
 ## Affiliations 
