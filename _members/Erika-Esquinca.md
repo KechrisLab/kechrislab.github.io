@@ -1,5 +1,5 @@
 ---
 name: Erika Esquinca
-image: images/member.jpg
+image: images/Rey.jpeg
 description: Biostatistics MS Student (2021- , with Randi Johnson)
 ---
