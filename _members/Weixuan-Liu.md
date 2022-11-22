@@ -1,5 +1,5 @@
 ---
 name: Weixuan Liu
-image: images/member.jpg
+image: images/Jerry.jpeg
 description: Biostatistics PhD Student (2019- )
 ---
