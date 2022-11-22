@@ -15,21 +15,22 @@ nav:
 
 ## Affiliations 
 
-+ Associate Director of Data Science, [Center for Innovation Design and Analysis (CIDA)]()
-+ Associate Director, [Computational Bioscience Program]()
-+ [Biostatistics]() and [Informatics]()
-+ Please see [MS Program]() and [PhD Program]() for more information on our graduate degrees.
-+ [Colorado Center for Personalized Medicine]()
-+ [Lifecourse Epidemiology of Adiposity and Diabetes (LEAD) Center]()
-+ [Human Medical Genetics and Genomics Program]()
++ Associate Director of Data Science, [Center for Innovation Design and Analysis (CIDA)](https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/cida)
++ Director, [Computational Bioscience Program](http://compbio.ucdenver.edu/)
++ [Biostatistics and Informatics](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Pages/welcome.aspx)
++ Please see [MS Program](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Academics/Pages/MSBIOS.aspx) and [PhD Program](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Academics/Pages/PhDBIOS.aspx) for more information on our graduate degrees.
++ [Colorado Center for Personalized Medicine](https://www.cobiobank.org/)
++ [Lifecourse Epidemiology of Adiposity and Diabetes (LEAD) Center](Lifecourse Epidemiology of Adiposity and Diabetes (LEAD) Center)
++ [Human Medical Genetics and Genomics Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home)
++ [Center for Health Artificial Intelligence](https://medschool.cuanschutz.edu/ai)
 
 {%
   include link.html
   type="email"
   icon=""
-  text="katerina.kechris@cuanschutz.edu"
+  text="katerina"dot"kechris "at"cuanschutz"dot"edu"
   tooltip=""
-  link="katerina.kechris@cuanschutz.edu"
+  link=""
   style="button"
 %}
 {%
@@ -56,10 +57,10 @@ nav:
 
 ### Address
 
-University of Colorado Denver
-Biostatistics and Informatics
-Colorado School of Public Health
-Fitzsimons Building, W4162
-Mail Stop B119
+University of Colorado Denver<br>
+Biostatistics and Informatics<br>
+Colorado School of Public Health<br>
+Fitzsimons Building, W4162<br>
+Mail Stop B119<br>
 13001 E. 17th Place Aurora, CO 80045
 {:.center}
