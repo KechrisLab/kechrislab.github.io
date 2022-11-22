@@ -1,5 +1,5 @@
 ---
 name: Suneeta Godbole
-image: images/member.jpg
+image: images/Vampirina.jpeg
 description: MS Research Assistant (2020- )
 ---
