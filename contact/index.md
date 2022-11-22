@@ -28,7 +28,7 @@ nav:
   include link.html
   type="email"
   icon=""
-  text="katerina"dot"kechris "at"cuanschutz"dot"edu"
+  text="katerina dotkechris at cuanschutz dot edu"
   link="none"
   style="button"
 %}
