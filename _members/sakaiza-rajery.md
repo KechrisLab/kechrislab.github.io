@@ -1,5 +1,5 @@
 ---
 name: Sakaiza Rasolofomanana Rajery
-image: images/member.jpg
+image: images/droopy.jpg
 description: Research Assistant (2021- )
 ---
