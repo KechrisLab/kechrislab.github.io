@@ -1,5 +1,5 @@
 ---
 name: Souvik Seal, PhD
-image: images/member.jpg
+image: images/droopy.jpg
 description: Post-doctoral Fellow (2020- )
 ---
