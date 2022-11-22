@@ -1,10 +1,11 @@
 ---
-title: Research & Grants
+title: Research
 nav:
-  order: 7
+  order: 2
   tooltip: Grants
 ---
 
+{% capture col1 %}
 
 # RESEARCH
 
@@ -22,6 +23,9 @@ determinants of diabetes and obesity in children.
 {% include section.html background="images/dna-ancestry_2502064k.jpg" %}
 
 {% include section.html %}
+
+{% endcapture %}
+{% capture col2 %}
 
 # ACTIVE GRANTS
 
@@ -50,3 +54,6 @@ Role: Multi-PI (Bowler, Kechris); NIH/NHLBI R01 HL137995 2018-2022
 There are very few studies in COPD that address risk factors and molecular pathogenesis in African Americans.
 This proposal will use three existing NHLBI cohorts to identify blood signatures that can identify who will be at risk 
 for developing smoking related lung disease in African Americans.
+
+{% endcapture %}
+{% include two-col.html col1=col1 col2=col2 %}
