@@ -29,35 +29,35 @@
 - title: MAI
   subtitle: "R package, REST API: J. Dekermanjian"
   group: METABOLOMICS
-  image: images/photo.jpg
+  image: images/MAI.png
   link: https://github.com/KechrisLab/MAI
   description: R package which uses a two-step approach to imputing missing data in metabolomics. (to appear, BMC Bioinformatics)
   
 - title: PaIRKAT
   subtitle: "R package, Shiny app: C. Carpenter, C. Severn" 
   group: METABOLOMICS
-  image: images/photo.jpg
+  image: images/PaIRKAT.png
   link: https://github.com/Ghoshlab/pairkat
   description: A pathway integrated regression-based kernel association test with applications to metabolomics [see Carpenter et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34677393/).
   
 - title: MSCAT
   subtitle: "Web Server: J. Dekermanjian, W. Labeikovsky"
   group: METABOLOMICS
-  image: images/photo.jpg
+  image: images/MSCat.png
   link: https://mscat.metabolomicsworkbench.org/
   description: Database of metabolomics software tools and allows one to generate potential software workflows using an online interface. [see Dekermanjian et al., 2021.](https://pubmed.ncbi.nlm.nih.gov/34677393/)
 
 - title: MaRR
   subtitle: "R package, Shiny app: T. Ghosh, M. McGrath"
   group: METABOLOMICS
-  image: images/photo.jpg
+  image: images/Marr.png
   link: https://github.com/Ghoshlab/marr
   description: Reproducibility of mass spectrometry based metabolomics data.[see Ghosh et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34493210/)
 
 - title: MSPrep
   subtitle: "R package: M. McGrath, G. Hughes"
   group: METABOLOMICS
-  image: images/photo.jpg
+  image: images/MSPrep.png
   link: https://github.com/KechrisLab/MSPrep
   description: Post processing of LC/MS metabolomic data. MsPRep Performs summarization of replicates, filtering, imputation, normalization, generates diagnostic plots and outputs final analytic datasets for downstream analysis. [see Hughes et al., 2014](https://www.ncbi.nlm.nih.gov/pubmed/24174567).
   
