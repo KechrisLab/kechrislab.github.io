@@ -1,5 +1,5 @@
 ---
 name: Thao Vu, PhD
-image: images/member.jpg
+image: images/woody.jpeg
 description: Post-doctoral Fellow (2020-)
 ---
