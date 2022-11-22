@@ -29,8 +29,6 @@ nav:
   type="email"
   icon=""
   text="katerina"dot"kechris "at"cuanschutz"dot"edu"
-  tooltip=""
-  link=""
   style="button"
 %}
 {%
