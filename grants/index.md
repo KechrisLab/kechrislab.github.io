@@ -19,8 +19,6 @@ We have several focus areas:
 disease in the COPDGene genetic epidemiology study, substance use disorders using animal models, and early life 
 determinants of diabetes and obesity in children.
 {:.center}
-
-{% include section.html background="images/dna-ancestry_2502064k.jpg" %}
 {% endcapture %}
 
 {% capture col2 %}
