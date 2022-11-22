@@ -25,6 +25,7 @@ determinants of diabetes and obesity in children.
 {% include section.html %}
 
 {% endcapture %}
+
 {% capture col2 %}
 
 # ACTIVE GRANTS
