@@ -29,8 +29,6 @@ nav:
   type="email"
   icon=""
   text="katerina dotkechris at cuanschutz dot edu"
-  link="none"
-  style="button"
 %}
 {%
   include link.html
