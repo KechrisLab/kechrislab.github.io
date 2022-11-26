@@ -12,9 +12,8 @@ baseurl: /KechrisLabWebsite
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
   google-scholar: Jane Smith
-  github: your-lab
+  github: https://github.com/kechrislab
   
 ### advanced settings
 
