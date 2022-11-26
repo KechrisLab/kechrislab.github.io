@@ -93,7 +93,7 @@ linkedin:
   link: https://www.linkedin.com/in/$LINK
   
 research-gate:
-  icon: fab fa-Researchgate
+  icon: fa-brands fa-researchgate
   text: ResearchGate
   tooltip: ResearchGate
   link: https://www.researchgate.net/profile/$LINK
