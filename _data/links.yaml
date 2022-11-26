@@ -91,6 +91,12 @@ linkedin:
   text: LinkedIn
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$LINK
+  
+research-gate:
+  icon: researchgate.svg
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://www.researchgate.net/profile/$LINK
 
 # publications
 
