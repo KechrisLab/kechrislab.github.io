@@ -13,7 +13,8 @@ baseurl: /KechrisLabWebsite
 # site social media and other links
 links:
   google-scholar: Jane Smith
-  github: https://github.com/kechrislab
+  github: kechrislab
+  research-gate: Katerina-Kechris
   
 ### advanced settings
 
