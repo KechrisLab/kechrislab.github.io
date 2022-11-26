@@ -49,6 +49,12 @@ orcid:
   text: ORCID
   tooltip: ORCID
   link: https://orcid.org/$LINK
+  
+research-gate:
+  icon: researchgate.svg
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://www.researchgate.net/profile/$LINK
 
 google-scholar:
   icon: fab fa-google
