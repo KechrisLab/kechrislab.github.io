@@ -7,6 +7,16 @@ nav:
 
 # Tools
 
+{%
+  include link.html
+  type=""
+  icon="fa-brands fa-github"
+  text="Kechris Lab Github"
+  link = "https://github.com/kechrislab"
+  style="button"
+%}
+{:.center}
+
 {% include search-info.html %}
 
 {% include section.html %}
