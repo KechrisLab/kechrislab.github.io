@@ -15,7 +15,7 @@ nav:
 
 {%
   include link.html
-  type=""
+  type="Email"
   icon=""
   text="katerina dot kechris at cuanschutz dot edu"
   link = "none"
