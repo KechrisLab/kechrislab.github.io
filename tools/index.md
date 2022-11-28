@@ -10,7 +10,7 @@ nav:
 {%
   include link.html
   type=""
-  icon= ""
+  icon= "fab fa-github"
   text= "Kechris Lab Github"
   link = "https://github.com/kechrislab"
   style="button"
