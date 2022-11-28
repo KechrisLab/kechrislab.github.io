@@ -267,7 +267,7 @@
   publisher: PLoS One. 8(7):e68878
   
 - id: doi:10.1089/omi.2013.0038
-  publisher: OMICS: A Journal of Integrative Biology. 17:619-626
+  publisher: OMICS, A Journal of Integrative Biology. 17:619-626
   
 - id: doi:10.1164/rccm.201212-2299OC
   publisher: American Journal of Respiratory and Critical Care Medicine. 88:561-6
@@ -288,7 +288,7 @@
   publisher: Bioinformatics. 28:2986-8
   
 - id: doi:10.1111/j.1530-0277.2012.01757.x
-  publisher: Alcoholism: Clinical & Experimental Research. 36:1519-29
+  publisher: Alcoholism, Clinical & Experimental Research. 36:1519-29
   
 - id: doi:10.1371/journal.pone.0026105
   publisher: PLoS ONE. 6:e26105
@@ -309,7 +309,7 @@
   publisher: Development. 137:3887-98
   
 - id: doi:10.1186/1471-2105-9-506
-  publisher: BMC Bioinformatics. 9:506(1)
+  publisher: BMC Bioinformatics. 9:506
   
 - id: doi:10.1186/1471-2164-9-551
   publisher: BMC Genomics. 9:551(authors contributed equally)
@@ -318,13 +318,13 @@
   publisher: Mammalian Genome. 19:352-65
   
 - id: doi:10.1186/1471-2156-8-59
-  publisher: BMC Genetics. 8:59(1)
+  publisher: BMC Genetics. 8:59
   
 - id: doi:10.1016/j.virusres.2007.05.020
   publisher: Virus Research. 130:85-95
 
 - id: doi:10.1007/978-3-540-72031-7_31
-  publisher: Lecture Notes in Computer Science: International Symposium on Bioinformatics Research and Applications, ISBRA 2007 Proceedings, pg 338-349.
+  publisher: Lecture Notes in Computer Science, International Symposium on Bioinformatics Research and Applications, ISBRA 2007 Proceedings, pg 338-349.
   
 - id: doi:10.1073/pnas.0603534103
   publisher: Proceedings of the National Academy of Sciences. 103:9584-9589
