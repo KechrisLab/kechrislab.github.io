@@ -31,7 +31,8 @@
   group: METABOLOMICS
   image: images/MAI.png
   link: https://github.com/KechrisLab/MAI
-  description: R package which uses a two-step approach to imputing missing data in metabolomics. (to appear, BMC Bioinformatics)
+  description: R package which uses a two-step approach to imputing missing data in metabolomics [see Dekermanjian et al., 2022](https://pubmed.ncbi.nlm.nih.gov/35578165/)
+
   
 - title: PaIRKAT
   subtitle: "R package, Shiny app: C. Carpenter, C. Severn" 
@@ -73,7 +74,7 @@
   group: EPIGENETICS
   image: images/photo.jpg
   link: https://github.com/brentp/combined-pvalues
-  description: Combining genome-wide p-values using a modified Stouffer-Liptak test corrected for spatial correlations. see Kechris et al., 2010 and Pedersen et al., 2012
+  description: Combining genome-wide p-values using a modified Stouffer-Liptak test corrected for spatial correlations. [see Kechris et al., 2010](https://pubmed.ncbi.nlm.nih.gov/20812907/) and [Pedersen et al., 2012](https://pubmed.ncbi.nlm.nih.gov/22954632/)
     
 - title: aptardi 
   subtitle: "Python: R. Lusk"
