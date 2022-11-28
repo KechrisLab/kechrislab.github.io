@@ -267,7 +267,7 @@
   publisher: PLoS One. 8(7):e68878
   
 - id: doi:10.1089/omi.2013.0038
-  publisher: OMICS: A Journal of Integrative Biology</i> 17:619-626
+  publisher: OMICS: A Journal of Integrative Biology. 17:619-626
   
 - id: doi:10.1164/rccm.201212-2299OC
   publisher: American Journal of Respiratory and Critical Care Medicine. 88:561-6
@@ -341,3 +341,5 @@
 - id: doi:10.1073/pnas.222508899
   publisher: Proceedings of the National Academy of Sciences, USA. 99:14764-14771
   
+- id: doi:10.1128/jvi.00976-22
+  publisher: Journal of Virology. 96(17):e0097622
