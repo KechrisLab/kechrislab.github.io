@@ -1704,3 +1704,621 @@
   date: '2013-01-01'
   link: https://doi.org/gbdjcj
   _cache: 4cdf3967f80f3cbe5a1d2dc2c47dcc78c31365ab8e63256be1207179f193e74c
+- id: doi:10.1002/sim.5850
+  title: Modeling considerations for using expression data from multiple species
+  authors:
+  - Elizabeth Siewert
+  - Katerina J. Kechris
+  publisher: Statistics in Medicine. 32:4057-4070
+  date: '2013-05-23'
+  link: https://doi.org/gqxnv7
+  _cache: 6a2b21676d67c9d7c66ff4cde30bfadc300ca6dc0a59a3d327b39ecdd04f9224
+- id: doi:10.1016/j.gpb.2013.10.002
+  title: Hands-on Workshops as An Effective Means of Learning Advanced Technologies
+    Including Genomics, Proteomics and Bioinformatics
+  authors:
+  - Nichole Reisdorph
+  - Robert Stearman
+  - Katerina Kechris
+  - Tzu Lip Phang
+  - Richard Reisdorph
+  - Jessica Prenni
+  - David J. Erle
+  - Christopher Coldren
+  - Kevin Schey
+  - Alexey Nesvizhskii
+  - Mark Geraci
+  publisher: Genomics, Proteomics & Bioinformatics. 11:368-77
+  date: '2013-12-01'
+  link: https://doi.org/gm4qqd
+  _cache: 587db9d5e800201f62a3f36e2de647c181f969d4e070f84c4db86d38d0a2061c
+- id: doi:10.1371/journal.pone.0068878
+  title: Whole Brain and Brain Regional Coexpression Network Interactions Associated
+    with Predisposition to Alcohol Consumption
+  authors:
+  - Lauren A. Vanderlinden
+  - Laura M. Saba
+  - Katerina Kechris
+  - Michael F. Miles
+  - Paula L. Hoffman
+  - Boris Tabakoff
+  publisher: PLoS One. 8(7):e68878
+  date: '2013-07-23'
+  link: https://doi.org/f5bwwp
+  _cache: 970cb1a7885f22c78ee05eadae7373344e626ca42b5e5ba0a4fc1f939b8bc0e0
+- id: doi:10.1089/omi.2013.0038
+  title: Integrative Omics Approach Identifies Interleukin-16 as a Biomarker of Emphysema
+  authors:
+  - Russell P. Bowler
+  - Timothy M. Bahr
+  - Grant Hughes
+  - Sharon Lutz
+  - Yu-Il Kim
+  - Christopher D. Coldren
+  - Nichole Reisdorph
+  - Katerina J. Kechris
+  publisher: OMICS, A Journal of Integrative Biology. 17:619-626
+  date: '2013-12-01'
+  link: https://doi.org/f5pn5s
+  _cache: bfaff5d6eebd323ee5dafb02e677097b0edfb8522968baad0d62e37e905c5d20
+- id: doi:10.1164/rccm.201212-2299OC
+  title: The Association of Adiponectin with Computed Tomography Phenotypes in Chronic
+    Obstructive Pulmonary Disease
+  authors:
+  - Brendan J. Carolan
+  - Yu-il Kim
+  - "Andr\xE9 A. Williams"
+  - Katerina Kechris
+  - Sharon Lutz
+  - Nichole Reisdorph
+  - Russell P. Bowler
+  publisher: American Journal of Respiratory and Critical Care Medicine. 88:561-6
+  date: '2013-09-01'
+  link: https://doi.org/f49ps2
+  _cache: 5265132555cb267c8eaa3c6b07936fd9dbb225b2326d4e5e22e4fe2c1fe9f7f7
+- id: doi:10.1165/rcmb.2012-0230OC
+  title: Peripheral Blood Mononuclear Cell Gene Expression in Chronic Obstructive
+    Pulmonary Disease
+  authors:
+  - Timothy M. Bahr
+  - Grant J. Hughes
+  - Michael Armstrong
+  - Rick Reisdorph
+  - Christopher D. Coldren
+  - Michael G. Edwards
+  - Christina Schnell
+  - Ross Kedl
+  - Daniel J. LaFlamme
+  - Nichole Reisdorph
+  - Katerina J. Kechris
+  - Russell P. Bowler
+  publisher: American Journal of Respiratory Cell and Molecular Biology. 49:316-23
+  date: '2013-08-01'
+  link: https://doi.org/f45w74
+  _cache: d9ab2691f15ff4a474803094601c01139e27b2521302cc117f81adc5791e2125
+- id: doi:10.2478/immun-2013-0001
+  title: Exposure to Maternal Diabetes in Utero and DNA Methylation Patterns in the
+    Offspring
+  authors:
+  - Nancy A West
+  - Katerina Kechris
+  - Dana Dabelea
+  publisher: Immunometabolism. 1:1-9
+  date: '2013-01-08'
+  link: https://doi.org/grb9tq
+  _cache: f29a896c745bd78ada73b63a888cc20cb56a8da9cea5088ebcb9b41c028a298c
+- id: doi:10.1371/journal.pone.0072751
+  title: 'Multiple Amino Acid Sequence Alignment Nitrogenase Component 1: Insights
+    into Phylogenetics and Structure-Function Relationships'
+  authors:
+  - James B. Howard
+  - Katerina J. Kechris
+  - Douglas C. Rees
+  - Alexander N. Glazer
+  publisher: PLoS One. 8(9):e72751
+  date: '2013-09-03'
+  link: https://doi.org/grb9tr
+  _cache: 0240fe0a629416d6bb5503e2f4b92b98063f14f2a4fa9b44dedcc8ecdeafc01d
+- id: doi:10.1016/j.jdermsci.2013.06.004
+  title: 'Biphasic pro-melanogenic and pro-apoptotic effects of all-trans-retinoic
+    acid (ATRA) on human melanocytes: Time-course study'
+  authors:
+  - Ioana Baldea
+  - Gertrude-Emilia Costin
+  - Yiqun Shellman
+  - Katerina Kechris
+  - Elena Diana Olteanu
+  - Adriana Filip
+  - Maria Rodica Cosgarea
+  - David Albert Norris
+  - Stanca Ariana Birlea
+  publisher: Journal of Dermatological Science. 72:168-76
+  date: '2013-11-01'
+  link: https://doi.org/f2qpgz
+  _cache: bea9c26f9eab7d5587a5c2548750146ab27851413db9ff9adc5ea9c672a14f20
+- id: doi:10.1093/bioinformatics/bts545
+  title: 'Comb-p: software for combining, analyzing, grouping and correcting spatially
+    correlated P-values'
+  authors:
+  - B. S. Pedersen
+  - D. A. Schwartz
+  - I. V. Yang
+  - K. J. Kechris
+  publisher: Bioinformatics. 28:2986-8
+  date: '2012-09-05'
+  link: https://doi.org/f4csvb
+  _cache: a9ad20749ae3df1f3cbe68cf1926686483c90af366e8eb542310c43dfc5418c6
+- id: doi:10.1111/j.1530-0277.2012.01757.x
+  title: Gene Expression Changes in C57BL/6J and DBA/2J Mice Following Prenatal Alcohol
+    Exposure
+  authors:
+  - Chris Downing
+  - Stephen Flink
+  - Maria L. Florez-McClure
+  - Thomas E. Johnson
+  - Boris Tabakoff
+  - Katerina J. Kechris
+  publisher: Alcoholism, Clinical & Experimental Research. 36:1519-29
+  date: '2012-04-24'
+  link: https://doi.org/f379pt
+  _cache: ea9032d17f06400255119a55a24b479223c2b238ddfb5a5cc039c0a2c5db24cd
+- id: doi:10.1371/journal.pone.0026105
+  title: Bayesian Analysis of High-Throughput Quantitative Measurement of Protein-DNA
+    Interactions
+  authors:
+  - David D. Pollock
+  - A. P. Jason de Koning
+  - Hyunmin Kim
+  - Todd A. Castoe
+  - Mair E. A. Churchill
+  - Katerina J. Kechris
+  publisher: PLoS ONE. 6:e26105
+  date: '2011-11-01'
+  link: https://doi.org/ch7h67
+  _cache: 8d28b7b208379963db0867e0e44b439c48ebcd68f8f916e6178dc439b6ad329c
+- id: doi:10.1007/s10519-010-9427-0
+  title: Genetical Genomic Analysis of Complex Phenotypes Using the PhenoGen Website
+  authors:
+  - Beth Bennett
+  - Laura M. Saba
+  - Cheryl K. Hornbaker
+  - Katerina J. Kechris
+  - Paula Hoffman
+  - Boris Tabakoff
+  publisher: Behavior Genetics. 41:625-8
+  date: '2010-12-24'
+  link: https://doi.org/cfgpx4
+  _cache: fdc7f172ef543eff817ae74e79e858b5fcde5c18a6d7632b8474433845b7df81
+- id: doi:10.1016/j.neuropharm.2010.12.019
+  title: 'A systems genetic analysis of alcohol drinking by mice, rats and men: Influence
+    of brain GABAergic transmission'
+  authors:
+  - Laura M. Saba
+  - Beth Bennett
+  - Paula L. Hoffman
+  - Kelsey Barcomb
+  - Takao Ishii
+  - Katerina Kechris
+  - Boris Tabakoff
+  publisher: Neuropharmacology. 60:1269-80
+  date: '2011-06-01'
+  link: https://doi.org/fgx4qh
+  _cache: 17cdcdcc6315d361eb8e9addbe0c93bacd6877d539dfebcec1f3e8b59767a9b4
+- id: doi:10.1111/j.1369-1600.2010.00254.x
+  title: "Using the Phenogen website for \u2018in silico\u2019 analysis of morphine-induced\
+    \ analgesia: identifying candidate genes"
+  authors:
+  - Paula L. Hoffman
+  - Beth Bennett
+  - Laura M. Saba
+  - Sanjiv V. Bhave
+  - Phyllis J. Carosone-Link
+  - Cheryl K. Hornbaker
+  - Katerina J. Kechris
+  - Robert W. Williams
+  - Boris Tabakoff
+  publisher: Addiction Biology. 16:393-404
+  date: '2010-11-04'
+  link: https://doi.org/dhwk55
+  _cache: 32e7e0be93ddb7e338179227dc2fc9d9e9440515817e3e6d9742d4099b669317
+- id: doi:10.2202/1544-6115.1434
+  title: Generalizing Moving Averages for Tiling Arrays Using Combined P-Value Statistics
+  authors:
+  - Katerina J Kechris
+  - Brian Biehs
+  - Thomas B Kornberg
+  publisher: Statistical Applications in Genetics and Molecular Biology. Vol9(No.1).
+    Article 29
+  date: '2010-01-06'
+  link: https://doi.org/cj5d7w
+  _cache: 71f24345f132dc7f6f231964651ccadd7d69cd0c086cc8ebe3e2c2715f305d4b
+- id: doi:10.1242/dev.055871
+  title: Hedgehog targets in the<i>Drosophila</i>embryo and the mechanisms that generate
+    tissue-specific outputs of Hedgehog signaling
+  authors:
+  - Brian Biehs
+  - Katerina Kechris
+  - SongMei Liu
+  - Thomas B. Kornberg
+  publisher: Development. 137:3887-98
+  date: '2010-11-15'
+  link: https://doi.org/bs3c75
+  _cache: 15254c81bbbe3858eac89ecc22f59fd205862af05d12b11835da38723f22c459
+- id: doi:10.1186/1471-2105-9-506
+  title: 'c-REDUCE: Incorporating sequence conservation to detect motifs that correlate
+    with expression'
+  authors:
+  - Katerina Kechris
+  - Hao Li
+  publisher: BMC Bioinformatics. 9:506
+  date: '2008-11-28'
+  link: https://doi.org/cj8bxf
+  _cache: b38b8df003449e868ad1b71c66004d571c1f88ff6e8d9ed0c6b236f148ec9b4d
+- id: doi:10.1186/1471-2164-9-551
+  title: Prediction of alternatively skipped exons and splicing enhancers from exon
+    junction arrays
+  authors:
+  - Katerina Kechris
+  - Yee Yang
+  - Ru-Fang Yeh
+  publisher: BMC Genomics. 9:551(authors contributed equally)
+  date: '2008-01-01'
+  link: https://doi.org/dcrsn2
+  _cache: 25d4aab671eea13ed49e32dd53201d8b0f6a4fb02244ae8f14f10d76f722499c
+- id: doi:10.1007/s00335-008-9115-z
+  title: The genomic determinants of alcohol preference in mice
+  authors:
+  - Boris Tabakoff
+  - Laura Saba
+  - Katherina Kechris
+  - Wei Hu
+  - Sanjiv V. Bhave
+  - Deborah A. Finn
+  - Nicholas J. Grahame
+  - Paula L. Hoffman
+  publisher: Mammalian Genome. 19:352-65
+  date: '2008-05-01'
+  link: https://doi.org/d96dfj
+  _cache: d018b51d8d9d09a3b16b201cf396d4addb28eff679c139c9410a59dd61793eb1
+- id: doi:10.1186/1471-2156-8-59
+  title: 'The PhenoGen Informatics website: tools for analyses of complex traits'
+  authors:
+  - Sanjiv V Bhave
+  - Cheryl Hornbaker
+  - Tzu L Phang
+  - Laura Saba
+  - Razvan Lapadat
+  - Katherina Kechris
+  - Jeanette Gaydos
+  - Daniel McGoldrick
+  - Andrew Dolbey
+  - Sonia Leach
+  - Brian Soriano
+  - Allison Ellington
+  - Eric Ellington
+  - Kendra Jones
+  - Jonathan Mangion
+  - John K Belknap
+  - Robert W Williams
+  - Lawrence E Hunter
+  - Paula L Hoffman
+  - Boris Tabakoff
+  publisher: BMC Genetics. 8:59
+  date: '2007-08-30'
+  link: https://doi.org/d3cdtc
+  _cache: 77228356474eeefac57365a5259cfe6657698bb8668a2c5e872a889f1699bcc2
+- id: doi:10.1016/j.virusres.2007.05.020
+  title: 'Hepatitis C virus RNA: Dinucleotide frequencies and cleavage by RNase L'
+  authors:
+  - Christopher L. Washenberger
+  - Jian-Qiu Han
+  - Katherina J. Kechris
+  - Babal Kant Jha
+  - Robert H. Silverman
+  - David J. Barton
+  publisher: Virus Research. 130:85-95
+  date: '2007-12-01'
+  link: https://doi.org/cr2m3n
+  _cache: 8cd11375d608ad4b2cfc57571d33a7ff2408f3acfaff0dcbb6f8fa6eede0984f
+- id: doi:10.1007/978-3-540-72031-7_31
+  title: Mining Discriminative Distance Context of Transcription Factor Binding Sites
+    on ChIP Enriched Regions
+  authors:
+  - Hyunmin Kim
+  - Katherina J. Kechris
+  - Lawrence Hunter
+  publisher: Lecture Notes in Computer Science, International Symposium on Bioinformatics
+    Research and Applications, ISBRA 2007 Proceedings, pg 338-349.
+  date: '1900-01-01'
+  link: https://doi.org/dd75zc
+  _cache: 77e753480336f99737efd9b0ebf75125dd8c6418efefe28c2ae6777eb5b13605
+- id: doi:10.1073/pnas.0603534103
+  title: Quantitative exploration of the occurrence of lateral gene transfer by using
+    nitrogen fixation genes as a case study
+  authors:
+  - Katherina J. Kechris
+  - Jason C. Lin
+  - Peter J. Bickel
+  - Alexander N. Glazer
+  publisher: Proceedings of the National Academy of Sciences. 103:9584-9589
+  date: '2006-06-20'
+  link: https://doi.org/fdbrfz
+  _cache: 3975279c30039734bb84398f089188607c1980e94d12b56e4ff2c529a8b15898
+- id: doi:10.1242/dev.01927
+  title: Regulation of cellular plasticity in<i>Drosophila</i>imaginal disc cells
+    by the Polycomb group, trithorax group and<i>lama</i>genes
+  authors:
+  - Ansgar Klebes
+  - Anne Sustar
+  - Katherina Kechris
+  - Hao Li
+  - Gerold Schubiger
+  - Thomas B. Kornberg
+  publisher: Development. 132:3753-3765
+  date: '2005-08-15'
+  link: https://doi.org/bxhh73
+  _cache: 59c75a5e415b6ad7c51a50eb6ee234dc19ef9245bdf6e7db480396747129b07d
+- id: doi:10.2202/1544-6115.1100
+  title: Estimating Motifs Under Order Restrictions
+  authors:
+  - Erik W van Zwet
+  - Katherina J Kechris
+  - Peter J Bickel
+  - Michael B. Eisen
+  publisher: Statistical Applications in Genetics and Molecular Biology. Vol4(No.1).Article
+    1
+  date: '2005-01-10'
+  link: https://doi.org/bv53n9
+  _cache: 9928ab46567b9a46ca99600f4dd5cf114e9722ee44fa1ea80b198eee675fc01c
+- id: doi:10.1186/gb-2004-5-7-r50
+  title: ''
+  authors:
+  - Katherina J Kechris
+  - Erik van Zwet
+  - Peter J Bickel
+  - Michael B Eisen
+  publisher: Genome Biology. 5:R50
+  date: '2004-01-01'
+  link: https://doi.org/fkm63k
+  _cache: 5c09d683218da4849b0cc67b5a4a91e45d498d29a34e13dcb10e89f5b155e1df
+- id: doi:10.1073/pnas.222508899
+  title: Finding important sites in protein sequences
+  authors:
+  - Peter J. Bickel
+  - Katherina J. Kechris
+  - Philip C. Spector
+  - Gary J. Wedemayer
+  - Alexander N. Glazer
+  publisher: Proceedings of the National Academy of Sciences, USA. 99:14764-14771
+  date: '2002-11-04'
+  link: https://doi.org/dctptn
+  _cache: 71a087b37284bfbfd009d3bb6dd4851a0ab36356c9f40c03c48d7c0e3180fb28
+- id: doi:10.1128/jvi.00976-22
+  title: Altered Immunoglobulin Repertoire and Decreased IgA Somatic Hypermutation
+    in the Gut during Chronic HIV-1 Infection
+  authors:
+  - Sean T. Jones
+  - Kejun Guo
+  - Emily H. Cooper
+  - Stephanie M. Dillon
+  - Cheyret Wood
+  - David H. Nguyen
+  - Guannan Shen
+  - Bradley S. Barrett
+  - Daniel N. Frank
+  - Miranda Kroehl
+  - Edward N. Janoff
+  - Katerina Kechris
+  - Cara C. Wilson
+  - Mario L. Santiago
+  publisher: Journal of Virology. 96(17):e0097622
+  date: '2022-09-14'
+  link: https://doi.org/grb9ts
+  _cache: e6c11d11912b2b84cd4fc5d3dc59f7d8faadf20c8c901f414c575b29fcedc979
+- id: doi:10.1016/j.envres.2022.113881
+  title: 'Ambient air pollution during pregnancy and DNA methylation in umbilical
+    cord blood, with potential mediation of associations with infant adiposity: The
+    Healthy Start study'
+  authors:
+  - Anne P. Starling
+  - Cheyret Wood
+  - Cuining Liu
+  - Katerina Kechris
+  - Ivana V. Yang
+  - Chloe Friedman
+  - Deborah S.K. Thomas
+  - Jennifer L. Peel
+  - John L. Adgate
+  - Sheryl Magzamen
+  - Sheena E. Martenies
+  - William B. Allshouse
+  - Dana Dabelea
+  publisher: Environmental Research. 214(Pt 1):113881
+  date: '2022-11-01'
+  link: https://doi.org/grb9tt
+  _cache: 2cb9c973bf434db5c95ea14b5e49ac195b186577f9b964bffad27a90cc049b8e
+- id: doi:10.3389/fdata.2022.894632
+  title: Significant Subgraph Detection in Multi-omics Networks for Disease Pathway
+    Identification
+  authors:
+  - Mohamed Abdel-Hafiz
+  - Mesbah Najafi
+  - Shahab Helmi
+  - Katherine A. Pratte
+  - Yonghua Zhuang
+  - Weixuan Liu
+  - Katerina J. Kechris
+  - Russell P. Bowler
+  - Leslie Lange
+  - Farnoush Banaei-Kashani
+  publisher: Frontiers in Big Data. 5:894632
+  date: '2022-06-22'
+  link: https://doi.org/grb9tv
+  _cache: 4c8e33d62e42b80183aef8a35f011a916c6c1ebceccc9e8cb25ba65c2d83a5e2
+- id: doi:10.2337/db21-1111
+  title: 'Changes in the Coexpression of Innate Immunity Genes During Persistent Islet
+    Autoimmunity Are Associated With Progression of Islet Autoimmunity: Diabetes Autoimmunity
+    Study in the Young (DAISY)'
+  authors:
+  - Patrick M. Carry
+  - Kathleen Waugh
+  - Lauren A. Vanderlinden
+  - Randi K. Johnson
+  - Teresa Buckner
+  - Marian Rewers
+  - Andrea K. Steck
+  - Ivana Yang
+  - Tasha E. Fingerlin
+  - Katerina Kechris
+  - Jill M. Norris
+  publisher: Diabetes. 71(9):2048-2057
+  date: '2022-06-20'
+  link: https://doi.org/grb9tw
+  _cache: e1a7bf497a8766180697013176dec340a379d7d286d936ed278e0201843b63aa
+- id: doi:10.1016/j.ijpara.2022.04.002
+  title: Predictors of bovine Schistosoma japonicum infection in rural Sichuan, China
+  authors:
+  - Elise Grover
+  - Sara Paull
+  - Katerina Kechris
+  - Andrea Buchwald
+  - Katherine James
+  - Yang Liu
+  - Elizabeth J. Carlton
+  publisher: International Journal for Parasitology. 52(8):485-496
+  date: '2022-07-01'
+  link: https://doi.org/grb9tx
+  _cache: b77fa353b2188358285e71e0abdd6e4e806bc9a563169c8fbd74e77d54cdbb8a
+- id: doi:10.3390/metabo12050368
+  title: A Metabolomic Severity Score for Airflow Obstruction and Emphysema
+  authors:
+  - Suneeta Godbole
+  - Wassim W. Labaki
+  - Katherine A. Pratte
+  - Andrew Hill
+  - Matthew Moll
+  - Annette T. Hastie
+  - Stephen P. Peters
+  - Andrew Gregory
+  - Victor E. Ortega
+  - Dawn DeMeo
+  - Michael H. Cho
+  - Surya P. Bhatt
+  - J. Michael Wells
+  - Igor Barjaktarevic
+  - Kathleen A. Stringer
+  - Alejandro Comellas
+  - "Wanda O\u2019Neal"
+  - Katerina Kechris
+  - Russell P. Bowler
+  publisher: Metabolites. 12(5):368
+  date: '2022-04-19'
+  link: https://doi.org/grb9tz
+  _cache: bb5540d5f0fbbb455c29e03855b0da44d1b41ef8ebe4a467ecf93d4ebb8563d6
+- id: doi:10.1186/s12859-022-04659-1
+  title: 'Mechanism-aware imputation: a two-step approach in handling missing values
+    in metabolomics'
+  authors:
+  - Jonathan P. Dekermanjian
+  - Elin Shaddox
+  - Debmalya Nandy
+  - Debashis Ghosh
+  - Katerina Kechris
+  publisher: BMC Bioinformatics. 16;23(1):179
+  date: '2022-05-16'
+  link: https://doi.org/grb9t2
+  _cache: 387b23b4721ae1d85112c11fed8beec6a063167172f3dd4bf76d61d63f1877ea
+- id: doi:10.3389/fgene.2022.762834
+  title: Sex-Specific Differences in MicroRNA Expression During Human Fetal Lung Development
+  authors:
+  - Nancy W. Lin
+  - Cuining Liu
+  - Ivana V. Yang
+  - Lisa A. Maier
+  - Dawn L. DeMeo
+  - Cheyret Wood
+  - Shuyu Ye
+  - Margaret H. Cruse
+  - Vong L. Smith
+  - Carrie A. Vyhlidal
+  - Katerina Kechris
+  - Sunita Sharma
+  publisher: Frontiers in Genetics. 13:762834
+  date: '2022-04-11'
+  link: https://doi.org/grb9t3
+  _cache: a7ba70665e5677032729a67ca033b2c69eed8c3f1d0bfed10c54075c59bfa6b3
+- id: doi:10.3390/metabo12030265
+  title: Metabolomic Profiles in Childhood and Adolescence Are Associated with Fetal
+    Overnutrition
+  authors:
+  - Ellen C. Francis
+  - Katerina Kechris
+  - Catherine C. Cohen
+  - Gregory Michelotti
+  - Dana Dabelea
+  - Wei Perng
+  publisher: Metabolites. 12(3):265
+  date: '2022-03-19'
+  link: https://doi.org/grb9t4
+  _cache: 3b3f1f910886cc613a2d84c25a62454d2e907fe91f23407d7f19c3e6e95e3f72
+- id: doi:10.1080/19490976.2022.2045852
+  title: Granzyme B<sup>+</sup> CD4 T cells accumulate in the colon during chronic
+    HIV-1 infection
+  authors:
+  - Stephanie M. Dillon
+  - Kaylee L. Mickens
+  - Tezha A. Thompson
+  - Emily H. Cooper
+  - Sabrina Nesladek
+  - Allison J. Christians
+  - Moriah Castleman
+  - Kejun Guo
+  - Cheyret Wood
+  - Daniel N. Frank
+  - Katerina Kechris
+  - Mario L. Santiago
+  - Cara C. Wilson
+  publisher: Gut Microbes. 14(1):2045852
+  date: '2022-03-08'
+  link: https://doi.org/grb9t5
+  _cache: d717e7c746d5ca792c7dd0a154435ac34b29a59ccb767c1224340f37ce140e60
+- id: doi:10.3389/fgene.2021.760299
+  title: An Augmented High-Dimensional Graphical Lasso Method to Incorporate Prior
+    Biological Knowledge for Global Network Learning
+  authors:
+  - Yonghua Zhuang
+  - Fuyong Xing
+  - Debashis Ghosh
+  - Farnoush Banaei-Kashani
+  - Russell P. Bowler
+  - Katerina Kechris
+  publisher: Frontiers in Genetics.12:760299
+  date: '2022-01-27'
+  link: https://doi.org/grb9t6
+  _cache: c4b8c96e2677ae09e8b63284f21350d503eaaaf6ab47d6dbcf85f8c5dd931061
+- id: doi:10.1165/rcmb.2021-0285LE
+  title: Chronic Marijuana Use Is Associated with Gene Expression Changes in BAL
+  authors:
+  - Cuining Liu
+  - Jeanette Gaydos
+  - Rebecca Johnson-Paben
+  - Katerina Kechris
+  - Ellen L. Burnham
+  - Sunita Sharma
+  publisher: American Journal of Respiratory Cell and Molecular Biology. 66(2):238-239
+  date: '2022-02-01'
+  link: https://doi.org/grb9t7
+  _cache: 5b14503447c69ae9ec3795c6d3a753d5b6d928bc08dea6ee85d30e7feb796c59
+- id: doi:10.1016/j.meegid.2021.105153
+  title: Longitudinal analysis of SARS-CoV-2 spike and RNA-dependent RNA polymerase
+    protein sequences reveals the emergence and geographic distribution of diverse
+    mutations
+  authors:
+  - William M. Showers
+  - Sonia M. Leach
+  - Katerina Kechris
+  - Michael Strong
+  publisher: Infection, Genetics and Evolution. 97:105153
+  date: '2022-01-01'
+  link: https://doi.org/grb9t8
+  _cache: c0baaf43c59a76e4d5aba34d49bd3086a079601aaedd8aae870a7d034b050743
