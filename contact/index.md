@@ -13,6 +13,15 @@ nav:
   width = "25%"
 %}
 
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="katerina dotkechris at cuanschutz dot edu"
+  link = "none"
+%}
+{:.center}
+
 ## Affiliations 
 
 + Associate Director of Data Science, [Center for Innovation Design and Analysis (CIDA)](https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/cida)
@@ -24,14 +33,6 @@ nav:
 + [Human Medical Genetics and Genomics Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home)
 + [Center for Health Artificial Intelligence](https://medschool.cuanschutz.edu/ai)
 
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="katerina dotkechris at cuanschutz dot edu"
-  link = "none"
-%}
-<br>
 {%
   include link.html
   type="phone"
