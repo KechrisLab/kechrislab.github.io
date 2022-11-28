@@ -19,7 +19,7 @@ nav:
 {%
   include link.html
   type=""
-  icon=""
+  icon="fab fa-google"
   text="Google Scholar"
   link = "https://scholar.google.com/citations?user=ywY1-w8AAAAJ&hl=en"
   style="button"
@@ -28,7 +28,7 @@ nav:
 {%
   include link.html
   type=""
-  icon=""
+  icon="fa-brands fa-researchgate"
   text="ResearchGate"
   link = "https://www.researchgate.net/profile/Katerina_Kechris"
   style="button"
