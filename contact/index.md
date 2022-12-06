@@ -27,7 +27,7 @@ nav:
 + Associate Director of Data Science, [Center for Innovation Design and Analysis (CIDA)](https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/cida)
 + Director, [Computational Bioscience Program](http://compbio.ucdenver.edu/)
 + [Biostatistics and Informatics](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Pages/welcome.aspx)
-++ Please see [MS Program](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Academics/Pages/MSBIOS.aspx) and [PhD Program](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Academics/Pages/PhDBIOS.aspx) for more information on our graduate degrees.
+  + Please see [MS Program](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Academics/Pages/MSBIOS.aspx) and [PhD Program](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Academics/Pages/PhDBIOS.aspx) for more information on our graduate degrees.
 + [Colorado Center for Personalized Medicine](https://www.cobiobank.org/)
 + [Lifecourse Epidemiology of Adiposity and Diabetes (LEAD) Center](Lifecourse Epidemiology of Adiposity and Diabetes (LEAD) Center)
 + [Human Medical Genetics and Genomics Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home)
