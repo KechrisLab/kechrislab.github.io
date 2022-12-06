@@ -14,15 +14,16 @@ nav:
 
 # POSITIONS
 
+<br>
+Department of Biostatistics and Informatics <br>
+Core Faculty, Computational Bioscience Program<br>
+Colorado School of Public Health<br>
+University of Colorado Denver
+<br>
 + Professor (2018-present) 
 + Associate Professor (2012-2018)
 + Assistant Professor (2006-2012)
-<br>
-**Department of Biostatistics and Informatics <br>
-Core Faculty, Computational Bioscience Program<br>
-Colorado School of Public Health<br>
-University of Colorado Denver**	
-<br>
+
 <br>
 + Sloan Foundation/D.O.E. Post-doctoral Fellow (2003-2005)
 <br>
