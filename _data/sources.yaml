@@ -1,3 +1,11 @@
+- title: Some Publication Title
+  authors:
+    - **Steve McQueen**
+    - Lightning McQueen
+  publisher: bioRxiv
+  date: 2021-01-01
+  link: biorxiv.org/1234
+
 - id: doi:10.1371/journal.pone.0255337
   publisher: PLoS One. 16:e0255337
 
