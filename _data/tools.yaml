@@ -2,27 +2,27 @@
   subtitle: "R, Python, Tensorflow code: E. Stene, S. Helmi, L. Gillenwater."
   group: OMICS INTEGRATION
   link: https://github.com/KechrisLab//OmicsSubtyping
-  image: images/photo.jpg
+  image: images/omicssubtyping.png
   description: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease. [See Gillenwater et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34432807/).  [Github](https://github.com/KechrisLab//OmicsSubtyping)
 
 - title: SmCCNet 
   subtitle: "R package: J. Shi"
   group: OMICS INTEGRATION
-  image: images/photo.jpg
+  image: images/smccnet.png
   link: https://github.com/KechrisLab/SmCCNet
   description: Correlation analysis based method for discovering (quantitative) trait-specific multi-omics networks. [See Shi et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30957844/).   [CRAN](https://cran.r-project.org/web/packages/SmCCNet/index.html)  [Github](https://github.com/KechrisLab/SmCCNet) 
 
 - title: Discordant 
   subtitle: "R package: C. Siska"
   group: OMICS INTEGRATION
-  image: images/photo.jpg
+  image: images/discordant.png
   link: https://github.com/siskac/discordant
   description: Identify pairs of features that differentially correlate between phenotypic groups, with application to -omics data. [See Siska et al., 2016](https://www.ncbi.nlm.nih.gov/pubmed/26520855) and [Siska & Kechris, 2017.](https://www.ncbi.nlm.nih.gov/pubmed/28103954). [Bioconductor](https://bioconductor.org/packages/release/bioc/html/discordant.html)
   
 - title: lcmix
   subtitle: "R package: D. Dvorkin"
   group: OMICS INTEGRATION
-  image: images/photo.jpg
+  image: images/lcmix.png
   link: https://r-forge.r-project.org/projects/lcmix/
   description: Hierarchical mixture models for genomic data integration. see Dvorkin et al., 2013.
 
