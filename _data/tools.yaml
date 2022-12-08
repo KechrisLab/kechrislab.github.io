@@ -2,7 +2,7 @@
   subtitle: "R, Python, Tensorflow code: E. Stene, S. Helmi, L. Gillenwater."
   group: OMICS INTEGRATION
   link: https://github.com/KechrisLab//OmicsSubtyping
-  image: images/omicssubtyping.png
+  image: images/omicssubtyping1.png
   description: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease. [See Gillenwater et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34432807/).  [Github](https://github.com/KechrisLab//OmicsSubtyping)
 
 - title: SmCCNet 
