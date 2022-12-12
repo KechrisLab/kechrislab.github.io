@@ -18,8 +18,8 @@
   - Katerina J Kechris
   publisher: PLoS One. 16:e0255337
   date: '2021-08-25'
-  link: www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
-  _cache: 662396f1b70567056635c92a6e367feedd9c4de02c45bbbd8527f081eeed9a71
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
+  _cache: 4ac309a3e6af63371082c19fbf1de4615b3e7ecea2be923cd92b392af52a35c2
 - id: doi:10.1371/journal.pcbi.1008986
   title: 'PaIRKAT: A pathway integrated regression-based kernel association test with
     applications to metabolomics and COPD phenotypes'
