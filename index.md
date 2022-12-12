@@ -16,6 +16,6 @@ sets from high throughput technologies.
 {%
   include figure.html
   image="images/toolcollage.png"
-  width="800px"
+  width="1000px"
 %}
 {:.center} 
