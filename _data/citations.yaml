@@ -1,25 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1371/journal.pone.0255337
+- id: pmc:PMC8386883
   title: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease
   authors:
-  - Lucas A. Gillenwater
+  - Lucas A Gillenwater
   - Shahab Helmi
   - Evan Stene
-  - Katherine A. Pratte
+  - Katherine A Pratte
   - Yonghua Zhuang
-  - Ronald P. Schuyler
+  - Ronald P Schuyler
   - Leslie Lange
-  - Peter J. Castaldi
-  - Craig P. Hersh
+  - Peter J Castaldi
+  - Craig P Hersh
   - Farnoush Banaei-Kashani
-  - Russell P. Bowler
-  - Katerina J. Kechris
+  - Russell P Bowler
+  - Katerina J Kechris
   publisher: PLoS One. 16:e0255337
   date: '2021-08-25'
-  link: https://doi.org/gqvt3q
-  _cache: 3d01239e38cbedcc9fd06a812d558511d5b4c1b144b3098a5cc3e5d32ddbbac7
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
+  _cache: 10dbf0344550d22b9cdb7fee79beec846fcfbfb08444bb802481863dac70ee72
 - id: doi:10.1371/journal.pcbi.1008986
   title: 'PaIRKAT: A pathway integrated regression-based kernel association test with
     applications to metabolomics and COPD phenotypes'
