@@ -34,8 +34,8 @@
   - Debashis Ghosh
   publisher: PLoS Computational Biology.17(10):e1008986
   date: '2021-10-22'
-  link: https://doi.org/gnd9fz
-  _cache: f473c6c4913f3cb1075c9379ead03df51632c3f8959fe0deb19a132fa5895c2b
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8565741/
+  _cache: b4aaab3e4d7c1db76e02c7379711398194402c18d52a80e20db9f67520ebc064
 - id: pmc:PMC8540572
   title: 'MSCAT: A Machine Learning Assisted Catalog of Metabolomics Software Tools'
   authors:
@@ -46,7 +46,7 @@
   publisher: Metabolites. 11(10):678
   date: '2021-10-02'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540572/
-  _cache: f6ec09c2c816c78b65386405d8fc19de3301be3b21244677a609d302391be128
+  _cache: b1dd837f698fd2275ff390e0b22c2fdb48a857029b97ae06dbe6a23401d591c9
 - id: pmc:PMC8424820
   title: An effective processing pipeline for harmonizing DNA methylation data from
     Illumina's 450K and EPIC platforms for epidemiological studies
@@ -62,7 +62,7 @@
   publisher: BMC Research Notes. 14(1):352
   date: '2021-09-08'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424820/
-  _cache: 33cab447cecad99ad4820b7983a6f99ce065261a60384240038721398070cd73
+  _cache: 4a4a19f3c757905e501f2d02d4d321c1e5234deb3974676e749c1eaf4f03bfe1
 - id: doi:10.1186/s12859-021-04336-9
   title: Reproducibility of mass spectrometry based metabolomics data
   authors:
@@ -73,8 +73,8 @@
   - Debashis Ghosh
   publisher: BMC Bioinformatics. 22(1):423
   date: '2021-09-07'
-  link: https://doi.org/gqvvx2
-  _cache: 9ca49a50a775d9ddad930261f0a6020d9a1edff89853f051ba868aa8c500e182
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424977/
+  _cache: 7874a490a78f0aff531b6f6237e4aaf7e6033305b7069a336dd66bc0d0afb55b
 - id: pmc:PMC8170128
   title: Comparing Statistical Tests for Differential Network Analysis of Gene Modules
   authors:
@@ -86,7 +86,7 @@
   publisher: Frontiers in Genetics. 12:630215
   date: '2021-05-19'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8170128/
-  _cache: ce837a8e109f40fd04c4a71097e1cafd2b3ebf537ff5eccf3299cbdf288eaad1
+  _cache: 33e0734fa8e7253bc22cfc5b7be5e4eba79881791e185324d1042396eccbe0a1
 - id: doi:10.3390/mca26020040
   title: 'Semi-Supervised Learning Using Hierarchical Mixture Models: Gene Essentiality
     Case Study'
@@ -113,8 +113,8 @@
   - Katerina Kechris
   publisher: Genetic Epidemiology. 45(6):593-603
   date: '2021-06-15'
-  link: https://doi.org/gqvv2q
-  _cache: 981a5e57e72bc72996e46c4c27117d31bc893bd4e7691713f52fe89cd0fc2776
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8376760/
+  _cache: a32b83067d3d2103d987f5353cf76fe2dba7a78c8205dff919fdc482d4e508c7
 - id: doi:10.1021/acs.analchem.0c03581
   title: A Practical Guide to Metabolomics Software Development
   authors:
@@ -134,8 +134,8 @@
   - Jamey D. Young
   publisher: Analytical Chemistry. 93:1912-1923
   date: '2021-01-19'
-  link: https://doi.org/ghxfpx
-  _cache: 25f51593726d5df98d80d0bf81e08ba7764c4c7cce356e882cd2894aff7df3ca
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7859930/
+  _cache: ee33ad667a78a465cecca5c98226c77d85f44c34335fb33020293367aad75c01
 - id: doi:10.1038/s41467-021-21894-x
   title: Aptardi predicts polyadenylation sites in sample-specific transcriptomes
     using high-throughput RNA sequencing and DNA sequence
@@ -148,8 +148,8 @@
   - Laura M. Saba
   publisher: Nature Communications. 12:1652
   date: '2021-03-12'
-  link: https://doi.org/gptzdp
-  _cache: 9267417dce07adf0db834fbbbce2fcbcc619421eeab11d880b04302cd9d9a02e
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7955126/
+  _cache: ef22724311aa2c4f48bcd491c0a4e649e8fb5a11c58adf528aa2bd817da9ac4e
 - id: doi:10.3389/fgene.2021.748356
   title: Identifying miRNA-mRNA Networks Associated With COPD Phenotypes
   authors:
@@ -159,8 +159,8 @@
   - Katerina Kechris
   publisher: Frontiers in Genetics. 12:748356
   date: '2021-10-28'
-  link: https://doi.org/gqvv2r
-  _cache: e4ac66878147d25c5d62bb019ee8bb7cb724e29183692d673e560cc18e5100d5
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8581181/
+  _cache: df1a4658a1a19e787fa52e5fdb970d0f25a152c76a179594e2033ff820fbc7b6
 - id: doi:10.1186/s12859-021-03967-2
   title: 'tidyMicro: a pipeline for microbiome data analysis and visualization using
     the tidyverse in R'
@@ -174,8 +174,8 @@
   - Miranda E. Kroehl
   publisher: BMC Bioinformatics. 22:41
   date: '2021-02-01'
-  link: https://doi.org/gmjdgv
-  _cache: b8109414ca3077d1bde50acefb2dffecb91de0f9fdacc8f62832ee6f3105973c
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7852128/
+  _cache: 13220e6822133594440f939a795871941d8e98ebd4dfe119c796d0700b63f070
 - id: doi:10.1186/s12931-021-01686-z
   title: Soluble receptor for advanced glycation end products (sRAGE) as a biomarker
     of COPD
@@ -217,8 +217,8 @@
   - Russell P. Bowler
   publisher: Respiratory Research. 22:127
   date: '2021-04-27'
-  link: https://doi.org/gqvv2s
-  _cache: 34b61ffa9b91ee01d0c903beeb24a30166a762786cef021557f11bf1473c0a40
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8076883/
+  _cache: 746f81964c901906afb38100618beef5ec931dfd3da95c922f877780be8a53f2
 - id: doi:10.3390/metabo11030161
   title: Metabolomic Profiling Reveals Sex Specific Associations with Chronic Obstructive
     Pulmonary Disease and Emphysema
@@ -236,8 +236,8 @@
   - Russell P. Bowler
   publisher: Metabolites. 11:161
   date: '2021-03-11'
-  link: https://doi.org/gqvv4q
-  _cache: 7b9c2da7648688461fc79001b35f2e2e1052148bab463b47c7298445bd0b6acb
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7999201/
+  _cache: bb45cd4511808e066f66b3799eeb6da5baa1b602ff5f8c93bb2970da7af01612
 - id: doi:10.1007/s00125-021-05457-9
   title: 'The oxylipin profile is associated with development of type 1 diabetes:
     the Diabetes Autoimmunity Study in the Young (DAISY)'
@@ -255,8 +255,8 @@
   - Jill M. Norris
   publisher: Diabetologia. 64:1785-1794
   date: '2021-04-24'
-  link: https://doi.org/gqvv4r
-  _cache: 468d5edcaf404c9bdc62a36c27f325b4ed5b2d433c31567ddfef5283441f7ddc
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8249332/
+  _cache: 355a13fb8c7c5977e1cb316915fa2a6909f2ac8a23dffd25168e41eed32082f6
 - id: doi:10.2337/db20-1251
   title: 'Phospholipid Levels at Seroconversion Are Associated With Resolution of
     Persistent Islet Autoimmunity: The Diabetes Autoimmunity Study in the Young'
@@ -274,8 +274,8 @@
   - Jill M. Norris
   publisher: Diabetes. 70(7):1592-1601
   date: '2021-04-16'
-  link: https://doi.org/gqvv4s
-  _cache: 38c7746dec25b112fc22fc3004b4adf3a640097ff56d47eeb6eed3ca0167b17c
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8336007/
+  _cache: a43afe4ac92ab7bafb2875858644fbbbe1ca137bb5a46556bd048712bc9c4d8e
 - id: pmc:PMC8618577
   title: Epigenome-Wide Association Study of Infant Feeding and DNA Methylation in
     Infancy and Childhood in a Population at Increased Risk for Type 1 Diabetes
@@ -294,7 +294,7 @@
   publisher: Nutrients. 13(11):4057
   date: '2021-11-13'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8618577/
-  _cache: 8fbb25f064c739982d5d6de5814112ef745352583a2ba8c29b1ab834d766b925
+  _cache: 5706bbc86c493db65cf3fe73dda19be04502798185cc5e6014c85f551e7d4b85
 - id: pmc:PMC8399445
   title: A Mediation Approach to Discovering Causal Relationships between the Metabolome
     and DNA Methylation in Type 1 Diabetes
@@ -314,7 +314,7 @@
   publisher: Metabolites. 11:542
   date: '2021-08-14'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8399445/
-  _cache: bef8b1925699fb00c1807cd0243a89e686a11470be0bce5801c58f3e4362ebd3
+  _cache: 663970fe906df55b99bf598671a44f4ad5607b067dba71553d052d5965018c04
 - id: doi:10.2337/db20-0902
   title: "Placental Insulin/IGF-1 Signaling, PGC-1\u03B1, and Inflammatory Pathways\
     \ Are Associated With Metabolic Outcomes at 4\u20136 Years of Age: The ECHO Healthy\
@@ -331,8 +331,8 @@
   - Thomas Jansson
   publisher: Diabetes. 70:745-751
   date: '2021-01-07'
-  link: https://doi.org/gqvv4t
-  _cache: de4c42c1e4d2aa741af6927d3dc23e3006a96369ee9648790b9300db6b34b5b1
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7897346/
+  _cache: 0bece2a5e23d5ddf8abc542e1d864eedb68a7f46279fcc96385c7c97e71d2f8f
 - id: doi:10.1371/journal.pntd.0009020
   title: Patterns of relatedness and genetic diversity inferred from whole genome
     sequencing of archival blood fluke miracidia (Schistosoma japonicum)
@@ -350,8 +350,8 @@
   - Todd A. Castoe
   publisher: PLoS Neglected Tropical Diseases. 15(1):e0009020
   date: '2021-01-06'
-  link: https://doi.org/gqvv4v
-  _cache: bf2dacf4f329f2feabefbb898b0d88b09acbd0b2b8d518c84b00e1edf740dc8f
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815185/
+  _cache: 8dfc8f99c835d207da7ee0f5d3359b811337ae74413b9ecb3ae6aa5ae5823446
 - id: doi:10.1093/aje/kwaa292
   title: Human Mobility Associated With Risk of <i>Schistosoma japonicum</i> Infection
     in Sichuan, China
@@ -366,8 +366,8 @@
   - Elizabeth J Carlton
   publisher: American Journal of Epidemiology. 190:1243-1252
   date: '2021-01-13'
-  link: https://doi.org/gqvv4w
-  _cache: 93a75dcb0ec241bf9f8a3cfaaa146a4282a215479b1384f0fa76db7e57cedf1a
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8245870/
+  _cache: 9f715e92f7f8f7c7479028671239933d0589f00429a05d6cc625981f8790a77f
 - id: doi:10.1186/s12859-020-03715-y
   title: 'MCMSeq: Bayesian hierarchical modeling of clustered and repeated measures
     RNA sequencing experiments'
@@ -380,8 +380,8 @@
   - Katerina Kechris
   publisher: BMC Bioinformatics. (1):375
   date: '2020-08-28'
-  link: https://doi.org/ghfd89
-  _cache: a21dea9aa75c14d791cbf16e0dcb5ac7aff80862024b68061c198e4fc8997566
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7455910/
+  _cache: 12ffdf8ae6412450a250907e02304c0f7916f09bc669b3b7f52a4af84890ef24
 - id: doi:10.3390/metabo10040124
   title: "Identifying Protein\u2013metabolite Networks Associated with COPD Phenotypes"
   authors:
@@ -393,8 +393,8 @@
   - Katerina Kechris
   publisher: Metabolites. 10:124
   date: '2020-03-25'
-  link: https://doi.org/gqvv7k
-  _cache: 0475d3b6a2691eb76467020b235d7830f3546fb6414aa16fd9452509ef3bae8d
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7241079/
+  _cache: c4b7221937f46b2c8f5cf7ec715fc450eea4a3b7ecb9856c3754d7614c708248
 - id: doi:10.1007/978-1-0716-0239-3_16
   title: Predictive Modeling for Metabolomics Data
   authors:
@@ -404,8 +404,8 @@
   - Katerina Kechris
   publisher: Methods Molecular Biology. 2104:313-336
   date: '2020-01-01'
-  link: https://doi.org/gqvv7m
-  _cache: e2d572aac8759164a56644b695904996c84cef32d59726f5aa574169cf6275c0
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7423323/
+  _cache: 57870aad751e5da40efad7b57bb8c50ca9317059a5d6859d5a4a92c8857054c3
 - id: doi:10.1093/biostatistics/kxy078
   title: Bayesian inference of networks across multiple sample groups and data types
   authors:
@@ -419,8 +419,8 @@
   - Marina Vannucci
   publisher: Biostatistics. 21:561-576
   date: '2018-12-26'
-  link: https://doi.org/gqvv7n
-  _cache: 3244344c98a88f138c67e8d1de47e0a83bb9c6a5a9a1b011b383c69521116bcb
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7672535/
+  _cache: e76405cc73525f411651678b5d47793fe0a0a050f20c1807d5eddeed99cac9ab
 - id: doi:10.1089/nsm.2020.0009
   title: Plasma Metabolomic Signatures of Chronic Obstructive Pulmonary Disease and
     the Impact of Genetic Variants on Phenotype-Driven Modules
@@ -446,8 +446,8 @@
   - Russell P. Bowler
   publisher: Network and Systems Medicine. 3:159-181.
   date: '2020-12-01'
-  link: https://doi.org/gqvv7p
-  _cache: 42f7f8219e839e77346055f49f9b112e20bae137bccac1dfd0ad2e7a2e7d2335
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109053/
+  _cache: c8cadeed0e0df684f7fb79333f0af23d01a2b27c45455680a3ba85e83e556553
 - id: doi:10.1038/s41598-020-60758-0
   title: Longitudinal DNA methylation differences precede type 1 diabetes
   authors:
@@ -466,8 +466,8 @@
   - Jill M. Norris
   publisher: Scientific Reports. 10:3721
   date: '2020-02-28'
-  link: https://doi.org/gqvv7q
-  _cache: af425e12f27ee7fad24606234569e4d12ec4b4ab66f25bab16a574ded178a7d8
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7048736/
+  _cache: d0ad555bd154618de7736af1f5aa25c1a1f0151b1420aacbb7023faeb2d10da9
 - id: doi:10.1111/pedi.13085
   title: "Metabolomics\u2010related nutrient patterns at seroconversion and risk of\
     \ progression to type 1 diabetes"
@@ -485,8 +485,8 @@
   - Jill M. Norris
   publisher: Pediatric Diabetes. 21:1202-1209
   date: '2020-08-09'
-  link: https://doi.org/gqvv7r
-  _cache: 81cdfaa0e24f7cda1e65632c97eb6ac2a49a7398515ef6fcc24ef85cd9891cf7
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7855902/
+  _cache: 201a510c8e1d829003a6808678f2b7e837fa90ffcc31fd45a025250624fdd3d5
 - id: doi:10.1111/pedi.12995
   title: "DNA methylation near the\n            <scp>\n              <i>INS</i>\n\
     \            </scp>\n            gene is associated with\n            <scp>\n\
@@ -505,8 +505,8 @@
   - Jill M. Norris
   publisher: Pediatrics Diabetes. 21:597-605
   date: '2020-02-28'
-  link: https://doi.org/gqvv7s
-  _cache: 05ef6ba44bcd373d9cbbaab68b500bce67da0f3312f6be0ea540a0fccab3b134
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7378362/
+  _cache: 3824f8997317f91ee18d850ff264117bae1bd0ccc607fe0e29b13a88dbb8c0a9
 - id: doi:10.1038/s41366-020-0574-y
   title: 'Associations between the activity of placental nutrient-sensing pathways
     and neonatal and postnatal metabolic health: the ECHO Healthy Start cohort'
@@ -521,8 +521,8 @@
   - Thomas Jansson
   publisher: International Journal of Obesity. 44(11):2203-2212
   date: '2020-04-23'
-  link: https://doi.org/gqvv7t
-  _cache: 9ad296595f00d5562722cdada2d151e4381c1905fdf9bb106163cb0151a9336c
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8329931/
+  _cache: 9b99ea3b7283694cd8f80ae5b1a679e25a50af4e8828e792f22cae99f1b4075b
 - id: doi:10.1210/clinem/dgaa467
   title: 'Sex-Specific Metabolite Biomarkers of NAFLD in Youth: A Prospective Study
     in the EPOCH Cohort'
@@ -536,8 +536,8 @@
   - Dana Dabelea
   publisher: Journal of Clinical Endocrinology & Metabolism. 105(9):e3437-50
   date: '2020-07-20'
-  link: https://doi.org/gqvv7v
-  _cache: 7aabdfd027ae8b4d613c7f082cf4172ce33467ac2fe2370a5095105c6cab3b64
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7418446/
+  _cache: 7d210515eadb89138ad6d3691a510cef01e17a3aa5799d0f84d7f8f8f58949d1
 - id: doi:10.1007/s00125-019-05036-z
   title: A prospective study of associations between in utero exposure to gestational
     diabetes mellitus and metabolomic profiles during late childhood and adolescence
@@ -550,8 +550,8 @@
   - Dana Dabelea
   publisher: Diabetologia. 63:296-312
   date: '2019-11-13'
-  link: https://doi.org/gqvv7w
-  _cache: 1369f917faf7f3e2f346f684c4da2489f9ec8f71057e3c4b57c1d87796c1f856
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8327857/
+  _cache: dd1b1d3385a6a1d16304d364b5b88a84403748e5c184fc1d795cb56d55c12065
 - id: doi:10.1289/EHP6888
   title: 'Prenatal Exposure to Per- and Polyfluoroalkyl Substances, Umbilical Cord
     Blood DNA Methylation, and Cardio-Metabolic Indicators in Newborns: The Healthy
@@ -572,8 +572,8 @@
   - Dana Dabelea
   publisher: Environmental Health Perspectives. 128(12):127014
   date: '2020-12-01'
-  link: https://doi.org/ghr8bb
-  _cache: afdd0f9dc0c2a351c956cad4808f4adf9b6694d9a9c966385757a446c65d9c16
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7759236/
+  _cache: da4c19b57c8ce6eb152606746e2f6abbcd3561b602b15eee5cf566e6830b6f30
 - id: doi:10.1111/acer.14395
   title: Alcohol Use Disorders Are Associated With a Unique Impact on Airway Epithelial
     Cell Gene Expression
@@ -589,8 +589,8 @@
   - Ellen L. Burnham
   publisher: Alcoholism Clinical Experimental Research. 44(8):1571-1584
   date: '2020-07-01'
-  link: https://doi.org/gqvv7x
-  _cache: 1bada096c1380cd494138a2b6be4a59af3b68b06e96c76460036b833054a5f26
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484391/
+  _cache: 1ce99f817c950d1c2edf9feba7078e5751706edbae009672a0b7665a9efc6993
 - id: doi:10.1371/journal.pone.0240253
   title: Systems genetics analysis of the LXS recombinant inbred mouse strains:Genetic
     and molecular insights into acute ethanol tolerance
@@ -607,8 +607,8 @@
   - Shi Wen
   publisher: PLoS One. 15(10):e0240253
   date: '2020-10-23'
-  link: https://doi.org/gqvv7z
-  _cache: 4bbdbb181e8f6b2534dfe03b861108cf6257339b7f4e48486cca2007a325bdc6
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584226/
+  _cache: f69620ffb12ecbd69f3a264fb4c38cf1f9bbbbf222f8a771664c56196e3f1575
 - id: doi:10.1371/journal.ppat.1008986
   title: "Qualitative Differences Between the IFN\u03B1 subtypes and IFN\u03B2 Influence\
     \ Chronic Mucosal HIV-1 Pathogenesis"
@@ -630,8 +630,8 @@
   - Mario L. Santiago
   publisher: PLoS Pathogens. 16(10):e1008986
   date: '2020-10-16'
-  link: https://doi.org/gqvv72
-  _cache: da903bf5f151369645a2d087d28b06ac19e714b26c5d246990472a380729b827
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7592919/
+  _cache: 243fee1298e34800c2570907e014d6af015311943fa7a52f038518acc4ce0c1d
 - id: doi:10.1093/bioinformatics/btz226
   title: Unsupervised discovery of phenotype-specific multi-omics networks
   authors:
@@ -648,8 +648,8 @@
   - Katerina Kechris
   publisher: Bioinformatics. 35:4336-4343
   date: '2019-04-08'
-  link: https://doi.org/gqvv84
-  _cache: 910bf9e638ad60ae888d76010f505b0b7c7e164718ccc07eb4c638868c9e815f
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6931269/
+  _cache: dd221e91f94cc2aeb47d7da855782d821e6782a8984bbdf53a7192ea7fab6e96
 - id: doi:10.3934/mbe.2020007
   title: Development of a tissue augmented Bayesian model for expression quantitative
     trait loci analysis
@@ -663,8 +663,8 @@
   - ' '
   publisher: Mathematical Biosciences and Engineering. 17:122-143
   date: '2020-01-01'
-  link: https://doi.org/gqvv85
-  _cache: 2493eaba779b030b5660088c87e99e38238e57cfe9ab2358a169e10d239f31dc
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7384761/
+  _cache: dc557c0107216d18f1e96d5a28a4bf402bd4c51ebe4baea5c915531ddac71753
 - id: doi:10.1007/978-1-4939-9236-2_20
   title: Pre-analytic Considerations for Mass Spectrometry-Based Untargeted Metabolomics
     Data
@@ -676,8 +676,8 @@
   - Katerina Kechris
   publisher: Methods Molecular Biology. 1978:323-340
   date: '2019-01-01'
-  link: https://doi.org/gqvv86
-  _cache: d9e41b5b97c474bd8e40f2a3991157f1667b53c99a5ab7c3471390560a875a7c
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7346099/
+  _cache: a2549786e3cb8779baab55cb91e6da55c3cd4cd6a97806ba3b566db9bae0986f
 - id: doi:10.1016/j.spasta.2018.12.003
   title: Using a spatial point process framework to characterize lung computed tomography
     scans
@@ -691,8 +691,8 @@
   - David Lynch
   publisher: Spatial Statistic. 29:243-267
   date: '2019-03-01'
-  link: https://doi.org/gqvv87
-  _cache: f6df4c45c2a34ca96d68d8be461a2f8a00ffc3d7a51848465a86576ab76cc9d0
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6867806/
+  _cache: 96a016086c9067b7120f40e8ebbf0be134916d9753c90b809ae12c2b64c178fe
 - id: doi:10.1186/s12864-019-6110-6
   title: Insight into genetic regulation of miRNA in mouse brain
   authors:
@@ -703,8 +703,8 @@
   - Katerina Kechris
   publisher: BMC Genomics. 20:849
   date: '2019-11-13'
-  link: https://doi.org/gqvv88
-  _cache: f2634fa513e3c2203aa50ce12ebd7a8a2b34ce6065faa76a5a522a7e17c2af07
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6854704/
+  _cache: 088c190c096d13e3e2ab4ab4c30159c6408b8af34d5b73d728e8d0f97f3838c9
 - id: doi:10.3390/metabo9080157
   title: Bronchoalveolar Lavage Fluid from COPD Patients Reveals More Compounds Associated
     with Disease than Matched Plasma
@@ -727,8 +727,8 @@
   - Russell P. Bowler
   publisher: Metabolites. 9(8)
   date: '2019-07-25'
-  link: https://doi.org/gk82c2
-  _cache: 699f12c23e47e15b94e634c8b5431600b26f22a97ee9272a5d19965e25c8f360
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724137/
+  _cache: 6f556c9ae087b0544fcf105a77e90cdc8900ac85872d40f97533630ec26def0e
 - id: doi:10.1007/s00125-019-05036-z
   title: A prospective study of associations between in utero exposure to gestational
     diabetes mellitus and metabolomic profiles during late childhood and adolescence
@@ -741,8 +741,8 @@
   - Dana Dabelea
   publisher: Diabetologia. 63:296-312
   date: '2019-11-13'
-  link: https://doi.org/gqvv7w
-  _cache: 1369f917faf7f3e2f346f684c4da2489f9ec8f71057e3c4b57c1d87796c1f856
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8327857/
+  _cache: dd1b1d3385a6a1d16304d364b5b88a84403748e5c184fc1d795cb56d55c12065
 - id: doi:10.1038/s41598-019-51251-4
   title: Metabolite-related dietary patterns and the development of islet autoimmunity
   authors:
@@ -768,8 +768,8 @@
   - Jill M. Norris
   publisher: Scientific Reports. 9:14819
   date: '2019-10-15'
-  link: https://doi.org/gjdjdt
-  _cache: cac8ee510043d1452739fe23a0f0daa058e59a0c6add21b03fa62349f0c26390
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6794249/
+  _cache: 801d41b2d8c120718cb0178f78a9c0a2b3d5c95f0ffbf0e27df943e82b9169cd
 - id: doi:10.1016/j.envint.2019.104983
   title: 'Prenatal exposure to per- and polyfluoroalkyl substances and infant growth
     and adiposity: the Healthy Start Study'
@@ -782,8 +782,8 @@
   - Dana Dabelea
   publisher: Environment International. 131:104983
   date: '2019-10-01'
-  link: https://doi.org/gqvv89
-  _cache: 4f2ab7ef3e304cdb3fa026edc578533fdef8baf9dc777879edc60e024e3684a7
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728170/
+  _cache: 6957c4ddc953fbf00b10fa750295a2ce351f00e323eccd414a2f7e07f45988ed
 - id: doi:10.1038/s41467-019-09671-3
   title: Meta-analysis of epigenome-wide association studies in neonates reveals widespread
     differential DNA methylation associated with birthweight
@@ -917,8 +917,8 @@
   - Janine F. Felix
   publisher: Nature Communications. 10(1):1893
   date: '2019-04-23'
-  link: https://doi.org/gfzvw4
-  _cache: db756df05c6931970319828261ffa44552c59f6c5612d46f389ec47892b7242d
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6478731/
+  _cache: 6b86fae091a145fd4a1714032bdb56db654e5352f108259f3137fb59ee11faca
 - id: doi:10.1161/HYPERTENSIONAHA.119.12634
   title: Hypertensive Disorders of Pregnancy and DNA Methylation in Newborns
   authors:
@@ -967,8 +967,8 @@
   - Caroline L. Relton
   publisher: Hypertension. 74:375-383
   date: '2019-08-01'
-  link: https://doi.org/gqvv9b
-  _cache: ece7f1432e7501dae8355198dfd103c9ce038757fd0c486570677ebc6057873f
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6635125/
+  _cache: 4de4409cb8cc64edca49c202437208be06e0ca7b1a0efd6be5c4d724fd685e26
 - id: doi:10.1002/humu.23769
   title: '<i>A2ML1</i>and otitis media: novel variants, differential expression, and
     relevant pathways'
@@ -1029,8 +1029,8 @@
   - "Regie Lyn P. Santos\u2010Cortez"
   publisher: Human Mutation. 40:1156-1171
   date: '2019-05-21'
-  link: https://doi.org/gh8tz2
-  _cache: 62a40f50e51136c0512d6a30b0c9196d9b23043b442a8c84d7b80fd769ff203a
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6711784/
+  _cache: 80402548e95759cf19eb7f5d6a9903f64dbd7a2eaa6127cebc13624c40d2ef31
 - id: doi:10.1186/s13104-018-3418-2
   title: miR-MaGiC improves quantification accuracy for small RNA-seq
   authors:
@@ -1044,8 +1044,8 @@
   - Katerina Kechris
   publisher: BMC Research Notes. 11(1):296
   date: '2018-05-15'
-  link: https://doi.org/gqvv9d
-  _cache: 2c0ec307bdac0b4c7f35e24e4bba7091c870473b9d21b6a07e0177e23d12b79f
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5952827/
+  _cache: 6f441dd5f2116b5668adfc522416cd6278512e481b16ab82f846492d916f9f42
 - id: doi:10.1371/journal.pcbi.1006436
   title: 'Condition-adaptive fused graphical lasso (CFGL): An adaptive procedure for
     inferring condition-specific gene co-expression network'
@@ -1059,8 +1059,8 @@
   - Qunhua Li
   publisher: PLoS Computational Biology. 14(9):e1006436
   date: '2018-09-21'
-  link: https://doi.org/gd93z4
-  _cache: 9fe880fc623fecc7e6d8860a35ffe56d88b628d68133cae22612bc0276444c7e
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6173447/
+  _cache: e2fd7b289e8b52f79a0095c9466c90d58512f9875bfd3dc4bd9245be91a817d1
 - id: doi:10.1007/s12561-016-9176-6
   title: A Bayesian Approach for Learning Gene Networks Underlying Disease Severity
     in COPD
@@ -1075,8 +1075,8 @@
   - Marina Vannucci
   publisher: Statistics in Biosciences. 10:59-85
   date: '2016-10-28'
-  link: https://doi.org/gqvv9f
-  _cache: b2cc41d0248ae2b43620ec46d8fc1c89dce5a77578e1c4dbbe89d294df114b77
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078135/
+  _cache: 9a2501515bfc48b5ba4428fb7c3af14cd6a0112658de1b9c63fd4ddf8e65d765
 - id: doi:10.1002/brb3.989
   title: miRNA-regulated transcription associated with mouse strains predisposed to
     hypnotic effects of ethanol
@@ -1089,8 +1089,8 @@
   - K. Kechris
   publisher: Brain and Behavior. 8:e00989
   date: '2018-04-30'
-  link: https://doi.org/gqvv9g
-  _cache: 40be238d457df578481ca1272e0df5d10a5f9131d18aacba00c0b6ab3548a790
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5991579/
+  _cache: 266bf7707929d677352a829b47dd395dcf231537521b6e4b660b3163f511623c
 - id: doi:10.1186/s12864-018-5004-3
   title: Predictive modeling of miRNA-mediated predisposition to alcohol-related phenotypes
     in mouse
