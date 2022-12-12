@@ -4,156 +4,206 @@
 
 - id: doi:10.1371/journal.pcbi.1008986
   publisher: PLoS Computational Biology.17(10):e1008986
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8565741/
   
 - id: pmc:PMC8540572
   publisher: Metabolites. 11(10):678
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540572/
   
 - id: pmc:PMC8424820
   publisher: BMC Research Notes. 14(1):352
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424820/
   
 - id: doi:10.1186/s12859-021-04336-9
   publisher: BMC Bioinformatics. 22(1):423
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424977/
 
 - id: pmc:PMC8170128
   publisher: Frontiers in Genetics. 12:630215
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8170128/
   
 - id: doi:10.3390/mca26020040
   publisher: Mathematical and Computational Applications. 26:40
   
 - id: doi:10.1002/gepi.22418
   publisher: Genetic Epidemiology. 45(6):593-603
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8376760/
   
 - id: doi:10.1021/acs.analchem.0c03581
   publisher: Analytical Chemistry. 93:1912-1923
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7859930/
   
 - id: doi:10.1038/s41467-021-21894-x
   publisher: Nature Communications. 12:1652
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7955126/
   
 - id: doi:10.3389/fgene.2021.748356
   publisher: Frontiers in Genetics. 12:748356
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8581181/
 
 - id: doi:10.1186/s12859-021-03967-2
   publisher: BMC Bioinformatics. 22:41
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7852128/
   
 - id: doi:10.1186/s12931-021-01686-z
   publisher: Respiratory Research. 22:127
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8076883/
   
 - id: doi:10.3390/metabo11030161
   publisher: Metabolites. 11:161
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7999201/
   
 - id: doi:10.1007/s00125-021-05457-9
   publisher: Diabetologia. 64:1785-1794
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8249332/
   
 - id: doi:10.2337/db20-1251
   publisher: Diabetes. 70(7):1592-1601
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8336007/
  
 - id: pmc:PMC8618577
   publisher: Nutrients. 13(11):4057
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8618577/
   
 - id: pmc:PMC8399445 
   publisher: Metabolites. 11:542
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8399445/
   
 - id: doi:10.2337/db20-0902 
   publisher: Diabetes. 70:745-751
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7897346/
   
 - id: doi:10.1371/journal.pntd.0009020
   publisher: PLoS Neglected Tropical Diseases. 15(1):e0009020
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7815185/
   
 - id: doi:10.1093/aje/kwaa292
   publisher: American Journal of Epidemiology. 190:1243-1252
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8245870/
 
 - id: doi:10.1186/s12859-020-03715-y
   publisher: BMC Bioinformatics. (1):375
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7455910/
 
 - id: doi:10.3390/metabo10040124
   publisher: Metabolites. 10:124
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7241079/
   
 - id: doi:10.1007/978-1-0716-0239-3_16
   publisher: Methods Molecular Biology. 2104:313-336
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7423323/
   
 - id: doi:10.1093/biostatistics/kxy078
   publisher: Biostatistics. 21:561-576
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7672535/
   
 - id: doi:10.1089/nsm.2020.0009
   publisher: Network and Systems Medicine. 3:159-181.
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8109053/
   
 - id: doi:10.1038/s41598-020-60758-0
   publisher: Scientific Reports. 10:3721
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7048736/
   
 - id: doi:10.1111/pedi.13085
   publisher: Pediatric Diabetes. 21:1202-1209
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7855902/
   
 - id: doi:10.1111/pedi.12995
   publisher: Pediatrics Diabetes. 21:597-605
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7378362/
   
 - id: doi:10.1038/s41366-020-0574-y
   publisher: International Journal of Obesity. 44(11):2203-2212
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8329931/
   
 - id: doi:10.1210/clinem/dgaa467
   publisher: Journal of Clinical Endocrinology & Metabolism. 105(9):e3437-50
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7418446/
   
 - id: doi:10.1007/s00125-019-05036-z
   publisher: Diabetologia. 63:296-312
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8327857/
   
 - id: doi:10.1289/EHP6888
   publisher: Environmental Health Perspectives. 128(12):127014
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7759236/
   
 - id: doi:10.1111/acer.14395
   publisher: Alcoholism Clinical Experimental Research. 44(8):1571-1584
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7484391/
   
 - id: doi:10.1371/journal.pone.0240253
   publisher: PLoS One. 15(10):e0240253
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584226/
   
 - id: doi:10.1371/journal.ppat.1008986
   publisher: PLoS Pathogens. 16(10):e1008986
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7592919/
   
 - id: doi:10.1093/bioinformatics/btz226
   publisher: Bioinformatics. 35:4336-4343
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6931269/
   
 - id: doi:10.3934/mbe.2020007
   publisher: Mathematical Biosciences and Engineering. 17:122-143
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7384761/
   
 - id: doi:10.1007/978-1-4939-9236-2_20
   publisher: Methods Molecular Biology. 1978:323-340
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7346099/
   
 - id: doi:10.1016/j.spasta.2018.12.003
   publisher: Spatial Statistic. 29:243-267
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6867806/
   
 - id: doi:10.1186/s12864-019-6110-6
   publisher: BMC Genomics. 20:849
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6854704/
   
 - id: doi:10.3390/metabo9080157
   publisher: Metabolites. 9(8)
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6724137/
   
 - id: doi:10.1007/s00125-019-05036-z
   publisher: Diabetologia. 63:296-312
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8327857/
   
 - id: doi:10.1038/s41598-019-51251-4
   publisher: Scientific Reports. 9:14819
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6794249/
   
 - id: doi:10.1016/j.envint.2019.104983
   publisher: Environment International. 131:104983
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728170/
   
 - id: doi:10.1038/s41467-019-09671-3
   publisher: Nature Communications. 10(1):1893
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6478731/
   
 - id: doi:10.1161/HYPERTENSIONAHA.119.12634
   publisher: Hypertension. 74:375-383
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6635125/
   
 - id: doi:10.1002/humu.23769
   publisher: Human Mutation. 40:1156-1171
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6711784/
   
 - id: doi:10.1186/s13104-018-3418-2
   publisher: BMC Research Notes. 11(1):296
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5952827/
   
 - id: doi:10.1371/journal.pcbi.1006436
   publisher: PLoS Computational Biology. 14(9):e1006436
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6173447/
   
 - id: doi:10.1007/s12561-016-9176-6
   publisher: Statistics in Biosciences. 10:59-85
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8078135/
   
 - id: doi:10.1002/brb3.989
   publisher: Brain and Behavior. 8:e00989
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5991579/
   
 - id: doi:10.1186/s12864-018-5004-3
   publisher: BMC Genomics. 19(1):639
