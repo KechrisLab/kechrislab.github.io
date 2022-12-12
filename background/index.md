@@ -23,27 +23,20 @@ University of Colorado Denver
 + Professor (2018-present) 
 + Associate Professor (2012-2018)
 + Assistant Professor (2006-2012)
-
+<br>
+Department of Biochemistry and Biophysics<br>
+University of California San Francisco
 <br>
 + Sloan Foundation/D.O.E. Post-doctoral Fellow (2003-2005)
 <br>
-**Department of Biochemistry and Biophysics<br>
-University of California San Francisco**
-<br>
+Department of Statistics<br>
+University of California Berkeley
 <br>
 + NSF Graduate Research Fellow (1999-2002)
-<br>
-**Department of Statistics<br>
-University of California Berkeley**	
-<br>
-<br>
 + Teaching Assistant/Statistical Consultant(1998-2003)
 <br>
-**Department of Statistics<br>
-University of California Berkeley**	
-<br>
+Department of Statistics<br>
+University of California Los Angeles
 <br>
 + Research Assistant (1998)
 <br>
-**Department of Statistics<br>
-University of California Los Angeles** 
