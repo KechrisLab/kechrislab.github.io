@@ -207,178 +207,233 @@
   
 - id: doi:10.1186/s12864-018-5004-3
   publisher: BMC Genomics. 19(1):639
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6114181/
   
 - id: doi:10.1038/s41598-018-35372-w
   publisher: Scientific Reports. 8:17132
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6244246/
 
 - id: doi:10.1111/dme.13604
   publisher: Diabetic Medicine. 35(5):612-620
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5991099/
 
 - id: doi:10.1093/ije/dyx190
   publisher: International Journal of Epidemiology. 47(1):22-23
   authors: J. Felix, et al.
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5837319/
   
 - id: doi:10.1111/acel.12704
   publisher: Aging Cell. 17(1)
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5770877/
   
 - id: doi:10.1186/s12859-017-1539-6
   publisher: BMC Bioinformatics. 18:143
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5333443/
   
 - id: doi:10.1186/s13104-016-2331-9
   publisher: BMC Research Notes. 10:54
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5244536/
   
 - id: doi:10.1371/journal.pone.0178281
   publisher: PLoS One. 12(6):e0178281
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5456044/
   
 - id: doi:10.1289/EHP641
   publisher: Environmental Health Perspectives. 125(6):067016
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5743451/
   
 - id: doi:10.1164/rccm.201607-1330OC
   publisher: American Journal of Respiratory and Critical Care Medicine). 195:473-481
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5378424/
   
 - id: doi:10.1038/s41598-017-05374-1
   publisher: Scientific Reports. 7(1):5108
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5505974/
   
 - id: doi:10.1186/s12931-017-0597-7
   publisher: Respiratory Research. 18(1):117
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5470282/
   
 - id: doi:10.1038/s41598-017-03295-7
   publisher: Scientific Reports. 7(1):3633
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5473897/
 
 - id: doi:10.1186/s12931-017-0662-2
   publisher: Respiratory Research. 18(1):180
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5655820/
   
 - id: doi:10.1371/journal.pone.0185682
   publisher: PLoS One. 12(10):e0185682
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5633174/
  
 - id: doi:10.1016/j.molmet.2017.08.012
   publisher: Molecular Metabolism. 6(11):1503-1516
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5681274/
 
 - id: doi:10.1093/bioinformatics/btv633
-  publisher: Bioinformatics. 32:690-6 
+  publisher: Bioinformatics. 32:690-6
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5006287/
   
 - id: doi:10.1371/journal.pgen.1006011
   publisher: PLoS Genetics. 12(8):e1006011
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4988780/
   
 - id: doi:10.1007/s12561-016-9151-2
   publisher: Statistics in Biosciences. 2016:1-17
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5087812/
   
 - id: doi:10.1007/s00335-016-9656-5
   publisher: Mammalian Genome. 27:469-84
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5002042/
   
 - id: doi:10.1038/srep31596
   publisher: Nature Scientific Reports. 6:31596
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987682/
   
 - id: doi:10.1093/infdis/jiw364
   publisher: Journal of Infectious Diseases. 214:1205-11
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5034964/
   
 - id: doi:10.1164/rccm.201410-1771OC
   publisher: American Journal of Respiratory and Critical Care Medicine. 191:275-84
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4351578/
   
 - id: doi:10.1371/journal.pone.0135163
   publisher: PLoS One. 10:e0135163
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4530955/
   
 - id: doi:10.1007/s11357-014-9740-2
   publisher: Age. 37(1):9740
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4317404/
   
 - id: doi:10.1093/infdis/jiv149
   publisher: Journal of Infectious Diseases. 212:990-8
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4548467/
 
 - id: doi:10.1038/jid.2015.126
   publisher: Journal of Investigative Dermatology. 135:2068-76
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4683025/
   
 - id: doi:10.1002/9781119053095.ch8
   publisher: Biological Nitrogen Fixation. F.J. deBruijn (ed.), Wiley-Blackwell
   
 - id: doi:10.1093/nar/gku631
   publisher: Nucleic Acids Research. 42:e133
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4176155/
   
 - id: doi:10.1093/bioinformatics/btt589
   publisher: Bioinformatics. 30:133-4
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3866554/
   
 - id: doi:10.1093/bib/bbt053
   publisher: Briefings In Bioinformatics. 15:919-28
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4271068/
   
 - id: doi:10.1111/gbb.12175 
   publisher: Genes Brain and Behavior. 13:743-57
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4241152/
   
 - id: doi:10.1186/s12931-014-0127-9
   publisher: Respiratory Research. 15:127
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4198701/
   
 - id: doi:10.1515/sagmb-2012-0051
   publisher: Statistical Applications in Genetics and Molecular Biology. 12:469-87
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4867227/
   
 - id: doi:10.1002/sim.5850
   publisher: Statistics in Medicine. 32:4057-4070
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4964853/
   
 - id: doi:10.1016/j.gpb.2013.10.002
   publisher: Genomics, Proteomics & Bioinformatics. 11:368-77
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4049090/
   
 - id: doi:10.1371/journal.pone.0068878
   publisher: PLoS One. 8(7):e68878
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3720886/
   
 - id: doi:10.1089/omi.2013.0038
   publisher: OMICS, A Journal of Integrative Biology. 17:619-626
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3837437/
   
 - id: doi:10.1164/rccm.201212-2299OC
   publisher: American Journal of Respiratory and Critical Care Medicine. 88:561-6
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3827701/
   
 - id: doi:10.1165/rcmb.2012-0230OC
   publisher: American Journal of Respiratory Cell and Molecular Biology. 49:316-23
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3824029/
   
 - id: doi:10.2478/immun-2013-0001
   publisher: Immunometabolism. 1:1-9
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3670583/
   
 - id: doi:10.1371/journal.pone.0072751
   publisher: PLoS One. 8(9):e72751
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3760896/
   
 - id: doi:10.1016/j.jdermsci.2013.06.004
   publisher: Journal of Dermatological Science. 72:168-76
   
 - id: doi:10.1093/bioinformatics/bts545
   publisher: Bioinformatics. 28:2986-8
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3496335/
   
 - id: doi:10.1111/j.1530-0277.2012.01757.x
   publisher: Alcoholism, Clinical & Experimental Research. 36:1519-29
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407322/
   
 - id: doi:10.1371/journal.pone.0026105
   publisher: PLoS ONE. 6:e26105
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3206046/
   
 - id: doi:10.1007/s10519-010-9427-0
   publisher: Behavior Genetics. 41:625-8
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3121939/
   
 - id: doi:10.1016/j.neuropharm.2010.12.019
   publisher: Neuropharmacology. 60:1269-80
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3079014/
   
 - id: doi:10.1111/j.1369-1600.2010.00254.x
   publisher: Addiction Biology. 16:393-404
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3115429/
   
 - id: doi:10.2202/1544-6115.1434
   publisher: Statistical Applications in Genetics and Molecular Biology. Vol9(No.1). Article 29
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2942027/
   
 - id: doi:10.1242/dev.055871
   publisher: Development. 137:3887-98
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3049281/
   
 - id: doi:10.1186/1471-2105-9-506
   publisher: BMC Bioinformatics. 9:506
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2626603/
   
 - id: doi:10.1186/1471-2164-9-551
   publisher: BMC Genomics. 9:551(authors contributed equally)
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2631580/
   
 - id: doi:10.1007/s00335-008-9115-z
   publisher: Mammalian Genome. 19:352-65
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2583933/
   
 - id: doi:10.1186/1471-2156-8-59
   publisher: BMC Genetics. 8:59
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2034588/
   
 - id: doi:10.1016/j.virusres.2007.05.020
   publisher: Virus Research. 130:85-95
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2186174/
 
 - id: doi:10.1007/978-3-540-72031-7_31
   publisher: Lecture Notes in Computer Science, International Symposium on Bioinformatics Research and Applications, ISBRA 2007 Proceedings, pg 338-349.
   
 - id: doi:10.1073/pnas.0603534103
   publisher: Proceedings of the National Academy of Sciences. 103:9584-9589
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1480450/
   
 - id: doi:10.1242/dev.01927
   publisher: Development. 132:3753-3765
@@ -388,18 +443,22 @@
   
 - id: doi:10.1186/gb-2004-5-7-r50
   publisher: Genome Biology. 5:R50
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC463320/
   
 - id: doi:10.1073/pnas.222508899
   publisher: Proceedings of the National Academy of Sciences, USA. 99:14764-14771
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC137493/
   
 - id: doi:10.1128/jvi.00976-22
   publisher: Journal of Virology. 96(17):e0097622
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9472609/
 
 - id: doi:10.1016/j.envres.2022.113881
   publisher: Environmental Research. 214(Pt 1):113881
   
 - id: doi:10.3389/fdata.2022.894632
   publisher: Frontiers in Big Data. 5:894632
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9256965/
 
 - id: doi:10.2337/db21-1111
   publisher: Diabetes. 71(9):2048-2057
@@ -409,24 +468,32 @@
   
 - id: doi:10.3390/metabo12050368
   publisher: Metabolites. 12(5):368
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9143560/
 
 - id: doi:10.1186/s12859-022-04659-1
   publisher: BMC Bioinformatics. 16;23(1):179
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9109373/
   
 - id: doi:10.3389/fgene.2022.762834
   publisher: Frontiers in Genetics. 13:762834
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9037032/
   
 - id: doi:10.3390/metabo12030265
   publisher: Metabolites. 12(3):265
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8952572/
   
 - id: doi:10.1080/19490976.2022.2045852
   publisher: Gut Microbes. 14(1):2045852
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8920224/
   
 - id: doi:10.3389/fgene.2021.760299
   publisher: Frontiers in Genetics.12:760299
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8829118/
   
 - id: doi:10.1165/rcmb.2021-0285LE
   publisher: American Journal of Respiratory Cell and Molecular Biology. 66(2):238-239
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8845134/
   
 - id: doi:10.1016/j.meegid.2021.105153
   publisher: Infection, Genetics and Evolution. 97:105153
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8600767/
