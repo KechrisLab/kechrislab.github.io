@@ -5,13 +5,14 @@ nav:
   tooltip: Background
 ---
 
+<p align="left">
 # EDUCATION 
 
 + University of California Berkeley, Ph.D., Statistics, 2003
 + University of California Berkeley, M.A., Statistics, 1999
 + University of California Los Angeles, B.S., Applied Mathematics (summa cum laude), 1997
 
-
+<p align="left">
 # POSITIONS
 
 <br>
