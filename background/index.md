@@ -5,7 +5,6 @@ nav:
   tooltip: Background
 ---
 
-<p align="left">
 # EDUCATION 
 
 + University of California Berkeley, Ph.D., Statistics, 2003
