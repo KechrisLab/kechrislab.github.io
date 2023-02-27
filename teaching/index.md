@@ -1,7 +1,7 @@
 ---
 title: Courses
 nav:
-  order: 4
+  order: 6
   tooltip: Classes
 ---
 
