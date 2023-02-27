@@ -1,6 +1,85 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC9962656
+  title: An Oxylipin-Related Nutrient Pattern and Risk of Type 1 Diabetes in the Diabetes
+    Autoimmunity Study in the Young (DAISY)
+  authors:
+  - Teresa Buckner
+  - Randi K Johnson
+  - Lauren A Vanderlinden
+  - Patrick M Carry
+  - Alex Romero
+  - Suna Onengut-Gumuscu
+  - Wei-Min Chen
+  - Oliver Fiehn
+  - Brigitte I Frohnert
+  - Tessa Crume
+  - Wei Perng
+  - Katerina Kechris
+  - Marian Rewers
+  - Jill M Norris
+  publisher: Nutrients 15(4):945
+  date: '2023-02-14'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9962656/
+  _cache: 1becfea5617556d59b1a74dfe6b68be3d7b59681d3f983dd47e163d560242382
+- id: pmc:PMC9916186
+  title: Effective Subject Representation based on Multi-omics Disease Networks using
+    Graph Embedding
+  authors:
+  - Sundous Hussein
+  - Thao Vu
+  - Leslie Lange
+  - Russell P Bowler
+  - Katerina J Kechris
+  - Farnoush Banaei-Kashani
+  publisher: Proceedings (IEEE Int Conf Bioinformatics Biomed) 2022:1911-1918
+  date: '2022-12-01'
+  link: https://pubmed.ncbi.nlm.nih.gov/36776768/
+  _cache: 9cfe98e21619ac6376affcffe002519649215a5eada6bd9acff47349a352f59c
+- id: pmc:PMC9821764
+  title: 'RCFGL: Rapid Condition adaptive Fused Graphical Lasso and application to
+    modeling brain region co-expression networks'
+  authors:
+  - Souvik Seal
+  - Qunhua Li
+  - Elle Butler Basner
+  - Laura M Saba
+  - Katerina Kechris
+  publisher: PLoS Comput Biol 19(1):e1010758
+  date: '2023-01-06'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9821764/
+  _cache: cc1e9acdef4dd4c95e7b417a0dbc79c2b262c0113629cf693df2bbaddacea6e0
+- id: pmc:PMC9831052
+  title: 'NetSHy: network summarization via a hybrid approach leveraging topological
+    properties'
+  authors:
+  - Thao Vu
+  - Elizabeth M Litkowski
+  - Weixuan Liu
+  - Katherine A Pratte
+  - Leslie Lange
+  - Russell P Bowler
+  - Farnoush Banaei-Kashani
+  - Katerina J Kechris
+  publisher: Bioinformatics 39(1):btac818
+  date: '2023-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831052/
+  _cache: 3d883ce0f63e60a0380dcafa854aa4535edbd1e3e72975e3b81e400f79461ca6
+- id: pmc:PMC9782692
+  title: Fat content in infant mesenchymal stem cells prospectively associates with
+    childhood adiposity and fasting glucose
+  authors:
+  - Lauren E Gyllenhammer
+  - Allison M Duensing
+  - Madeline Rose Keleher
+  - Katerina Kechris
+  - Dana Dabelea
+  - Kristen E Boyle
+  publisher: Obesity 31(1):37-42
+  date: '2023-01-01'
+  link: https://pubmed.ncbi.nlm.nih.gov/36541155/
+  _cache: 2a631442c7c990aa3d2fa12d5f4063939879142b0d3d9ce47ce948916f98e115
 - id: pmc:PMC8386883
   title: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease
   authors:
