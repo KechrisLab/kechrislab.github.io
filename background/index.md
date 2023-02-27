@@ -11,7 +11,6 @@ nav:
 + University of California Berkeley, M.A., Statistics, 1999
 + University of California Los Angeles, B.S., Applied Mathematics (summa cum laude), 1997
 
-<p align="left">
 # POSITIONS
 
 <br>
