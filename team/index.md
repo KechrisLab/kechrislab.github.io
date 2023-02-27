@@ -19,7 +19,7 @@ nav:
 
 ## ALUMNI
 
-### Post Doctoral fellows
+### Post-Doctoral Fellows
 
 + Souvik Seal, PhD Post-doctoral Fellow (2020-2022)
 Current Position: Assistant Professor, Medical Univeristy of South Carolina
@@ -31,7 +31,7 @@ Current Position: Assistant Professor, Statistics, Oklahoma State University
 + Wen Jenny Shi, PhD Post-Doctoral Fellow (2015-2018)
 Current Position: Staff Data Scientist, Datto Inc.
 
-### PHD Students
+### PhD Students
 
 + Charles Carpenter, MS Research Assistant (2020-2022)
 Current Position: PhD Student, Biostatistics
@@ -47,7 +47,7 @@ Current Position: Bioinformatics Consultant
 Current Position: Statistical Consultant, Statistically Speaking
 
 
-### Master Students
+### Masters Students
 
 + Sierra Niemiec Biostatistics MS Student (2020-2022 , with Anne Starling)
 Current Position: Analyst, Center for Innovative Design and Analysis
@@ -73,7 +73,7 @@ Current Position: Machine Learning Scientist, Viracor Eurofins Clinical Diagnost
 + Timothy Bahr, MS, MD Biostatistics MS Student (2010-2011)
 Current Position: Pediatrician, Salt Lake City
 
-### Other students
+### Other Students
 
 + Eitan Halper-Stromberg Medical Student (2018-2019, with Russell Bowler)
 Current Position: Pathology Resident, Johns Hopkins University
