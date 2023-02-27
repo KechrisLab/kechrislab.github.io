@@ -9,7 +9,7 @@ title: Home
 
 # KECHRIS LAB
 
-<font size = "8"> Our research focuses on the development and application of statistical methods for analyzing -omics data 
+<font size = "6"> Our research focuses on the development and application of statistical andn computational methods for analyzing omics data 
 sets.
 </font> 
 
