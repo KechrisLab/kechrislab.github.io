@@ -70,3 +70,7 @@ plugins:
 
 # jekyll theme
 theme: null
+
+google_site_verification: Ql6C6gL6Bj6v3kXhpP91RKCx_2rpBCKU8k_jDbg7EkM # your google-site-verification ID (Google Search Console) 
+enable_google_verification: false  # enables google site verification 
+
