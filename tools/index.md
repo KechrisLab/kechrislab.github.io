@@ -5,6 +5,13 @@ nav:
   tooltip: Tools
 ---
 
+<style>
+
+  p{
+    text-align: center;
+}
+  
+</style>
 # Tools
 
 {%
@@ -20,15 +27,6 @@ nav:
 {% include search-info.html %}
 
 {% include section.html %}
-
-<style>
-
-  p{
-    text-align: center;
-}
-  
-</style>
-
 
 ## OMICS INTEGRATION
 
