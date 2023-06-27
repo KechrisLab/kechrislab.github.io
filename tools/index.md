@@ -21,6 +21,15 @@ nav:
 
 {% include section.html %}
 
+<style>
+
+  p{
+    text-align: center;
+}
+  
+</style>
+
+
 ## OMICS INTEGRATION
 
 {% include list.html component="card" data="tools" filters="group: OMICS INTEGRATION" style="large" %}
