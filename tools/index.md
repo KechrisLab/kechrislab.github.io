@@ -23,13 +23,13 @@ nav:
 
 ## OMICS INTEGRATION
 
-{% include list.html component="card" data="tools" filters="group: OMICS INTEGRATION" style="small" %}
+{% include list.html component="card" data="tools" filters="group: OMICS INTEGRATION" style="large" %}
 
 {% include section.html %}
 
 ## METABOLOMICS
 
-{% include list.html component="card" data="tools" filters="group: METABOLOMICS" style="small" %}
+{% include list.html component="card" data="tools" filters="group: METABOLOMICS" style="large" %}
 
 {% include section.html %}
 
@@ -37,14 +37,14 @@ nav:
 
 ## MICROBIOME
 
-{% include list.html component="card" data="tools" filters="group: MICROBIOME" style="small" %}
+{% include list.html component="card" data="tools" filters="group: MICROBIOME" style="large" %}
 {% endcapture %}
 
 {% capture col2 %}
 
 ## EPIGENETICS
 
-{% include list.html component="card" data="tools" filters="group: EPIGENETICS" style="small" %}
+{% include list.html component="card" data="tools" filters="group: EPIGENETICS" style="large" %}
 {% endcapture %}
 {% include two-col.html col1=col1 col2=col2 %}
 
@@ -52,10 +52,10 @@ nav:
 
 ## TRANSCRIPTOMICS
 
-{% include list.html component="card" data="tools" filters="group: TRANSCRIPTOMICS" style="small" %}
+{% include list.html component="card" data="tools" filters="group: TRANSCRIPTOMICS" style="large" %}
 
 
 {% include section.html %}
 ## TRANSCRIPTION FACTOR BINDING
 
-{% include list.html component="card" data="tools" filters="group: TRANSCRIPTION FACTOR BINDING" style="small" %}
+{% include list.html component="card" data="tools" filters="group: TRANSCRIPTION FACTOR BINDING" style="large" %}
