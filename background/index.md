@@ -23,7 +23,7 @@ nav:
 
 <h1 id="positions">POSITIONS</h1>
 
-<p><br />
+<p>
 Department of Biostatistics and Informatics <br />
 Core Faculty, Computational Bioscience Program<br />
 Colorado School of Public Health<br />
