@@ -12,7 +12,7 @@
   flex-direction: column;
   gap: 20px;
   width: var(--width);
-  max-width: calc(100% - 20px - 20px);
+  max-width: calc(100%);
   margin: 20px;
 
   & > * {
