@@ -5,11 +5,15 @@ nav:
   tooltip: Background
 ---
 
+<style>
+  h1{
+    text-align: left;
+  }
+</style>
 <section
-      class="background"
-      
-      
-    ><h1 id="education">EDUCATION</h1>
+      class="background">
+  
+  <h1 id="education">EDUCATION</h1>
 
 <ul>
   <li>University of California Berkeley, Ph.D., Statistics, 2003</li>
