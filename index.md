@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-
+<meta name="google-site-verification" content="Ql6C6gL6Bj6v3kXhpP91RKCx_2rpBCKU8k_jDbg7EkM">
 
 {%
   include section.html
