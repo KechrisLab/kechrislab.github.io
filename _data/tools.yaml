@@ -3,9 +3,8 @@
   group: OMICS INTEGRATION
   link: https://github.com/KechrisLab//OmicsSubtyping
   image: images/omicssubtyping.png
-  description: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease. [See Gillenwater et al., 2021](https://pubmed.ncbi.nlm.nih.gov/34432807/).  [Github](https://github.com/KechrisLab//OmicsSubtyping)
+  description: <p class="center" Multi-omics subtyping pipeline for chronic obstructive pulmonary disease.><a href="https://pubmed.ncbi.nlm.nih.gov/34432807/">See Gillenwater et al., 2021</a>. <a href="https://github.com/KechrisLab//OmicsSubtyping">Github</a></p>
 
-- title: SmCCNet 
   subtitle: "R package: J. Shi"
   group: OMICS INTEGRATION
   image: images/smccnet.png
