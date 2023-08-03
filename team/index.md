@@ -32,9 +32,6 @@ Current Position: Assistant Professor, Statistics, Oklahoma State University
 Current Position: Staff Data Scientist, Datto Inc.
 
 ### PhD Students
-
-+ Charles Carpenter, MS Research Assistant (2020-2022)
-Current Position: PhD Student, Biostatistics
 + Yonghua Zhuang, PhD Biostatistics PhD Student (2017-2022)
 Current Position: Assistant Professor, Biostatistics and Bioinformatics Shared Service at Cancer Center, CU Anschutz
 + Charlotte Siska Computational Bioscience PhD Student (2012-2016)
@@ -49,6 +46,8 @@ Current Position: Statistical Consultant, Statistically Speaking
 
 ### Masters Students
 
++
++ Erika Esquinca (2021-2023, with Randi Johnson)
 + Sierra Niemiec Biostatistics MS Student (2020-2022 , with Anne Starling)
 Current Position: Analyst, Center for Innovative Design and Analysis
 + Max McGrath Research Assistant (2019- 2022)
@@ -83,7 +82,7 @@ Current Position: PhD Student, Computational Bioscience, CU Anschutz
 Current Position: Sr. Professional Research Assistant, CU Anschutz
 
 ### Research Assistants
-
++ Charles Carpenter, MS Research Assistant (2020-2022)
 + Michael Daniels, MS Biostatistics PhD Student (2016-2018)
 Current Position: Biostatistician, University of Louisville
 + Pamela Russell, MA Computational Biologist (2014-2017)
