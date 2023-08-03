@@ -28,7 +28,7 @@ determinants of diabetes and obesity in children.
 ## METABOLOMICS
 
 ### Addressing Sparsity in Metabolomics Data Analysis
-Role: Multi-PI (Kechris, Ghosh); NIH/NCI U01 CA235488 2018-2022
+Role: Multi-PI (Kechris, Ghosh); NIH/NCI U01 CA235488 2018-2023 (NCE)
 
 In metabolomics data, there is sparsity in individual metabolites due to a large percentage of missing data due to biological and technical reasons,
 and sparsity in connections between metabolites due to high collinearity and sparsely connected networks in metabolic pathways.
@@ -45,7 +45,7 @@ molecular multi-omic profiles from three NHLBI cohorts to discover molecular net
 COPD diagnosis and progression.
 
 ### Biomarker of Lung Disease in African Americans
-Role: Multi-PI (Bowler, Kechris); NIH/NHLBI R01 HL137995 2018-2022
+Role: Multi-PI (Bowler, Kechris); NIH/NHLBI R01 HL137995 2018-2023 (NCE)
 
 There are very few studies in COPD that address risk factors and molecular pathogenesis in African Americans.
 This proposal will use three existing NHLBI cohorts to identify blood signatures that can identify who will be at risk 
