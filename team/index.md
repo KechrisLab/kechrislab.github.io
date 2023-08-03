@@ -73,7 +73,6 @@ Current Position: Machine Learning Scientist, Viracor Eurofins Clinical Diagnost
 Current Position: Pediatrician, Salt Lake City
 
 ### Other Students
-
 + Eitan Halper-Stromberg Medical Student (2018-2019, with Russell Bowler)
 Current Position: Pathology Resident, Johns Hopkins University
 + Lucas Gillenwater Epidemiology MPH Student (2018, with Russell Bowler)
@@ -82,6 +81,8 @@ Current Position: PhD Student, Computational Bioscience, CU Anschutz
 Current Position: Sr. Professional Research Assistant, CU Anschutz
 
 ### Research Assistants
++ Suneeta Godbole, MS Research Assistant (2020-2023)
+Current Position: Biostatistics PhD Student, CU Anschutz
 + Charles Carpenter, MS Research Assistant (2020-2022)
 + Michael Daniels, MS Biostatistics PhD Student (2016-2018)
 Current Position: Biostatistician, University of Louisville
