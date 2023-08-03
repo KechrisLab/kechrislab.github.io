@@ -25,6 +25,7 @@ Current Position: Research Assistant Professor, CU Anschutz
 + Souvik Seal, PhD Post-doctoral Fellow (2020-2022)
 Current Position: Assistant Professor, Medical Univeristy of South Carolina
 + Debmalya Nandy, PhD Post-doctoral Fellow (2019-2022)
+Current Position: Holistic Health & Alternative Medicine Practitioner 
 + Elin Shaddox, PhD Post-doctoral Fellow (2019-2022)
 Current Position: Biostatistician, Foundation Medicine
 + Pratyaydipta Rudra, PhD Post-Doctoral Fellow (2015-2018)
