@@ -47,8 +47,6 @@ Current Position: Statistical Consultant, Statistically Speaking
 
 
 ### Masters Students
-
-+
 + Erika Esquinca (2021-2023, with Randi Johnson)
 + Sierra Niemiec Biostatistics MS Student (2020-2022 , with Anne Starling)
 Current Position: Analyst, Center for Innovative Design and Analysis
