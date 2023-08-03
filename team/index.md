@@ -20,26 +20,27 @@ nav:
 ## ALUMNI
 
 ### Post-Doctoral Fellows
-
++ Thao Vu, PhD Post-doctoral Fellow (2020-2023)
+Current Position: Research Assistant Professor, CU Anschutz
 + Souvik Seal, PhD Post-doctoral Fellow (2020-2022)
 Current Position: Assistant Professor, Medical Univeristy of South Carolina
 + Debmalya Nandy, PhD Post-doctoral Fellow (2019-2022)
 + Elin Shaddox, PhD Post-doctoral Fellow (2019-2022)
-Current Position: Biostatistician, miR Scientific
+Current Position: Biostatistician, Foundation Medicine
 + Pratyaydipta Rudra, PhD Post-Doctoral Fellow (2015-2018)
 Current Position: Assistant Professor, Statistics, Oklahoma State University
 + Wen Jenny Shi, PhD Post-Doctoral Fellow (2015-2018)
-Current Position: Staff Data Scientist, Datto Inc.
+Current Position: Lead Data Scientist, zeroG - AI in Aviation
 
 ### PhD Students
 + Yonghua Zhuang, PhD Biostatistics PhD Student (2017-2022)
 Current Position: Assistant Professor, Biostatistics and Bioinformatics Shared Service at Cancer Center, CU Anschutz
 + Charlotte Siska Computational Bioscience PhD Student (2012-2016)
-Current Position: Data Scientist, Twitter
+Current Position: Senior Applied Machine Learning Researcher, Microsoft
 + Nick Walter, MD, PhD Epidemiology PhD Student (2012-2015, with Tasha Fingerlin)
 Current Position: Associate Professor, Department of Medicine, CU Anschutz
 + Daniel Dvorkin, Ph.D. Computational Bioscience PhD Student (2009-2013)
-Current Position: Bioinformatics Consultant
+Current Position: Bioinformatics Consultant, Bioinformatics CRO
 + Betsy Siewert, Ph.D. Biostatistics PhD Student (2006-2010)
 Current Position: Statistical Consultant, Statistically Speaking
 
