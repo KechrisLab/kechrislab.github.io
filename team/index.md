@@ -49,9 +49,7 @@ Current Position: Statistical Consultant, Statistically Speaking
 + Erika Esquinca (2021-2023, with Randi Johnson)
 + Sierra Niemiec Biostatistics MS Student (2020-2022 , with Anne Starling)
 Current Position: Research Instructor, CU Anschutz
-+ Max McGrath Research Assistant (2019- 2022)
-Current Position: Research Instructor, CU Anschutz
-+ Emily Cooper Biostatistics MS Student and Research Assistant (2020-2021)
++ Emily Cooper Biostatistics MS Student (2020-2021)
 Current Position: Research Instructor, CU Anschutz
 + Tim Vigers Biostatistics MS Student (2019-2021, with Lauren Vanderlinden)
 Current Position: Research Instructor, CU Anschutz
@@ -74,7 +72,7 @@ Current Position: Senior Biostatistician, Telligen
 Current Position: Assistant Professor of Clinical Investigation, University of Utah
 
 ### Other Students
-+ Eitan Halper-Stromberg Medical Student (2018-2019, with Russell Bowler)
++ Eitan Halper-Stromberg Phd Medical Student (2018-2019, with Russell Bowler)
 Current Position: Pathology Resident, Johns Hopkins University
 + Lucas Gillenwater Epidemiology MPH Student (2018, with Russell Bowler)
 Current Position: PhD Student, Computational Bioscience, CU Anschutz
@@ -87,6 +85,8 @@ Current Position: Professional Research Assistant,  CU Anschutz
 + Suneeta Godbole, MS Research Assistant (2020-2023)
 Current Position: Biostatistics PhD Student, CU Anschutz
 + Charles Carpenter, MS Research Assistant (2020-2022)
++ Max McGrath Research Assistant (2019- 2022)
+Current Position: Research Instructor, CU Anschutz
 + Michael Daniels, MS Biostatistics PhD Student (2016-2018)
 Current Position: Biostatistician, University of Louisville
 + Pamela Russell, MA Computational Biologist (2014-2017)
