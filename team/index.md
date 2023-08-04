@@ -81,7 +81,7 @@ Current Position: Sr. Professional Research Assistant, CU Anschutz
 
 ### Research Assistants
 + Sakaiza Rasolofomanana Rajery, Research Assistant (2021-2023)
-Current Position: Professional Research Assistant,  CU Anschutz
+Current Position: Professional Research Assistant, CU Anschutz
 + Suneeta Godbole, MS Research Assistant (2020-2023)
 Current Position: Biostatistics PhD Student, CU Anschutz
 + Charles Carpenter, MS Research Assistant (2020-2022)
