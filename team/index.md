@@ -50,7 +50,7 @@ Current Position: Statistical Consultant, Statistically Speaking
 + Sierra Niemiec Biostatistics MS Student (2020-2022 , with Anne Starling)
 Current Position: Research Instructor, CU Anschutz
 + Max McGrath Research Assistant (2019- 2022)
-Current Position: Research Instructor, Center for Innovative Design and Analysis
+Current Position: Research Instructor, CU Anschutz
 + Emily Cooper Biostatistics MS Student and Research Assistant (2020-2021)
 Current Position: Research Instructor, CU Anschutz
 + Tim Vigers Biostatistics MS Student (2019-2021, with Lauren Vanderlinden)
