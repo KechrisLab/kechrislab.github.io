@@ -45,32 +45,33 @@ Current Position: Bioinformatics Consultant, Bioinformatics CRO
 + Betsy Siewert, Ph.D. Biostatistics PhD Student (2006-2010)
 Current Position: Statistical Consultant, Statistically Speaking
 
-
 ### Masters Students
 + Erika Esquinca (2021-2023, with Randi Johnson)
 + Sierra Niemiec Biostatistics MS Student (2020-2022 , with Anne Starling)
-Current Position: Analyst, Center for Innovative Design and Analysis
+Current Position: Research Instructor, CU Anschutz
 + Max McGrath Research Assistant (2019- 2022)
-Current Position: Analyst, Center for Innovative Design and Analysis
+Current Position: Research Instructor, Center for Innovative Design and Analysis
 + Emily Cooper Biostatistics MS Student and Research Assistant (2020-2021)
 Current Position: Research Instructor, CU Anschutz
 + Tim Vigers Biostatistics MS Student (2019-2021, with Lauren Vanderlinden)
 Current Position: Research Instructor, CU Anschutz
 + Jonathan Dekermanjian Biostatistics MS Student (2019-2021, with Debashis Ghosh)
-Current Position: Research Instructor, CU Anschutz
+Current Position: Senior Data Scientist, Recovery Centers of America
 + Guannan Shen Biostatistics MS Student (2018-2019, with Miranda Kroehl)
-Cuining Liu Biostatistics MS Student (2017-2019)
++ Cuining Liu Biostatistics MS Student (2017-2019)
+Current Position: PhD Student, UCLA
 + Gordon Kordas Biostatistics MS Student (2018-2019)
-Current Position: Biostatistician, Washington State University
+Current Position: Data Scientist, Charter Communications
 + Elizabeth Litkowski Biostatistics MS Student (2017-2018, with Laura Saba)
-Current Position: PhD Student, Epidemiology, CU Anschutz
+Current Position: Post-doc, University of Michigan
 + Yonghua Zhuang, PhD Biostatistics MS Student (2014-2016)
 Current Position: Research Assistant Professor, Cancer Center, CU Anschutz
 + Mikaela Miller, MA, MPH, MS Biostatistics MS Student (2014-2015)
-Current Position: Machine Learning Scientist, Viracor Eurofins Clinical Diagnostics
+Current Position: Senior Data Scientist, CVS Health
 + Grant Hughes, MS Biostatistics MS Student (2011-2013)
+Current Position: Senior Biostatistician, Telligen
 + Timothy Bahr, MS, MD Biostatistics MS Student (2010-2011)
-Current Position: Pediatrician, Salt Lake City
+Current Position: Assistant Professor of Clinical Investigation, University of Utah
 
 ### Other Students
 + Eitan Halper-Stromberg Medical Student (2018-2019, with Russell Bowler)
@@ -82,14 +83,14 @@ Current Position: Sr. Professional Research Assistant, CU Anschutz
 
 ### Research Assistants
 + Sakaiza Rasolofomanana Rajery, Research Assistant (2021-2023)
-Current Position: Professional Research Assistant, Department of Biomedical Informatics, CU Anschutz
+Current Position: Professional Research Assistant,  CU Anschutz
 + Suneeta Godbole, MS Research Assistant (2020-2023)
 Current Position: Biostatistics PhD Student, CU Anschutz
 + Charles Carpenter, MS Research Assistant (2020-2022)
 + Michael Daniels, MS Biostatistics PhD Student (2016-2018)
 Current Position: Biostatistician, University of Louisville
 + Pamela Russell, MA Computational Biologist (2014-2017)
-Current Position: Principal Bioinformatics Engineer, Fulcrum Genomics
+Current Position: Principal Scientist, Generate Biomedicines
 + Brian Vestal, MS Biostatistics Research Assistant (2014-2017)
 Current Position: Assistant Research Professor, National Jewish Health
 + Junxiao Hu, MS Research Assistant (2014-2015)
