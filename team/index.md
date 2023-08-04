@@ -21,9 +21,9 @@ nav:
 
 ### Post-Doctoral Fellows
 + Thao Vu, PhD Post-doctoral Fellow (2020-2023)
-Current Position: Research Assistant Professor, CU Anschutz
+Current Position: Research Assistant Professor, Biostatistics and Informatics, CU Anschutz
 + Souvik Seal, PhD Post-doctoral Fellow (2020-2022)
-Current Position: Assistant Professor, Medical Univeristy of South Carolina
+Current Position: Assistant Professor, Biostatistics and Bioinformatics, Medical University of South Carolina
 + Debmalya Nandy, PhD Post-doctoral Fellow (2019-2022)
 Current Position: Holistic Health & Alternative Medicine Practitioner 
 + Elin Shaddox, PhD Post-doctoral Fellow (2019-2022)
@@ -31,7 +31,7 @@ Current Position: Biostatistician, Foundation Medicine
 + Pratyaydipta Rudra, PhD Post-Doctoral Fellow (2015-2018)
 Current Position: Assistant Professor, Statistics, Oklahoma State University
 + Wen Jenny Shi, PhD Post-Doctoral Fellow (2015-2018)
-Current Position: Lead Data Scientist, zeroG - AI in Aviation
+Current Position: Lead Data Scientist, zeroG AI in Aviation
 
 ### PhD Students
 + Yonghua Zhuang, PhD Biostatistics PhD Student (2017-2022)
