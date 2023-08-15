@@ -5,7 +5,7 @@ title: Home
   include section.html
 %}
 
-# KECHRIS LAB
+# KATERINA KECHRIS GROUP
 
 <font size = "1"> Our research focuses on the development and application of statistical and computational methods for analyzing omics data 
 sets.
