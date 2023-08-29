@@ -1,6 +1,70 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC9821764
+  title: 'RCFGL: Rapid Condition adaptive Fused Graphical Lasso and application to
+    modeling brain region co-expression networks'
+  authors:
+  - Souvik Seal
+  - Qunhua Li
+  - Elle Butler Basner
+  - Laura M Saba
+  - Katerina Kechris
+  publisher: PLoS Computational Biology 19(1):e1010758
+  date: '2023-01-06'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9821764/
+  _cache: d192874e902e48ee516700fe638b4bf9008fa146ce81d0913b08e5767bcd3105
+- id: pmc:PMC8386883
+  title: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease
+  authors:
+  - Lucas A Gillenwater
+  - Shahab Helmi
+  - Evan Stene
+  - Katherine A Pratte
+  - Yonghua Zhuang
+  - Ronald P Schuyler
+  - Leslie Lange
+  - Peter J Castaldi
+  - Craig P Hersh
+  - Farnoush Banaei-Kashani
+  - Russell P Bowler
+  - Katerina J Kechris
+  publisher: PLoS One. 16:e0255337
+  date: '2021-08-25'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
+  _cache: 4ac309a3e6af63371082c19fbf1de4615b3e7ecea2be923cd92b392af52a35c2
+- id: doi:10.1371/journal.pcbi.1008986
+  title: 'PaIRKAT: A pathway integrated regression-based kernel association test with
+    applications to metabolomics and COPD phenotypes'
+  authors:
+  - Charlie M. Carpenter
+  - Weiming Zhang
+  - Lucas Gillenwater
+  - Cameron Severn
+  - Tusharkanti Ghosh
+  - Russell Bowler
+  - Katerina Kechris
+  - Debashis Ghosh
+  publisher: PLoS Computational Biology.17(10):e1008986
+  date: '2021-10-22'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8565741/
+  _cache: b4aaab3e4d7c1db76e02c7379711398194402c18d52a80e20db9f67520ebc064
+- id: pmc:PMC9831052
+  title: 'NetSHy: network summarization via a hybrid approach leveraging topological
+    properties'
+  authors:
+  - Thao Vu
+  - Elizabeth M Litkowski
+  - Weixuan Liu
+  - Katherine A Pratte
+  - Leslie Lange
+  - Russell P Bowler
+  - Farnoush Banaei-Kashani
+  - Katerina J Kechris
+  publisher: Bioinformatics 39(1):btac818
+  date: '2023-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831052/
+  _cache: 3d883ce0f63e60a0380dcafa854aa4535edbd1e3e72975e3b81e400f79461ca6
 - id: pmc:PMC10086335
   title: Genome-wide analysis of oxylipins and oxylipin profiles in a pediatric population
   authors:
@@ -19,10 +83,10 @@
   - Katerina Kechris
   - Marian Rewers
   - Jill M Norris
-  publisher: Frontierns in Nutrition 10:1040993.
+  publisher: Frontiern in Nutrition 10:1040993.
   date: '2023-03-28'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10086335/
-  _cache: 2a2d6339fc1a3d4dcc3d0ea98641ad52396b334efd9ed1ee969c3fa3b6aea6bf
+  _cache: 6fcc7525e7b66cfd8baa54f216fd4a6a68ede1bf5b2308ec534ca723fe091d81
 - id: pmc:PMC9980626
   title: 'Sex-based differences in placental DNA methylation profiles related to gestational
     age: an NIH ECHO meta-analysis'
@@ -223,35 +287,6 @@
   date: '2022-12-01'
   link: https://pubmed.ncbi.nlm.nih.gov/36776768/
   _cache: 9cfe98e21619ac6376affcffe002519649215a5eada6bd9acff47349a352f59c
-- id: pmc:PMC9821764
-  title: 'RCFGL: Rapid Condition adaptive Fused Graphical Lasso and application to
-    modeling brain region co-expression networks'
-  authors:
-  - Souvik Seal
-  - Qunhua Li
-  - Elle Butler Basner
-  - Laura M Saba
-  - Katerina Kechris
-  publisher: PLoS Comput Biol 19(1):e1010758
-  date: '2023-01-06'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9821764/
-  _cache: cc1e9acdef4dd4c95e7b417a0dbc79c2b262c0113629cf693df2bbaddacea6e0
-- id: pmc:PMC9831052
-  title: 'NetSHy: network summarization via a hybrid approach leveraging topological
-    properties'
-  authors:
-  - Thao Vu
-  - Elizabeth M Litkowski
-  - Weixuan Liu
-  - Katherine A Pratte
-  - Leslie Lange
-  - Russell P Bowler
-  - Farnoush Banaei-Kashani
-  - Katerina J Kechris
-  publisher: Bioinformatics 39(1):btac818
-  date: '2023-01-01'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831052/
-  _cache: 3d883ce0f63e60a0380dcafa854aa4535edbd1e3e72975e3b81e400f79461ca6
 - id: pmc:PMC9782692
   title: Fat content in infant mesenchymal stem cells prospectively associates with
     childhood adiposity and fasting glucose
@@ -266,41 +301,6 @@
   date: '2023-01-01'
   link: https://pubmed.ncbi.nlm.nih.gov/36541155/
   _cache: 2a631442c7c990aa3d2fa12d5f4063939879142b0d3d9ce47ce948916f98e115
-- id: pmc:PMC8386883
-  title: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease
-  authors:
-  - Lucas A Gillenwater
-  - Shahab Helmi
-  - Evan Stene
-  - Katherine A Pratte
-  - Yonghua Zhuang
-  - Ronald P Schuyler
-  - Leslie Lange
-  - Peter J Castaldi
-  - Craig P Hersh
-  - Farnoush Banaei-Kashani
-  - Russell P Bowler
-  - Katerina J Kechris
-  publisher: PLoS One. 16:e0255337
-  date: '2021-08-25'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
-  _cache: 4ac309a3e6af63371082c19fbf1de4615b3e7ecea2be923cd92b392af52a35c2
-- id: doi:10.1371/journal.pcbi.1008986
-  title: 'PaIRKAT: A pathway integrated regression-based kernel association test with
-    applications to metabolomics and COPD phenotypes'
-  authors:
-  - Charlie M. Carpenter
-  - Weiming Zhang
-  - Lucas Gillenwater
-  - Cameron Severn
-  - Tusharkanti Ghosh
-  - Russell Bowler
-  - Katerina Kechris
-  - Debashis Ghosh
-  publisher: PLoS Computational Biology.17(10):e1008986
-  date: '2021-10-22'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8565741/
-  _cache: b4aaab3e4d7c1db76e02c7379711398194402c18d52a80e20db9f67520ebc064
 - id: pmc:PMC8540572
   title: 'MSCAT: A Machine Learning Assisted Catalog of Metabolomics Software Tools'
   authors:
