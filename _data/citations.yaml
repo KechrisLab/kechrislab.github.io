@@ -1,6 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC10086335
+  title: Genome-wide analysis of oxylipins and oxylipin profiles in a pediatric population
+  authors:
+  - Teresa Buckner
+  - Randi K Johnson
+  - Lauren A Vanderlinden
+  - Patrick M Carry
+  - Alex Romero
+  - Suna Onengut-Gumuscu
+  - Wei-Min Chen
+  - Soojeong Kim
+  - Oliver Fiehn
+  - Brigitte I Frohnert
+  - Tessa Crume
+  - Wei Perng
+  - Katerina Kechris
+  - Marian Rewers
+  - Jill M Norris
+  publisher: Frontierns in Nutrition 10:1040993.
+  date: '2023-03-28'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10086335/
+  _cache: 2a2d6339fc1a3d4dcc3d0ea98641ad52396b334efd9ed1ee969c3fa3b6aea6bf
 - id: pmc:PMC9980626
   title: 'Sex-based differences in placental DNA methylation profiles related to gestational
     age: an NIH ECHO meta-analysis'
