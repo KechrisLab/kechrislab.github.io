@@ -14,25 +14,21 @@
   date: '2023-01-06'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9821764/
   _cache: d192874e902e48ee516700fe638b4bf9008fa146ce81d0913b08e5767bcd3105
-- id: pmc:PMC8386883
-  title: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease
+- id: pmc:PMC10121008
+  title: Deep learning on graphs for multi-omics classification of COPD
   authors:
-  - Lucas A Gillenwater
-  - Shahab Helmi
-  - Evan Stene
-  - Katherine A Pratte
   - Yonghua Zhuang
-  - Ronald P Schuyler
-  - Leslie Lange
-  - Peter J Castaldi
+  - Fuyong Xing
+  - Debashis Ghosh
+  - Brian D Hobbs
   - Craig P Hersh
   - Farnoush Banaei-Kashani
   - Russell P Bowler
-  - Katerina J Kechris
-  publisher: PLoS One. 16:e0255337
-  date: '2021-08-25'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
-  _cache: 4ac309a3e6af63371082c19fbf1de4615b3e7ecea2be923cd92b392af52a35c2
+  - Katerina Kechris
+  publisher: PLoS One 18(4):e0284563
+  date: '2023-04-21'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121008/
+  _cache: 78951bcac1a37364d6b9acf83303671ffebe6242dbf14335830834b210fbe521
 - id: doi:10.1371/journal.pcbi.1008986
   title: 'PaIRKAT: A pathway integrated regression-based kernel association test with
     applications to metabolomics and COPD phenotypes'
@@ -312,6 +308,25 @@
   date: '2021-10-02'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540572/
   _cache: b1dd837f698fd2275ff390e0b22c2fdb48a857029b97ae06dbe6a23401d591c9
+- id: pmc:PMC8386883
+  title: Multi-omics subtyping pipeline for chronic obstructive pulmonary disease
+  authors:
+  - Lucas A Gillenwater
+  - Shahab Helmi
+  - Evan Stene
+  - Katherine A Pratte
+  - Yonghua Zhuang
+  - Ronald P Schuyler
+  - Leslie Lange
+  - Peter J Castaldi
+  - Craig P Hersh
+  - Farnoush Banaei-Kashani
+  - Russell P Bowler
+  - Katerina J Kechris
+  publisher: PLoS One 16:e0255337
+  date: '2021-08-25'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
+  _cache: 26776f5cf647c24e638d3fed2f9cc01178be4cf7c013324f6a03cee01be3c515
 - id: pmc:PMC8424820
   title: An effective processing pipeline for harmonizing DNA methylation data from
     Illumina's 450K and EPIC platforms for epidemiological studies
