@@ -1,7 +1,171 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: pmc:PMC9962656
+- id: pmc:PMC9980626
+  title: 'Sex-based differences in placental DNA methylation profiles related to gestational
+    age: an NIH ECHO meta-analysis'
+  authors:
+  - Catherine M Bulka
+  - Todd M Everson
+  - Amber A Burt
+  - Carmen J Marsit
+  - Margaret R Karagas
+  - Kristen E Boyle
+  - Sierra Niemiec
+  - Katerina Kechris
+  - Elizabeth J Davidson
+  - Ivana V Yang
+  - Jason I Feinberg
+  - Heather E Volk
+  - Christine Ladd-Acosta
+  - Carrie V Breton
+  - T Michael O'Shea
+  - Rebecca C Fry
+  - ' program collaborators for Environmental influences on Child Health Outcomes'
+  publisher: Epigenetics 18(1):2179726
+  date: '2023-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9980626/
+  _cache: 216c2636436633129da7a9b754ee6703b333e9d8f2ce2690173e4ce5ecd5aa61
+- id: doi:10.1038/s41598-023-40950-8
+  title: Quantifying the spatial clustering characteristics of radiographic emphysema
+    explains variability in pulmonary function
+  authors:
+  - Brian E. Vestal
+  - Debashis Ghosh
+  - "Ra\xFAl San Jos\xE9 Est\xE9par"
+  - Katerina Kechris
+  - Tasha Fingerlin
+  - Nichole E. Carlson
+  publisher: Scientific Reports 13(1):13862.
+  date: '2023-08-24'
+  link: https://pubmed.ncbi.nlm.nih.gov/37620507/
+  _cache: 589460e1ef7cb073811ac88688843aa04555ee815721b1c7ac064867a5ec8ef0
+- id: PMC:PMC10330919
+  title: 'Prenatal exposures to per- and polyfluoroalkyl substances and epigenetic
+    aging in umbilical cord blood: The Healthy Start study'
+  authors:
+  - Sierra S Niemiec
+  - Katerina Kechris
+  - Jack Pattee
+  - Ivana V Yang
+  - John L Adgate
+  - Antonia M Calafat
+  - Dana Dabelea
+  - Anne P Starling
+  publisher: Environmental Research 231(Pt 2):116215.
+  date: '2023-08-15'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10330919/
+  _cache: e3fa399df21fc2d2e433ab53c18546c4371def11192321a0c1696f48ee3f4b7c
+- id: PMC:PMC10372711
+  title: Adipocyte hypertrophy in mesenchymal stem cells from infants of mothers with
+    obesity
+  authors:
+  - Madeline Rose Keleher
+  - Shreya Shubhangi
+  - Asya Brown
+  - Allison M Duensing
+  - "Manoel E Lixandr\xE3o"
+  - Kathleen M Gavin
+  - Harry A Smith
+  - Katerina J Kechris
+  - Ivana V Yang
+  - Dana Dabelea
+  - Kristen E Boyle
+  publisher: Obesity 31(8):2090-2102.
+  date: '2023-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10372711/
+  _cache: 845b54df8cf7104b71cf7d934d45af9ecb0b114407ec5d935f935bec101ccc0a
+- id: PMC:PMC10247808
+  title: Large scale proteomic studies create novel privacy considerations
+  authors:
+  - Andrew C Hill
+  - Claire Guo
+  - Elizabeth M Litkowski
+  - Ani W Manichaikul
+  - Bing Yu
+  - Iain R Konigsberg
+  - Betty A Gorbet
+  - Leslie A Lange
+  - Katherine A Pratte
+  - Katerina J Kechris
+  - Matthew DeCamp
+  - Marilyn Coors
+  - Victor E Ortega
+  - Stephen S Rich
+  - Jerome I Rotter
+  - Robert E Gerzsten
+  - Clary B Clish
+  - Jeffrey L Curtis
+  - Xiaowei Hu
+  - Ma-En Obeidat
+  - Melody Morris
+  - Joseph Loureiro
+  - Debby Ngo
+  - Wanda K O'Neal
+  - Deborah A Meyers
+  - Eugene R Bleecker
+  - Brian D Hobbs
+  - Michael H Cho
+  - Farnoush Banaei-Kashani
+  - Russell P Bowler
+  publisher: Scientific Reports 13(1):9254.
+  date: '2023-06-07'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10247808/
+  _cache: 410a67770c0da3d46044cf8801d289e0b6d943ff03795d7383c3342fbae6f454
+- id: PMC:PMC10178351
+  title: Intrauterine Smoke Exposure, microRNA Expression during Human Lung Development,
+    and Childhood Asthma
+  authors:
+  - Lynne Rosenberg
+  - Cuining Liu
+  - Rinku Sharma
+  - Cheyret Wood
+  - Carrie A Vyhlidal
+  - Roger Gaedigk
+  - Alvin T Kho
+  - John P Ziniti
+  - "Juan C Celed\xF3n"
+  - Kelan G Tantisira
+  - Scott T Weiss
+  - Michael J McGeachie
+  - Katerina Kechris
+  - Sunita Sharma
+  publisher: International Journal of Molecular Sciences 24(9):7727.
+  date: '2023-04-23'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10178351/
+  _cache: 43254caf6364f5f9a4822d2394296750736e81dd68450c3f69d213afa6fa3249
+- id: PMC:PMC10074224
+  title: Novel Metabolic Subtypes in Pregnant Women and Risk of Early Childhood Obesity
+    in Offspring
+  authors:
+  - Ellen C Francis
+  - Katerina Kechris
+  - Thomas Jansson
+  - Dana Dabelea
+  - Wei Perng
+  publisher: JAMA Network Open 6(4):e237030.
+  date: '2023-04-03'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10074224/
+  _cache: 81fb03647a4b7b5ead329597eb8010f56da306f623fc7e2cd2011419e73ec6d8
+- id: PMC:PMC9990331
+  title: Propensity scores as a novel method to guide sample allocation and minimize
+    batch effects during the design of high throughput experiments
+  authors:
+  - Patrick M Carry
+  - Tim Vigers
+  - Lauren A Vanderlinden
+  - Carson Keeter
+  - Fran Dong
+  - Teresa Buckner
+  - Elizabeth Litkowski
+  - Ivana Yang
+  - Jill M Norris
+  - Katerina Kechris
+  publisher: BMC Bioinformatics 24(1):86.
+  date: '2023-03-07'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9990331/
+  _cache: 3bd0932a9ac01a71501d261eba97d3c55d3295a09da7a0a62a7aa4f1f71cfa31
+- id: PMC:PMC9962656
   title: An Oxylipin-Related Nutrient Pattern and Risk of Type 1 Diabetes in the Diabetes
     Autoimmunity Study in the Young (DAISY)
   authors:
@@ -19,10 +183,10 @@
   - Katerina Kechris
   - Marian Rewers
   - Jill M Norris
-  publisher: Nutrients 15(4):945
+  publisher: Nutrients 15(4):945.
   date: '2023-02-14'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9962656/
-  _cache: 1becfea5617556d59b1a74dfe6b68be3d7b59681d3f983dd47e163d560242382
+  _cache: b32c481f20522a2656d9f274d65d69c4fdb4b2122af2a01c1b96e22a60b33861
 - id: pmc:PMC9916186
   title: Effective Subject Representation based on Multi-omics Disease Networks using
     Graph Embedding
