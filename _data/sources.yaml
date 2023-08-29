@@ -1,22 +1,22 @@
--id: pmc:PMC9980626
-     publisher: Epigenetics 18(1):2179726
-     -link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9980626/
+- id: pmc:PMC9980626
+  publisher: Epigenetics 18(1):2179726
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9980626/
 
--id: doi:10.1038/s41598-023-40950-8
-     -publisher: Scientific Reports 13(1):13862. 
-     -link: https://pubmed.ncbi.nlm.nih.gov/37620507/
+- id: doi:10.1038/s41598-023-40950-8
+  publisher: Scientific Reports 13(1):13862. 
+  link: https://pubmed.ncbi.nlm.nih.gov/37620507/
 
-	-id: PMC:PMC10330919
-     -publisher: Environmental Research 231(Pt 2):116215. 
-      -link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10330919/
+- id: PMC:PMC10330919
+  publisher: Environmental Research 231(Pt 2):116215. 
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10330919/
 
-	-id: PMC:PMC10372711
-     -publisher: Obesity 31(8):2090-2102. 
-      -link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10372711/
+- id: PMC:PMC10372711
+  publisher: Obesity 31(8):2090-2102. 
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10372711/
 
-	-id: PMC:PMC10247808
-     -publisher: Scientific Reports 13(1):9254.
-      -link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10247808/
+- id: PMC:PMC10247808
+  publisher: Scientific Reports 13(1):9254.
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10247808/
 
 - id: PMC:PMC10178351
   publisher: International Journal of Molecular Sciences 24(9):7727. 
