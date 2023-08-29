@@ -1,6 +1,22 @@
 
+- id: pmc:PMC9821764
+  publisher:  PLoS Comput Biol 19(1):e1010758
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9821764/
+
+- id: pmc:PMC8386883
+  publisher: PLoS One. 16:e0255337
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
+
+- id: doi:10.1371/journal.pcbi.1008986
+  publisher: PLoS Computational Biology.17(10):e1008986
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8565741/
+  
+- id: pmc:PMC9831052
+  publisher: Bioinformatics 39(1):btac818
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831052/
+  
 - id: pmc:PMC10086335
-  publisher: Frontierns in Nutrition 10:1040993. 
+  publisher: Frontiern in Nutrition 10:1040993. 
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10086335/
 
 - id: pmc:PMC9980626
@@ -43,25 +59,11 @@
   publisher:  Proceedings (IEEE Int Conf Bioinformatics Biomed) 2022:1911-1918
   link: https://pubmed.ncbi.nlm.nih.gov/36776768/
 
-- id: pmc:PMC9821764
-  publisher:  PLoS Comput Biol 19(1):e1010758
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9821764/
-
-- id: pmc:PMC9831052
-  publisher: Bioinformatics 39(1):btac818
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831052/
-
 - id: pmc:PMC9782692
   publisher: Obesity 31(1):37-42
   link: https://pubmed.ncbi.nlm.nih.gov/36541155/
 
-- id: pmc:PMC8386883
-  publisher: PLoS One. 16:e0255337
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
 
-- id: doi:10.1371/journal.pcbi.1008986
-  publisher: PLoS Computational Biology.17(10):e1008986
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8565741/
   
 - id: pmc:PMC8540572
   publisher: Metabolites. 11(10):678
