@@ -2,9 +2,10 @@
   publisher:  PLoS Computational Biology 19(1):e1010758
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9821764/
 
-- id: pmc:PMC8386883
-  publisher: PLoS One. 16:e0255337
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
+
+- id: pmc:PMC10121008
+  publisher:  PLoS One 18(4):e0284563
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121008/
 
 - id: doi:10.1371/journal.pcbi.1008986
   publisher: PLoS Computational Biology.17(10):e1008986
@@ -66,6 +67,10 @@
   publisher: Metabolites. 11(10):678
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8540572/
   
+- id: pmc:PMC8386883
+  publisher: PLoS One 16:e0255337
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8386883/
+
 - id: pmc:PMC8424820
   publisher: BMC Research Notes. 14(1):352
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8424820/
