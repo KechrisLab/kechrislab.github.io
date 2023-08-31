@@ -1,4 +1,3 @@
-
 ---
 name: Arun Sarkar
 image: images/Woody.jpeg
