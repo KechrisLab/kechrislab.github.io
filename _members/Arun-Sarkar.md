@@ -1,6 +1,6 @@
 
 ---
 name: Arun Sarkar
-image: images/Jerry.jpeg
+image: images/Woody.jpeg
 description: Biostatistics PhD Student (2022- )
 ---
