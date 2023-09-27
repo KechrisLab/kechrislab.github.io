@@ -5,6 +5,8 @@ title: Home
   include section.html
 %}
 
+{% raw %}{% seo %}{% endraw %} 
+
 # KATERINA KECHRIS
 
 <font size = "1"> Our research focuses on the development and application of statistical and computational methods for analyzing omics data 
