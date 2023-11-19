@@ -5,7 +5,7 @@ title: Home
   include section.html
 %}
 
-{% raw %}{% seo %}{% endraw %} 
+{% raw %}{% endraw %} 
 
 # KATERINA KECHRIS
 
