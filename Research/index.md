@@ -9,8 +9,8 @@ nav:
 
 # RESEARCH
 
-We have several focus areas:
-*  Analyzing transcription factor binding and miRNA data to study the regulation of transcription and post-transcriptional processing,
+Our group has several focus areas:
+* Analyzing transcription factor binding and miRNA data to study the regulation of transcription and post-transcriptional processing,
 * Examining the genetic and epigenetic factors controlling gene expression, 
 * Exploring the metabolome and 
 * Integrating multiple omics data.
