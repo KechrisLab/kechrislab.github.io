@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC10601228
+  title: 'TreeKernel: interpretable kernel machine tests for interactions between
+    -omics and clinical predictors with applications to metabolomics and COPD phenotypes'
+  authors:
+  - Charlie M Carpenter
+  - Lucas Gillenwater
+  - Russell Bowler
+  - Katerina Kechris
+  - Debashis Ghosh
+  publisher: BMC Bioinformatics 24(1):398
+  date: '2023-10-25'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601228/
+  _cache: 5242d88b10d9879587eddd976ffb437ce981c8ca05341bfb27059cbb83fc4c61
 - id: pmc:PMC9821764
   title: 'RCFGL: Rapid Condition adaptive Fused Graphical Lasso and application to
     modeling brain region co-expression networks'
