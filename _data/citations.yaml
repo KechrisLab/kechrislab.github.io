@@ -1,6 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC10496525
+  title: 'Accelerated epigenetic age at birth and child emotional and behavioura development
+    in early childhood: a meta-analysis of four prospective cohort studies in ECHO'
+  authors:
+  - Ashley Y Song
+  - Catherine M Bulka
+  - Sierra S Niemiec
+  - Katerina Kechris
+  - Kristen E Boyle
+  - Carmen J Marsit
+  - T Michael O'Shea
+  - Rebecca C Fry
+  - Kristen Lyall
+  - M Daniele Fallin
+  - Heather E Volk
+  - Christine Ladd-Acosta
+  publisher: Epigenetics 18(1):2254971
+  date: '2023-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10496525/
+  _cache: 5c6ba01562c1121e3b51bfc96cb693da8e40f91a0ab2deefcad897eef685c6d8
 - id: pmc:PMC10247808
   title: Large scale proteomic studies create novel privacy considerations
   authors:
