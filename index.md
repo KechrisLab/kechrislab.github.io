@@ -9,8 +9,7 @@ title: Home
 
 # KATERINA KECHRIS
 
-<font size = "1"> We focus on the development and application of statistical and computational methods for analyzing omics data 
-sets.
+<font size = "1"> We focus on the development and application of statistical and computational methods for analyzing omics data sets throughout the data life cycle.
 </font> 
 
 {%
