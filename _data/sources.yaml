@@ -1,9 +1,5 @@
-- id: pmid:37869908
-  publisher: Obesity (Silver Spring) (in press)
-  link: https://pubmed.ncbi.nlm.nih.gov/37869908/
-
 - id: pmc:PMC10496525
-  publisher: Epigenetics 18(1):2254971
+  publisher: Epigenetics 18(1):2254971.
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10496525/
 
 - id: pmc:PMC10449810
@@ -11,23 +7,23 @@
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10449810/
 
 - id: pmc:PMC10601228
-  publisher: BMC Bioinformatics 24(1):398
+  publisher: BMC Bioinformatics 24(1):398.
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601228/
 
 - id: pmc:PMC9821764
-  publisher:  PLoS Computational Biology 19(1):e1010758
+  publisher:  PLoS Computational Biology 19(1):e1010758.
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9821764/
 
 - id: pmc:PMC10121008
-  publisher:  PLoS One 18(4):e0284563
+  publisher:  PLoS One 18(4):e0284563.
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121008/
 
-- id: doi:10.1371/journal.pcbi.1008986
-  publisher: PLoS Computational Biology.17(10):e1008986
+- id: doi:10.1371/journal.pcbi.1008986.
+  publisher: PLoS Computational Biology 17(10):e1008986
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8565741/
   
 - id: pmc:PMC9831052
-  publisher: Bioinformatics 39(1):btac818
+  publisher: Bioinformatics 39(1):btac818.
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831052/
   
 - id: pmc:PMC10086335
@@ -35,7 +31,7 @@
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10086335/
 
 - id: pmc:PMC9980626
-  publisher: Epigenetics 18(1):2179726
+  publisher: Epigenetics 18(1):2179726.
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9980626/
 
 - id: PMC:PMC10330919
