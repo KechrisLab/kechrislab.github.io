@@ -1,7 +1,10 @@
+- id: pmc:PMC10601228
+  publisher:  BMC Bioinformatics 24(1):398
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601228/
+
 - id: pmc:PMC9821764
   publisher:  PLoS Computational Biology 19(1):e1010758
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9821764/
-
 
 - id: pmc:PMC10121008
   publisher:  PLoS One 18(4):e0284563
