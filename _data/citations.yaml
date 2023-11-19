@@ -1,6 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC10247808
+  title: Large scale proteomic studies create novel privacy considerations
+  authors:
+  - Andrew C Hill
+  - Claire Guo
+  - Elizabeth M Litkowski
+  - Ani W Manichaikul
+  - Bing Yu
+  - Iain R Konigsberg
+  - Betty A Gorbet
+  - Leslie A Lange
+  - Katherine A Pratte
+  - Katerina J Kechris
+  - Matthew DeCamp
+  - Marilyn Coors
+  - Victor E Ortega
+  - Stephen S Rich
+  - Jerome I Rotter
+  - Robert E Gerzsten
+  - Clary B Clish
+  - Jeffrey L Curtis
+  - Xiaowei Hu
+  - Ma-En Obeidat
+  - Melody Morris
+  - Joseph Loureiro
+  - Debby Ngo
+  - Wanda K O'Neal
+  - Deborah A Meyers
+  - Eugene R Bleecker
+  - Brian D Hobbs
+  - Michael H Cho
+  - Farnoush Banaei-Kashani
+  - Russell P Bowler
+  publisher: Scientific Reports 13(1):9254
+  date: '2023-06-07'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10247808/
+  _cache: d32174d02fa18a05c4ffd4693668ad9749a0822b188f400e2c638e6714ebd19f
 - id: pmc:PMC10449810
   title: Quantifying the spatial clustering characteristics of radiographic emphysema
     explains variability in pulmonary function
@@ -13,8 +50,8 @@
   - Nichole E Carlson
   publisher: Scientific Reports 13(1):13862.
   date: '2023-08-24'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10449810
-  _cache: e0792e7bb7ab8c3646ae4b097de641d51caf599f111b237fa233e4a6513b785f
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10449810/
+  _cache: 310f7abc0abe4133ca21e3f89a57b7cf4b0b4a1ef254f43218f7b2696cf6fa5d
 - id: pmc:PMC10601228
   title: 'TreeKernel: interpretable kernel machine tests for interactions between
     -omics and clinical predictors with applications to metabolomics and COPD phenotypes'
