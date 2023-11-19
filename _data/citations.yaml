@@ -17,47 +17,10 @@
   - M Daniele Fallin
   - Heather E Volk
   - Christine Ladd-Acosta
-  publisher: Epigenetics 18(1):2254971
+  publisher: Epigenetics 18(1):2254971.
   date: '2023-12-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10496525/
-  _cache: 5c6ba01562c1121e3b51bfc96cb693da8e40f91a0ab2deefcad897eef685c6d8
-- id: pmc:PMC10247808
-  title: Large scale proteomic studies create novel privacy considerations
-  authors:
-  - Andrew C Hill
-  - Claire Guo
-  - Elizabeth M Litkowski
-  - Ani W Manichaikul
-  - Bing Yu
-  - Iain R Konigsberg
-  - Betty A Gorbet
-  - Leslie A Lange
-  - Katherine A Pratte
-  - Katerina J Kechris
-  - Matthew DeCamp
-  - Marilyn Coors
-  - Victor E Ortega
-  - Stephen S Rich
-  - Jerome I Rotter
-  - Robert E Gerzsten
-  - Clary B Clish
-  - Jeffrey L Curtis
-  - Xiaowei Hu
-  - Ma-En Obeidat
-  - Melody Morris
-  - Joseph Loureiro
-  - Debby Ngo
-  - Wanda K O'Neal
-  - Deborah A Meyers
-  - Eugene R Bleecker
-  - Brian D Hobbs
-  - Michael H Cho
-  - Farnoush Banaei-Kashani
-  - Russell P Bowler
-  publisher: Scientific Reports 13(1):9254
-  date: '2023-06-07'
-  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10247808/
-  _cache: d32174d02fa18a05c4ffd4693668ad9749a0822b188f400e2c638e6714ebd19f
+  _cache: ac0fa05a751789376f586be037258f03b4aef42625a9b58c997c1265892a70a8
 - id: pmc:PMC10449810
   title: Quantifying the spatial clustering characteristics of radiographic emphysema
     explains variability in pulmonary function
@@ -81,10 +44,10 @@
   - Russell Bowler
   - Katerina Kechris
   - Debashis Ghosh
-  publisher: BMC Bioinformatics 24(1):398
+  publisher: BMC Bioinformatics 24(1):398.
   date: '2023-10-25'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601228/
-  _cache: 5242d88b10d9879587eddd976ffb437ce981c8ca05341bfb27059cbb83fc4c61
+  _cache: 7e9a71a9a5babeddbe887ac2063a0c6833379180ab0d4396034189bb69d706d8
 - id: pmc:PMC9821764
   title: 'RCFGL: Rapid Condition adaptive Fused Graphical Lasso and application to
     modeling brain region co-expression networks'
@@ -94,10 +57,10 @@
   - Elle Butler Basner
   - Laura M Saba
   - Katerina Kechris
-  publisher: PLoS Computational Biology 19(1):e1010758
+  publisher: PLoS Computational Biology 19(1):e1010758.
   date: '2023-01-06'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9821764/
-  _cache: d192874e902e48ee516700fe638b4bf9008fa146ce81d0913b08e5767bcd3105
+  _cache: 6d23c734dd9c484f93bed4e97c985280f69d9ff2fb7b4f5362840ab45a25c27b
 - id: pmc:PMC10121008
   title: Deep learning on graphs for multi-omics classification of COPD
   authors:
@@ -109,11 +72,11 @@
   - Farnoush Banaei-Kashani
   - Russell P Bowler
   - Katerina Kechris
-  publisher: PLoS One 18(4):e0284563
+  publisher: PLoS One 18(4):e0284563.
   date: '2023-04-21'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10121008/
-  _cache: 78951bcac1a37364d6b9acf83303671ffebe6242dbf14335830834b210fbe521
-- id: doi:10.1371/journal.pcbi.1008986
+  _cache: 5759495d63f160e64e6fcf86c10594c3011409013cc3ceaad07e485592a97b67
+- id: doi:10.1371/journal.pcbi.1008986.
   title: 'PaIRKAT: A pathway integrated regression-based kernel association test with
     applications to metabolomics and COPD phenotypes'
   authors:
@@ -125,10 +88,10 @@
   - Russell Bowler
   - Katerina Kechris
   - Debashis Ghosh
-  publisher: PLoS Computational Biology.17(10):e1008986
+  publisher: PLoS Computational Biology 17(10):e1008986
   date: '2021-10-22'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8565741/
-  _cache: b4aaab3e4d7c1db76e02c7379711398194402c18d52a80e20db9f67520ebc064
+  _cache: a6f17199c4a4fc233170cea94e9aecee7d97aa3782ef51c918b6d83198d843d9
 - id: pmc:PMC9831052
   title: 'NetSHy: network summarization via a hybrid approach leveraging topological
     properties'
@@ -141,10 +104,10 @@
   - Russell P Bowler
   - Farnoush Banaei-Kashani
   - Katerina J Kechris
-  publisher: Bioinformatics 39(1):btac818
+  publisher: Bioinformatics 39(1):btac818.
   date: '2023-01-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831052/
-  _cache: 3d883ce0f63e60a0380dcafa854aa4535edbd1e3e72975e3b81e400f79461ca6
+  _cache: dafa455148d045a1ffb640d3e4064fd4d0230747d313084efae2630d4c700ab9
 - id: pmc:PMC10086335
   title: Genome-wide analysis of oxylipins and oxylipin profiles in a pediatric population
   authors:
@@ -163,10 +126,10 @@
   - Katerina Kechris
   - Marian Rewers
   - Jill M Norris
-  publisher: Frontiern in Nutrition 10:1040993.
+  publisher: Frontiers in Nutrition 10:1040993.
   date: '2023-03-28'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10086335/
-  _cache: 6fcc7525e7b66cfd8baa54f216fd4a6a68ede1bf5b2308ec534ca723fe091d81
+  _cache: 0c31bf721a02c8c90578be7cbd8e52c539b9f7cec7ae9cf6abf4408cfbb6d864
 - id: pmc:PMC9980626
   title: 'Sex-based differences in placental DNA methylation profiles related to gestational
     age: an NIH ECHO meta-analysis'
@@ -188,24 +151,10 @@
   - T Michael O'Shea
   - Rebecca C Fry
   - ' program collaborators for Environmental influences on Child Health Outcomes'
-  publisher: Epigenetics 18(1):2179726
+  publisher: Epigenetics 18(1):2179726.
   date: '2023-12-01'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9980626/
-  _cache: 216c2636436633129da7a9b754ee6703b333e9d8f2ce2690173e4ce5ecd5aa61
-- id: doi:10.1038/s41598-023-40950-8
-  title: Quantifying the spatial clustering characteristics of radiographic emphysema
-    explains variability in pulmonary function
-  authors:
-  - Brian E. Vestal
-  - Debashis Ghosh
-  - "Ra\xFAl San Jos\xE9 Est\xE9par"
-  - Katerina Kechris
-  - Tasha Fingerlin
-  - Nichole E. Carlson
-  publisher: Scientific Reports 13(1):13862.
-  date: '2023-08-24'
-  link: https://pubmed.ncbi.nlm.nih.gov/37620507/
-  _cache: 589460e1ef7cb073811ac88688843aa04555ee815721b1c7ac064867a5ec8ef0
+  _cache: 9342b4b3d1fc24c6feb21fb2c67119bed146eaceffc6408c82d69851b60134a2
 - id: PMC:PMC10330919
   title: 'Prenatal exposures to per- and polyfluoroalkyl substances and epigenetic
     aging in umbilical cord blood: The Healthy Start study'
