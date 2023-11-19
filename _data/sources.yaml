@@ -1,13 +1,17 @@
+- id: pmc:PMC10496525
+  publisher: Epigenetics 18(1):2254971
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10496525/
+
 - id: pmc:PMC10247808
-  publisher:  Scientific Reports 13(1):9254
+  publisher: Scientific Reports 13(1):9254
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10247808/
 
 - id: pmc:PMC10449810
-  publisher:  Scientific Reports 13(1):13862.
+  publisher: Scientific Reports 13(1):13862.
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10449810/
 
 - id: pmc:PMC10601228
-  publisher:  BMC Bioinformatics 24(1):398
+  publisher: BMC Bioinformatics 24(1):398
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10601228/
 
 - id: pmc:PMC9821764
