@@ -14,6 +14,8 @@ Our group has several focus areas:
 * Examining the genetic and epigenetic factors controlling gene expression, 
 * Exploring the metabolome and 
 * Integrating multiple omics data.
+
+
  We also collaborate with investigators studying chronic obstructive pulmonary 
 disease in the COPDGene genetic epidemiology study, substance use disorders using animal models, and early life 
 determinants of diabetes and obesity in children.
