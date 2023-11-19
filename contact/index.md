@@ -57,7 +57,7 @@ nav:
 
 ### Address
 
-University of Colorado Denver<br>
+University of Colorado Anschutz Medical Campus<br>
 Biostatistics and Informatics<br>
 Colorado School of Public Health<br>
 Fitzsimons Building, W4162<br>
