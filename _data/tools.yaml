@@ -6,7 +6,7 @@
   description: NetSHy Network summarization via a hybrid approach leveraging topological properties. [See Vu et al., 2024](https://pubmed.ncbi.nlm.nih.gov/36548341/). [Github](https://github.com/thaovu1/NetSHy)
 
 - title: RCFGL
-  subtitle: "R code: S. Seal"
+  subtitle: "C/Python: S. Seal"
   group: NETWORK ANALYSIS
   link: https://github.com/sealx017/RCFGL
   image: images/RCFGL.png
