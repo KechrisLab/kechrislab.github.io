@@ -1,5 +1,5 @@
 ---
 name: Justin Selbert
-image: images/droopy.jpg
+image: images/Finn.jpeg
 description: Biostatistics MS Student (2023- )
 ---
