@@ -3,6 +3,7 @@
   group: NETWORK ANALYSIS
   link: https://github.com/thaovu1/NetSHy
   image: images/NetSHy.png
+  description: NetSHy Network summarization via a hybrid approach leveraging topological properties. [See Vu et al., 2024](https://pubmed.ncbi.nlm.nih.gov/36548341/). [Github](https://github.com/thaovu1/NetSHy)
 
 - title: Omics Subtyping
   subtitle: "R, Python, Tensorflow code: E. Stene, S. Helmi, L. Gillenwater."
