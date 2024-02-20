@@ -28,6 +28,12 @@ nav:
 
 {% include section.html %}
 
+## NETWORK ANALYSIS
+
+{% include list.html component="card" data="tools" filters="group: NETWORK ANALYSIS" style="large" %}
+
+{% include section.html %}
+
 ## OMICS INTEGRATION
 
 {% include list.html component="card" data="tools" filters="group: OMICS INTEGRATION" style="large" %}
