@@ -10,8 +10,7 @@
   group: NETWORK ANALYSIS
   link: https://github.com/sealx017/RCFGL
   image: images/RCFGL.png
-  description: RCFGL: Rapid Condition adaptive Fused Graphical Lasso and application to modeling brain region co-expression networks. [See Seal et al., 2024](https://pubmed.ncbi.nlm.nih.gov/36607897/). [Github](https://github.com/sealx017/RCFGL)
-
+  description: RCFGL Rapid Condition adaptive Fused Graphical Lasso and application to modeling brain region co-expression networks. [See Seal et al., 2024](https://pubmed.ncbi.nlm.nih.gov/36607897/). [Github](https://github.com/sealx017/RCFGL)
 
 - title: Omics Subtyping
   subtitle: "R, Python, Tensorflow code: E. Stene, S. Helmi, L. Gillenwater."
