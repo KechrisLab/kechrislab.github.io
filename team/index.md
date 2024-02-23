@@ -87,6 +87,7 @@ Current Position: Professional Research Assistant, CU Anschutz
 + Suneeta Godbole, MS Research Assistant (2020-2023)
 Current Position: Biostatistics PhD Student, CU Anschutz
 + Charles Carpenter, MS Research Assistant (2020-2022)
+Current Position: Statistician, Neptune & Company
 + Max McGrath Research Assistant (2019- 2022)
 Current Position: Research Instructor, CU Anschutz
 + Michael Daniels, MS Biostatistics PhD Student (2016-2018)
