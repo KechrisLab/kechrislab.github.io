@@ -48,7 +48,7 @@ Current Position: Statistical Consultant, Statistically Speaking
 ### Masters Students
 + Jonathan "Trent" VanHawkins Biostatistics MS student (2022-2023, with Wei Perng)
 + Erika Esquinca (2021-2023, with Randi Johnson)
-Current Position: Beckman Coulter Diagnostics, Senior Biostatistican
+Current Position: Senior Biostatistican, Beckman Coulter Diagnostics
 + Sierra Niemiec Biostatistics MS Student (2020-2022, with Anne Starling)
 Current Position: Research Instructor, CU Anschutz
 + Emily Cooper Biostatistics MS Student (2020-2021)
