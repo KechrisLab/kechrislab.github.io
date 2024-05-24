@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC10994553
+  title: 'PathIntegrate: Multivariate modelling approaches for pathway-based multi-omics
+    data integration'
+  authors:
+  - Cecilia Wieder
+  - Juliette Cooke
+  - Clement Frainay
+  - Nathalie Poupin
+  - Russell Bowler
+  - Fabien Jourdan
+  - Katerina J Kechris
+  - Rachel Pj Lai
+  - Timothy Ebbels
+  publisher: PLoS Computational Biology 20(3):e1011814.
+  date: '2024-03-25'
+  link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10994553/
+  _cache: 66c7b646fb43259c837463dff800e7b65c86aead3f20142338d6c8c1faf96508
 - id: pmc:PMC10496525
   title: 'Accelerated epigenetic age at birth and child emotional and behavioura development
     in early childhood: a meta-analysis of four prospective cohort studies in ECHO'
