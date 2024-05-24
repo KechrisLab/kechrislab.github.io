@@ -18,6 +18,27 @@
   date: '2024-03-25'
   link: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10994553/
   _cache: 66c7b646fb43259c837463dff800e7b65c86aead3f20142338d6c8c1faf96508
+- id: doi:10.1002/oby.23915
+  title: Cord blood DNA methylation of immune and lipid metabolism genes is associated
+    with maternal triglycerides and child adiposity
+  authors:
+  - Stephanie W. Waldrop
+  - Sierra Niemiec
+  - Cheyret Wood
+  - Lauren E. Gyllenhammer
+  - Thomas Jansson
+  - Jacob E. Friedman
+  - Jeanie B. Tryggestad
+  - Sarah J. Borengasser
+  - Elizabeth J. Davidson
+  - Ivana V. Yang
+  - Katerina Kechris
+  - Dana Dabelea
+  - Kristen E. Boyle
+  publisher: Obesity 32(1):187-199.
+  date: '2023-10-23'
+  link: https://onlinelibrary.wiley.com/doi/10.1002/oby.23915
+  _cache: 58fc03073af723963c4c9f8af6d4660724f7cf1636c575e00743e2e08eb253fc
 - id: pmc:PMC10496525
   title: 'Accelerated epigenetic age at birth and child emotional and behavioura development
     in early childhood: a meta-analysis of four prospective cohort studies in ECHO'
