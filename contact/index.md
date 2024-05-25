@@ -9,7 +9,7 @@ nav:
 
 {%
   include figure.html
-  image="images/CUHeadshots-052024-1184.jpg"
+  image="images/CUHeadshots-052024-1184-web-cropped.jpg"
   width = "25%"
 %}
 
