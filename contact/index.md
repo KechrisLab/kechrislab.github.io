@@ -9,7 +9,7 @@ nav:
 
 {%
   include figure.html
-  image="images/KaterinaKechris2022-headshot-v2.jpg"
+  image="images/CUHeadshots-052024-1184.jpg"
   width = "25%"
 %}
 
