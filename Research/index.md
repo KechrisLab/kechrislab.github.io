@@ -42,7 +42,7 @@ The Multi- Omics and NETwork analysis workshop (MONET) will provide a 7-day imme
 researchers each summer 2024-2028 to learn about multi-omics analysis and the application of network methods 
 through ~50 hours of lectures, discussion sessions, computational labs, tours and team exercises.
 
-## Multi-omic Networks Associated with COPD progression in TOPMed Cohorts
+## Multi-Omic Networks Associated with COPD progression in TOPMed Cohorts
 Role: Multi-PI (Kechris, Banaei-Kashani, Bowler, Lange); NIH/NHLBI R01 HL152735 2020-2025 (NCE)
 
 To help identify why only some smokers develop COPD, this proposal will integrate recently collected extensive 
