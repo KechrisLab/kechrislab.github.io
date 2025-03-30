@@ -16,10 +16,10 @@
   - Oliver Fiehn
   - Marian Rewers
   - Jill M Norris
-  publisher: Frontiers in immunology
+  publisher: Frontiers Immunology 10:15:1345494.
   date: '2024-06-10'
   link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11194352/
-  _cache: d168402bc0832e17a7293b60152bbf531eef9ddb74976d3b26f2b33984d2de9f
+  _cache: f08b800d85e00cc594bc67407e50999429d7d7c9d9d1df785a8e2e0195897396
 - id: pmc:PMC10994553
   title: 'PathIntegrate: Multivariate modelling approaches for pathway-based multi-omics
     data integration'
