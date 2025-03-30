@@ -1,47 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: pmc:PMC11486027
-  title: Differentially methylated regions interrogated for metastable epialleles
-    associate with offspring adiposity
-  authors:
-  - Stephanie W Waldrop
-  - Katherine A Sauder
-  - Sierra S Niemiec
-  - Katerina J Kechris
-  - Ivana V Yang
-  - Anne P Starling
-  - Wei Perng
-  - Dana Dabelea
-  - Sarah J Borengasser
-  publisher: "Epigenomics 16(18):1215\u20131230."
-  date: '2024-01-01'
-  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11486027/
-  _cache: d6c582d743f42ec7937e8aa5c36052c4162e824209d8f8b362dd7cd738f71505
-- id: pmc:PMC11370252
-  title: Proteomic networks and related genetic variants associated with smoking and
-    chronic obstructive pulmonary disease
-  authors:
-  - Iain R Konigsberg
-  - Thao Vu
-  - Weixuan Liu
-  - Elizabeth M Litkowski
-  - Katherine A Pratte
-  - Luciana B Vargas
-  - Niles Gilmore
-  - Mohamed Abdel-Hafiz
-  - Ani Manichaikul
-  - Michael H Cho
-  - Craig P Hersh
-  - Dawn L DeMeo
-  - Farnoush Banaei-Kashani
-  - Russell P Bowler
-  - Leslie A Lange
-  - Katerina J Kechris
-  publisher: BMC Genomics 25:825.
-  date: '2024-09-02'
-  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11370252/
-  _cache: 17d12300ae95df7e18587f2f6aa202023bbc21548aee122d721be4f3cee3bff8
 - id: pmc:PMC11344457
   title: 'Smccnet 2.0: a comprehensive tool for multi-omics network inference with
     shiny visualization'
