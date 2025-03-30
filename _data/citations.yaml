@@ -1,6 +1,19 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1080/00949655.2024.2329976
+  title: Limitations of clustering with PCA and correlated noise
+  authors:
+  - William Lippitt
+  - Nichole E. Carlson
+  - Jaron Arbet
+  - Tasha E. Fingerlin
+  - Lisa A. Maier
+  - Katerina Kechris
+  publisher: Journal of Statistical Computation and Simulation 94(10):2291-2319.
+  date: '2024-05-05'
+  link: https://www.tandfonline.com/doi/full/10.1080/00949655.2024.2329976
+  _cache: 1a88a105d5dd1849d048872f3bcb85fa84bdc1c876526493670d98bf7cbdba37
 - id: pmc:PMC11276882
   title: Maternal Serum Metabolomics in Mid-Pregnancy Identifies Lipid Pathways as
     a Key Link to Offspring Obesity in Early Childhood
