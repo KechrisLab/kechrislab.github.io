@@ -34,6 +34,8 @@ Current Position: Assistant Professor, Statistics, Oklahoma State University
 Current Position: Lead Data Scientist, zeroG AI in Aviation
 
 ### PhD Students
++ Weixuan Liu, PhD Biostatistics PhD Student (2019-2024)
+Current Position: Data Science Manager, GSK
 + Yonghua Zhuang, PhD Biostatistics PhD Student (2017-2022)
 Current Position: Assistant Professor, Biostatistics and Bioinformatics Shared Service at Cancer Center, CU Anschutz
 + Charlotte Siska Computational Bioscience PhD Student (2012-2016)
