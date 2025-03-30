@@ -79,7 +79,7 @@ Current Position: Assistant Professor of Clinical Investigation, University of U
 
 ### Other Students
 + Eitan Halper-Stromberg Phd Medical Student (2018-2019, with Russell Bowler)
-Current Position: Pathology Resident, Johns Hopkins University
+Current Position: Assistant Professor of Clinical Pathology and Laboratory Medicine, University of Pennsylvania
 + Lucas Gillenwater Epidemiology MPH Student (2018, with Russell Bowler)
 Current Position: PhD Student, Computational Bioscience, CU Anschutz
 + Corey Cox Biomedical Sciences and Biotechnology MPS Student (2018)
@@ -87,7 +87,7 @@ Current Position: Sr. Professional Research Assistant, CU Anschutz
 
 ### Research Assistants
 + Sakaiza Rasolofomanana Rajery, Research Assistant (2021-2023)
-Current Position: Professional Research Assistant, CU Anschutz
+Current Position: PhD Student, HMGGP Program, CU Anschutz
 + Suneeta Godbole, MS Research Assistant (2020-2023)
 Current Position: Biostatistics PhD Student, CU Anschutz
 + Charles Carpenter, MS Research Assistant (2020-2022)
