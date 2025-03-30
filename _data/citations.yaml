@@ -1,6 +1,114 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC11857688
+  title: Identification of Plasma Metabolites Responding to Oxycodone Exposure in
+    Rats
+  authors:
+  - Thao Vu
+  - Suneeta Godbole
+  - Lieselot L G Carrette
+  - Lisa Maturin
+  - Olivier George
+  - Laura M Saba
+  - Katerina Kechris
+  publisher: Metabolites 15(2):95
+  date: '2025-02-04'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11857688/
+  _cache: 483c592c240b6a603eed8b7fae1dfeb0f990e2f65e5aebbdce8064316975b968
+- id: pmc:PMC11767189
+  title: 'DisCo P-ad: Distance-Correlation-Based <i><b>p</b></i>-Value Adjustment
+    Enhances Multiple Testing Corrections for Metabolomics'
+  authors:
+  - Debmalya Nandy
+  - Debashis Ghosh
+  - Katerina Kechris
+  publisher: Metabolites 15(1):28
+  date: '2025-01-08'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11767189/
+  _cache: 36f25a0fd609c0e01ce2183062c7d8660ff941c1705a98dc0c6dca26028da87c
+- id: pmc:PMC11707799
+  title: Death and survival of gut CD4 T cells following HIV-1 infection ex vivo
+  authors:
+  - Kaylee L Mickens
+  - Stephanie M Dillon
+  - Kejun Guo
+  - Ashley N Thompson
+  - Bradley S Barrett
+  - Cheyret Wood
+  - Katerina Kechris
+  - Mario L Santiago
+  - Cara C Wilson
+  publisher: PNAS Nexus 3(11):486.
+  date: '2024-10-29'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11707799/
+  _cache: b3f7cd93fac061949f3bc7414b22144c8a0c2d0266e9de5fdcfd63dc2549efad
+- id: pmc:PMC11677693
+  title: Metabolic Aging as an Increased Risk for Chronic Obstructive Pulmonary Disease
+  authors:
+  - Claire J Guo
+  - Suneeta Godbole
+  - Wassim W Labaki
+  - Katherine A Pratte
+  - Jeffrey L Curtis
+  - Robert Paine
+  - Eric Hoffman
+  - Meilan Han
+  - Jill Ohar
+  - Christopher Cooper
+  - Katerina J Kechris
+  - Dawn L DeMeo
+  - Russell P Bowler
+  publisher: Metabolites 14(12):647.
+  date: '2024-11-21'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11677693/
+  _cache: 6a614db843bc2079d1359b236de0e4a8a128aa528e0532cb4eaa4ab4a24a6899
+- id: pmc:PMC11581413
+  title: Kernel machine tests of association using extrinsic and intrinsic cluster
+    evaluation metrics
+  authors:
+  - Alexandria M Jensen
+  - Peter DeWitt
+  - Brianne M Bettcher
+  - Julia Wrobel
+  - Katerina Kechris
+  - Debashis Ghosh
+  publisher: PLoS Computational Biology 20(11):e1012524.
+  date: '2024-11-11'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11581413/
+  _cache: cdb5f2c3ee6198b3651173ae32ec4dbb4bb0d02a0c93f2884c3294479e1e1902
+- id: doi:10.1016/j.ijheh.2024.114464
+  title: Prenatal black carbon exposure and DNA methylation in umbilical cord blood
+  authors:
+  - Chloe Friedman
+  - Sierra Niemiec
+  - Dana Dabelea
+  - Katerina Kechris
+  - Ivana V. Yang
+  - John L. Adgate
+  - Deborah H. Glueck
+  - Sheena E. Martenies
+  - Sheryl Magzamen
+  - Anne P. Starling
+  publisher: International Journal of Hygiene and Environmental Health 263:114464.
+  date: '2025-01-01'
+  link: https://www.sciencedirect.com/science/article/abs/pii/S1438463924001457
+  _cache: 76e404b6cc054e3f9509385941545bf652c933958ce5dd272b15bf5b08ae3eab
+- id: doi:10.1111/ijpo.13172
+  title: The predictive utility of the in utero exposome for childhood adiposity in
+    independent and integrated frameworks
+  authors:
+  - Jonathan VanHawkins
+  - Ryan Peterson
+  - Kylie Harrall
+  - Brandy Moon
+  - Dana Dabelea
+  - Katerina Kechris
+  - Wei Perng
+  publisher: Pediatric Obesity 19(12):e13172.
+  date: '2024-09-26'
+  link: https://onlinelibrary.wiley.com/doi/10.1111/ijpo.13172
+  _cache: 36d51b85ba31a22d6c16564a04bc78555b68cc146eb80ed95da0e1bb1b9dda41
 - id: pmc:PMC11486027
   title: Differentially methylated regions interrogated for metastable epialleles
     associate with offspring adiposity
