@@ -1,6 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC11194352
+  title: Longitudinal changes in DNA methylation during the onset of islet autoimmunity
+    differentiate between reversion versus progression of islet autoimmunity
+  authors:
+  - Patrick M Carry
+  - Lauren A Vanderlinden
+  - Randi K Johnson
+  - Teresa Buckner
+  - Andrea K Steck
+  - Katerina Kechris
+  - Ivana V Yang
+  - Tasha E Fingerlin
+  - Oliver Fiehn
+  - Marian Rewers
+  - Jill M Norris
+  publisher: Frontiers in immunology
+  date: '2024-06-10'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11194352/
+  _cache: d168402bc0832e17a7293b60152bbf531eef9ddb74976d3b26f2b33984d2de9f
 - id: pmc:PMC10994553
   title: 'PathIntegrate: Multivariate modelling approaches for pathway-based multi-omics
     data integration'
