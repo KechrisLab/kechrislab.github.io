@@ -1,6 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC11276882
+  title: Maternal Serum Metabolomics in Mid-Pregnancy Identifies Lipid Pathways as
+    a Key Link to Offspring Obesity in Early Childhood
+  authors:
+  - Ellen C Francis
+  - Katerina Kechris
+  - Randi K Johnson
+  - Shristi Rawal
+  - Wimal Pathmasiri
+  - Blake R Rushing
+  - Xiuxia Du
+  - Thomas Jansson
+  - Dana Dabelea
+  - Susan J Sumner
+  - Wei Perng
+  publisher: International Journal of Molecular Sciences 25(14):7620.
+  date: '2024-07-11'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11276882/
+  _cache: 458dae8e0113cf743f175891bda305ac8d3fae43b35f75f7507696465cc0ab58
 - id: pmc:PMC11194352
   title: Longitudinal changes in DNA methylation during the onset of islet autoimmunity
     differentiate between reversion versus progression of islet autoimmunity
