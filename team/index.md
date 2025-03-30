@@ -61,6 +61,7 @@ Current Position: Research Instructor, CU Anschutz
 + Jonathan Dekermanjian Biostatistics MS Student (2019-2021, with Debashis Ghosh)
 Current Position: Senior Data Scientist, Recovery Centers of America
 + Guannan Shen Biostatistics MS Student (2018-2019, with Miranda Kroehl)
+Current Position: Research Services Professional, Biostatistics and Analytic Core, ACCORDS, CU Anschutz
 + Cuining Liu Biostatistics MS Student (2017-2019)
 Current Position: PhD Student, UCLA
 + Gordon Kordas Biostatistics MS Student (2018-2019)
