@@ -1,3 +1,31 @@
+- id: pmc:PMC11857688
+  publisher: Metabolites 15(2):95
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11857688/
+
+- id: pmc:PMC11767189
+  publisher: Metabolites 15(1):28
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11767189/
+
+- id: pmc:PMC11707799
+  publisher: PNAS Nexus 3(11):486.
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11707799/
+
+- id: pmc:PMC11677693
+  publisher: Metabolites 14(12):647.
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11677693/
+
+- id: pmc:PMC11581413
+  publisher: PLoS Computational Biology 20(11):e1012524.
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11581413/
+
+- id: doi:10.1016/j.ijheh.2024.11446
+  publisher: International Journal of Hygiene and Environmental Health 263:114464.
+  link: https://www.sciencedirect.com/science/article/abs/pii/S1438463924001457?via%3Dihub
+
+- id: doi:10.1111/ijpo.13172
+  publisher: Pediatric Obesity 19(12):e13172.
+  link: https://onlinelibrary.wiley.com/doi/10.1111/ijpo.13172
+
 - id: pmc:PMC11486027
   publisher: Epigenomics 16(18):1215–1230.
   link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11486027/
