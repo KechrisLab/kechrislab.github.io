@@ -1,8 +1,8 @@
 ---
-title: Courses
+title: Teaching
 nav:
   order: 6
-  tooltip: Classes
+  tooltip: Teaching
 ---
 
 # TEACHING BY KATERINA J. KECHRIS
