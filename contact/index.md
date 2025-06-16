@@ -27,6 +27,8 @@ nav:
 + Associate Director of Data Science, [Center for Innovation Design and Analysis (CIDA)](https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/cida)
 + Director, [Computational Bioscience Program](https://www.cuanschutz.edu/graduate-programs/computational-bioscience/home)
 + Director, [Multi Omics NETwork Analysis Workshop](https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/cida/learning/multi-omics-network-analysis-workshop)
++ Coordinating Center Director (with Ivana Yang, Leslie Lange, Wei Perng), [Definition, Etiology, Function: INtegration to Enhance Type 2 Diabetes (DEFINE-T2D) Consortium]([https://coloradosph.cuanschutz.edu/research-and-practice/centers-programs/cida/learning/multi-omics-network-analysis-workshop](https://www.cuanschutz.edu/define-t2d/home)  
+
 + [Biostatistics and Informatics](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Pages/welcome.aspx)
   + Please see [MS Program](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Academics/Pages/MSBIOS.aspx) and [PhD Program](http://www.ucdenver.edu/academics/colleges/PublicHealth/Academics/departments/Biostatistics/Academics/Pages/PhDBIOS.aspx) for more information on our graduate degrees.
 + [Colorado Center for Personalized Medicine](https://www.cobiobank.org/)
