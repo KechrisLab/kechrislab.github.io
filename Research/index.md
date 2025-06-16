@@ -23,7 +23,7 @@ determinants of diabetes and obesity in children.
 
 {% capture col2 %}
 
-# ACTIVE GRANTS
+# RESEARCH GRANTS
 
 
 ## Definition, Etiology, Function: INtegration to Enhance Type 2 Diabetes (DEFINE T2D) Consortium  Biostatistics Research Center (BRC)
@@ -43,7 +43,7 @@ molecular multi-omic profiles from three NHLBI cohorts to discover molecular net
 COPD diagnosis and progression.
 
 
-###Training Grants
+# TRAINING GRANTS
 
 ## Multi-Omics and NETwork Analysis Summer Workshop (MONET)
 Role: PI (Kechris); NIH/NHBLI R25 HG013296 2024-2029
