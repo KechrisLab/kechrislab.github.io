@@ -16,8 +16,8 @@ nav:
 ## Multi-Omics and NETwork Analysis Summer Workshop (MONET)
 Role: PI (Kechris); NIH/NHBLI R25 HG013296 2024-2029
 
-The Multi- Omics and NETwork analysis workshop (MONET) will provide a 7-day immersive experience for ~25 
-researchers each summer 2024-2028 to learn about multi-omics analysis and the application of network methods 
+The Multi-Omics and NETwork analysis workshop (MONET) will provide a 7-day immersive experience for ~30
+researchers each summer 2025-2028 to learn about multi-omics analysis and the application of network methods 
 through ~50 hours of lectures, discussion sessions, computational labs, tours and team exercises.
 
 ## Colorado Biomedical Informatics Training Program
