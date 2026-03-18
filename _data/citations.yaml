@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC11857268
+  title: Matrix Linear Models for Connecting Metabolite Composition to Individual
+    Characteristics
+  authors:
+  - Gregory Farage
+  - Chenhao Zhao
+  - Hyo Young Choi
+  - Timothy J Garrett
+  - Marshall B Elam
+  - Katerina Kechris
+  - "\u015Aaunak Sen"
+  publisher: Metabolites 15(2):140
+  date: '2025-02-19'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11857268/
+  _cache: 130a53539a7576c7605e3f5aa9a4671c8f7248e662fb8bfd7ce76b0ab11d94dc
 - id: pmc:PMC12282525
   title: Prenatal black carbon exposure and DNA methylation in umbilical cord blood
   authors:
