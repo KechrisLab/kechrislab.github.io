@@ -1,3 +1,15 @@
+- id: doi:10.1016/j.jaci.2025.07.035
+  publisher: J Allergy Clin Immunol 157(1):253-261
+  link: https://linkinghub.elsevier.com/retrieve/pii/S0091674925009388
+
+- id: pmc:PMC12368367
+  publisher: Diabetes Care 48(9):1628-1636
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC12368367/
+
+- id: pmc:PMC12051928
+  publisher: Am J Respir Cell Mol Biol 72(5):594-597
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC12051928/
+
 - id: pmc:PMC11996223
   publisher: PLoS Computational Biology 21(4):e1011842
   link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11996223/
