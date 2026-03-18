@@ -1,6 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC12282525
+  title: Prenatal black carbon exposure and DNA methylation in umbilical cord blood
+  authors:
+  - Chloe Friedman
+  - Sierra Niemiec
+  - Dana Dabelea
+  - Katerina Kechris
+  - Ivana V Yang
+  - John L Adgate
+  - Deborah H Glueck
+  - Sheena E Martenies
+  - Sheryl Magzamen
+  - Anne P Starling
+  publisher: Int J Hyg Environ Health.263:114464
+  date: '2025-01-01'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC12282525/
+  _cache: 01bce705d7e9d285547eb1372fff8e4d542b30de198484967371800c1fb831b5
 - id: pmc:PMC11857688
   title: Identification of Plasma Metabolites Responding to Oxycodone Exposure in
     Rats
