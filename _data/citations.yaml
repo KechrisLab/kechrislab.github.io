@@ -1,6 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: pmc:PMC11996223
+  title: A generalized higher-order correlation analysis framework for multi-omics
+    network inference
+  authors:
+  - Weixuan Liu
+  - Katherine A Pratte
+  - Peter J Castaldi
+  - Craig Hersh
+  - Russell P Bowler
+  - Farnoush Banaei-Kashani
+  - Katerina J Kechris
+  publisher: PLoS Computational Biology 21(4):e1011842
+  date: '2025-04-14'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11996223/
+  _cache: 4c90ab0a281e8af1aa21492185585ff627d06f292d406db12a7214d76d536b07
 - id: pmc:PMC11857268
   title: Matrix Linear Models for Connecting Metabolite Composition to Individual
     Characteristics
