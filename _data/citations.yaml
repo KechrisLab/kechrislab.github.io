@@ -1,6 +1,75 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.jaci.2025.07.035
+  title: Prediction and characterization of genetically regulated expression of asthma
+    tissues from African-ancestry populations
+  authors:
+  - Sarah D. Slack
+  - Erika Esquinca
+  - Christopher H. Arehart
+  - Meher Preethi Boorgula
+  - Brooke Szczesny
+  - Alex Romero
+  - Monica Campbell
+  - Sameer Chavan
+  - Nicholas Rafaels
+  - Harold Watson
+  - R. Clive Landis
+  - Nadia N. Hansel
+  - Charles N. Rotimi
+  - Christopher O. Olopade
+  - Camila A. Figueiredo
+  - Carole Ober
+  - Andrew H. Liu
+  - Eimear E. Kenny
+  - Kai Kammers
+  - Ingo Ruczinski
+  - Margaret A. Taub
+  - Michelle Daya
+  - Christopher R. Gignoux
+  - Katerina Kechris
+  - Kathleen C. Barnes
+  - Rasika A. Mathias
+  - Randi K. Johnson
+  publisher: J Allergy Clin Immunol 157(1):253-261
+  date: '2026-01-01'
+  link: https://linkinghub.elsevier.com/retrieve/pii/S0091674925009388
+  _cache: 46b680f916cda1e615be26ca9bd1d04743b795d061feb73a860f83a80e77fee3
+- id: pmc:PMC12368367
+  title: DNA Methylation Smoking Scores and Risk of Islet Autoimmunity and Type 1
+    Diabetes
+  authors:
+  - Lauren A Vanderlinden
+  - Ellen Wong
+  - Randi K Johnson
+  - Patrick Carry
+  - Fran Dong
+  - Katerina Kechris
+  - Marian Rewers
+  - Jill M Norris
+  publisher: Diabetes Care 48(9):1628-1636
+  date: '2025-09-01'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC12368367/
+  _cache: 8809ef953f274396fdf9d1f084a7904da22fc7f440e65432412c8e2d6f163f13
+- id: pmc:PMC12051928
+  title: A Pilot Study on the Impact of Vaping on Adolescent Lung Function and Nasal
+    Epithelial Gene Expression
+  authors:
+  - Sarah Commodore
+  - Jonathan Hawkins
+  - Cheyret Wood
+  - Cuining Liu
+  - Russell P Bowler
+  - Laura Crotty Alexander
+  - Peter Castaldi
+  - Fernando Holguin
+  - Katerina Kechris
+  - Sunita Sharma
+  publisher: Am J Respir Cell Mol Biol 72(5):594-597
+  date: '2025-05-01'
+  link: https://pmc.ncbi.nlm.nih.gov/articles/PMC12051928/
+  _cache: 1eb154094a4e2155a6bd90fe108d8e49e69c131dbf680e5f2dca3f7463a38100
 - id: pmc:PMC11996223
   title: A generalized higher-order correlation analysis framework for multi-omics
     network inference
