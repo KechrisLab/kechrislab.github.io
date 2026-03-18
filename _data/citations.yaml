@@ -1,6 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1183/13993003.02091-2025
+  title: Nasal epithelium and blood transcriptomic signatures associations with smoking
+    and exacerbations
+  authors:
+  - Vickram Tejwani
+  - Arunangshu Sarkar
+  - Claire J. Guo
+  - Satria Sajuthi
+  - Peter Castaldi
+  - Laura E. Crotty Alexander
+  - Igor Z. Barjaktarevic
+  - Alejandro P. Comellas
+  - Jennifer Dawson
+  - Dawn L. DeMeo
+  - Craig P. Hersh
+  - Lisa Ruvuna
+  - Sunita Sharma
+  - Edwin K. Silverman
+  - Katherine A. Pratte
+  - Max Seibold
+  - Katerina Kechris
+  - Russell P. Bowler
+  publisher: Eur Respir J 67(2):2502091
+  date: '2025-12-11'
+  link: https://publications.ersnet.org/content/erj/67/2/2502091
+  _cache: f68aee70f7d34b9c9dce91ccbfd0e94213570bf48d8c19e6482e12c6dace0374
 - id: doi:10.1210/clinem/dgaf578
   title: Increased Levels of the Vitamin D Metabolite Ratio Are Protective Against
     Progression From Islet Autoimmunity to T1D
