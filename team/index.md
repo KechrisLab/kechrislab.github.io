@@ -48,6 +48,7 @@ Current Position: Bioinformatics Consultant, Bioinformatics CRO
 Current Position: Statistical Consultant, Statistically Speaking
 
 ### Masters Students
++ Emily Aaron Statistics MS Student (2024-2025)
 + Jonathan "Trent" VanHawkins Biostatistics MS student (2022-2023, with Wei Perng)
 Current Position: PhD Student, Statistics, Oregon State University
 + Erika Esquinca (2021-2023, with Randi Johnson)
