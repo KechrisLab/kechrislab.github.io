@@ -1,5 +1,5 @@
 ---
 name: Diana Felipe
-image: FelipeDiana.jpg
+image: images/FelipeDiana.jpg
 description: Biostatistics MS student (2025 - )
 ---
